@@ -2,7 +2,9 @@
 Aqua is a small autounomous vessel for research and aquatic engineering learning. 
 This project pretends to considerer to be envitronmentaly sustaible from start to end: meaning that,
 all the steps, from fabrication to the end of life, should be environmentally freindly. This group should
-always be under the 4R's principles. 
+always be under the 4R's principles.
+
+> Portugal is 97% water
 
 # Team
 António Gonçalves, Lab Aberto FAB LAB coordinator, control systems
