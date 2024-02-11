@@ -1,5 +1,5 @@
 # RESUME
-Aqua is a small autounomous vessel for research and aquatic engineering learning. 
+Aqua is a small autonomous vessel for research and aquatic engineering learning. 
 This project pretends to considerer to be envitronmentaly sustaible from start to end: meaning that,
 all the steps, from fabrication to the end of life, should be environmentally freindly. This team values should
 always be under the 4R's and circular economy principles, at least to a 70% degree.
