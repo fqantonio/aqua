@@ -25,3 +25,9 @@ This project is documentend as journal in the file with the name "AQUA journal".
 # STATE OF THE ART
 
 At this moment we are finnishing the hulls by painting in a process that is not environmentally friendly as we suspected: so, we plan to produce this catamara in a different way by taking the 3D printing strategy further.
+
+# SUPPORT
+
+Associação Lab Aberto FAB LAB
+António Marçal, Marçal metalomecânica
+Marko Mauser, [Mauser](https://mauser.pt/?utm_source=google&utm_medium=cpc&utm_campaign=search_brand_pt_001&utm_content=mauser&gad_source=1&gclid=CjwKCAiA_aGuBhACEiwAly57MfYggrbJNd3FRifiKndPK_6_WwrcwMlByGgxem8fa2yWEnCWJJE8XRoCIusQAvD_BwE)
