@@ -16,7 +16,7 @@ Nuno Gomes, CEO XYZLAB
 David Rodrigues, PhD, avoidance systems
 
 # HISTORY
-This starts in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/)), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre as the local instructor and Luís Carvão as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
+This starts in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre as the local instructor and Luís Carvão as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
 
 Since then, we've supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team where we were the winners of 2018 Sunset Hackathon. At this moment we gather. informally, a few experties of different areas to develop a project that need time to set the hulls on the water.
 
