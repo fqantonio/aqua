@@ -25,3 +25,6 @@ HARDWARE
  - [Further Testing of Materials for Radio Controlled Yachts][https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
  - [How to 3D print a boat](https://arcticchallenge.co.uk/2022/03/13/how-to-3d-print-a-boat/)
  - [3D Printed Boats: Everything You Need to Know](https://www.nikkoindustries.com/blogs/news/3d-printed-boats-everything-you-need-to-know)
+
+EXAMPLES
+ - [A New Approach to 3D Printing a Yacht Hull Mold](https://blog.thermwood.com/en-us/a-new-approach-to-3d-printing-a-yacht-hull-mold)
