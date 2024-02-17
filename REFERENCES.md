@@ -5,7 +5,7 @@ Volume 199, May 2022, 109903](https://www.sciencedirect.com/science/article/abs/
 - [Mechanical Degradation of 3D Printed PLA in Simulated Marine Environment, Surfaces and Interfaces
 Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/abs/pii/S2468023020307707)
  - [Mechanical Degradation of 3D Printed PLA in Simulated Marine Environment](https://iopscience.iop.org/article/10.1088/1755-1315/424/1/012013)
- - [https://makenica.com/how-to-waterproof-your-3d-prints/](3D print waterproof)
+ - [3D print waterproof](https://makenica.com/how-to-waterproof-your-3d-prints/)
 
 BIO MATERIALS
 - Hart Smart Products, PHA video: [https://www.youtube.com/watch?v=HT4aw-lRMfY](video)
