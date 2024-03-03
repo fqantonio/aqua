@@ -13,10 +13,22 @@ CAD design
 ## September ##
 Printed parts at MAUSER 3D printing services:[MAUSER](https://mauser.pt/catalog/)
 
+### Security ###
+
+Using gloves and special masks.
 
 # 2024 #
 ## Jannuary ##
 Glueing the parts at the António Narçal workshop.
+Workshop overview!
+
+We are using the bodyboard as a testing for all of the processes.
+
+
+![](Photos/AQUA33.JPG)
+
+
+![](Photos/AQUA34.JPG)
 
 ![](Photos/AQUA24.JPG)
 
