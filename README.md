@@ -16,9 +16,13 @@ Nuno Gomes, CEO XYZLAB
 David Rodrigues, PhD, avoidance systems
 
 # HISTORY
-This starts in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
+This starts is based in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
 
-Since then, we've supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team, with that we were the winners of 2018 Sunset Hackathon. At this moment we gather, informally, a few experties of different areas to develop a project that need time to set the hulls on the water. We have a "AQUA" which is a body board with same components to serve as pilot test platform. And we are building a first prototyping more close to a small catamaran vessel for inside water bodies training and research.
+Since then, the Lab Aberto FAB LAB have supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team, with that they were the winners of 2018 Sunset Hackathon. 
+
+At this moment we gather, informally, a few experties of different areas to develop a project that need time to set the hulls on the water. We have a "AQUA" which is a body board with same components to serve as pilot test platform, owned by tha Lab Aberto FAB LAB assotiation. And we are a spinoff of LAB ABERTO FAB LAB, building a first prototyping more close to a small catamaran vessel for inside water bodies training and research.
+
+After being tested we will deliver it to the MARE in Peniche - Portugal (this is a depratment of the Polytechnic Institue of Leiria) for further testing in a real framework of researchers and students. 
 
 
 # STATE OF THE ART
