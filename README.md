@@ -31,7 +31,7 @@ At this moment we are finnishing the hulls by painting them, in a process that i
 
 ![painting AQUA](Photos/AQUA21.JPG)
 
-This project is documented as a journal in the file with the name "AQUA journal".
+This project is documented as a journal in the file with the name "journal".
 
 # SUPPORT
 
