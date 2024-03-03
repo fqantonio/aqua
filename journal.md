@@ -1,9 +1,13 @@
 #2019
+
 ##July##
+
 idea
 
 #2023
+
 ##July##
+
 CAD design
 
 ##September##
