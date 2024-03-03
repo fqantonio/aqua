@@ -16,7 +16,7 @@ Printed parts at MAUSER 3D printing services:[MAUSER](https://mauser.pt/catalog/
 
 # 2024 #
 ## Jannuary ##
-Gluing the parts at the António Narçal workshop.
+Glueing the parts at the António Narçal workshop.
 
 ![](Photos/AQUA24.JPG)
 
@@ -27,7 +27,41 @@ Gluing the parts at the António Narçal workshop.
 ![](Photos/AQUA31.JPG)
 
 ## February ##
-Resin the hulls. because of the weather its was a very slow process. 
-We never reach the minimum temperature of 21 degrees.
+Resin the hulls. Because of the weather its was a very slow process. 
+We never reach the minimum temperature of 21 degrees and 60% of humidity.
+
+
+![](Photos/AQUA2.JPG)
+
+
+![](Photos/AQUA9.JPG)
+
+
+![](Photos/AQUA11.JPG)
+
+
+![](Photos/AQUA23.JPG)
+
+
+![](Photos/AQUA32.JPG)
+
+And what an ammount of garbadge.
+
+![](Photos/AQUA17.JPG)
+
+![](Photos/AQUA18.JPG)
+
+
+![](Photos/AQUA19.JPG)
+
+
+![](Photos/AQUA20.JPG)
+
+Primary painting. All the errors appear!
+
+![](Photos/AQUA21.JPG)
+
 
 ## March ##
+
+Fill the holes and repaint after sanding, ssanding and sanding. repaint again.
