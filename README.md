@@ -10,6 +10,8 @@ The catamarã is a 1,2 m long and it pretends to be used in inside waters in goo
 
 Because of this fact, we think that Portugal should set this strategy as a major footprint: taking care of the sea by knowing about it and defende it as an asset for the long future.
 
+![First Render of AQUA](Photos/aqua_render1.png)
+
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator, control systems  
 Nuno Gomes, CEO XYZLAB  
