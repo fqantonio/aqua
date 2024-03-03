@@ -2,7 +2,7 @@
 
 ## July ##
 
-idea
+idea: build a small catamara (1,2 m) to be used on maritime training and research. It should be 70% sustainable from A to Z. It should use 3D printing with new materials, more environmentally friendly.
 
 # 2023
 
