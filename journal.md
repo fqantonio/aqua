@@ -80,7 +80,15 @@ Fill the holes and repaint after sanding, sanding and sanding. Repaint again. Th
 
 ## April ##
 
-in April we did the UV paint with this brand and apply the logos.
+In April we finnaly concluded the painting.
+
+![](Photos/AQUA35.JPG)
+
+![](Photos/AQUA36.JPG)
+
+We did the UV paint with this brand.
+
+![](Photos/AQUA37.JPG)
 
 ## May ##
 
