@@ -76,4 +76,14 @@ Primary painting. All the errors appear!
 
 ## March ##
 
-Fill the holes and repaint after sanding, ssanding and sanding. repaint again.
+Fill the holes and repaint after sanding, sanding and sanding. Repaint again. This process is not going well because it continues to react showing spots of orange (see pic.). We think to change the process in order to have more 3D printed only and putting the UV paint only. It avoids a lot of work and mess.
+
+## April ##
+
+in April we did the UV paint with this brand and apply the logos.
+
+## May ##
+
+We will be testing in a pool. 
+
+
