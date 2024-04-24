@@ -31,8 +31,6 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 
 At this moment we are finnishing the hulls by painting them, in a process that is not environmentally friendly as we suspected: so, we plan to produce this catamara in a different way by taking the 3D printing strategy further, meaning that, we do not wanted to add to much to the 3D printing process: just the UV painting.
 
-![painting AQUA](Photos/AQUA36.JPG)
-
 ![](Photos/AQUA36.jpg)
 
 This project is documented as a journal in the file with the name "journal".
