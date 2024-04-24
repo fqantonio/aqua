@@ -48,6 +48,7 @@ We never reach the minimum temperature of 21 degrees and 60% of humidity.
 
 ![](Photos/AQUA9.JPG)
 
+As youu can see, there is a chemical reaction between the resin and the paint. The good news is that, if you repaint, it will vanishes! great!!!
 
 ![](Photos/AQUA11.JPG)
 
