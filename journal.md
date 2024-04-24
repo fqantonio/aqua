@@ -83,8 +83,10 @@ Fill the holes and repaint after sanding, sanding and sanding. Repaint again. Th
 In April we finnaly concluded the painting.
 
 ![](Photos/AQUA35.JPG)
+![](Photos/AQUA35.jpg)
 
 ![](Photos/AQUA36.JPG)
+![](Photos/AQUA36.jpg)
 
 We did the UV paint with this brand.
 
