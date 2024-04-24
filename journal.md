@@ -76,21 +76,19 @@ Primary painting. All the errors appear!
 
 ## March ##
 
-Fill the holes and repaint after sanding, sanding and sanding. Repaint again. This process is not going well because it continues to react showing spots of orange (see pic.). We think to change the process in order to have more 3D printed only and putting the UV paint only. It avoids a lot of work and mess.
+Fill the holes and repaint after sanding, sanding and sanding. Repaint again. This process is not going well because it continues to react showing spots of orange (see pictures). We think to change the process in order to have more 3D printed only and putting the UV paint only. It avoids a lot of work and mess.
 
 ## April ##
 
 In April we finnaly concluded the painting.
 
-![](Photos/AQUA35.JPG)
 ![](Photos/AQUA35.jpg)
 
-![](Photos/AQUA36.JPG)
 ![](Photos/AQUA36.jpg)
 
 We did the UV paint with this brand.
 
-![](Photos/AQUA37.JPG)
+![](Photos/AQUA37.jpg)
 
 ## May ##
 
