@@ -42,6 +42,10 @@ Hardware
 | PIXWACK 2 | OFFICIAL |  | 230 |  |
 | Pixhawk PX4 PRO | Pixhawk2.4.8 32bit Flight Controller Autopilot TYPE-C/ USB Port Futaba SBUS M8N GPS 3DR Radio V5 Telemetry DIY | 1 | 164 |  |
 | F4V3S | Flight Controller Board | 1 | 34 |  |
+| DC MOTORS | AIDNTBEO Underwater Thruster | 2 | 55 |  |
+| DC MOTORS | Blue robotics Thruster 100 W | 2 | 255 |  |
+| DC MOTORS | Blue robotics Thruster 200 W | 2 | 476 |  |
+
 
 
 
