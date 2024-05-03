@@ -15,15 +15,16 @@ Working time
 Consumables and materials
 | Title  | desciption | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3D printing  | February 2024 | 15 days  |2500| Printing the Hulls | 
-| Polyester Plamuur | March 2024 | 1  |54| Preparing the surface | 
-| Hardener and resin | March 2024 | 1  |240| For preparing the surface | 
-| Painting materials  | March 2024 | 8  | 120 | Primer |
-| Painting materials  | March 2024 | 6  | 42 | Acrylic paint |
+| 3D printing  | February 2024 | 15 days  | 2500 | Printing the Hulls | 
+| Polyester Plamuur | March 2024 | 1  | 54 | Preparing the surface | 
+| Painting materials  | Airo-chemie AIRO PRIMEFILL | 4  | 65 | Primer |
+| Painting materials  | Chemitool chemisol acrylic paint | 8 | 42 |  |
+| ACRYLIC VARNISH | mtm spray 400 mL | 4 | 38,15 | |
 | Glue materials | 2024 | 1  | 15 |Preparing the Hulls |
-| Security |  2024 | 1  | 65 |Gloves, glasses and power tool respirator |
+| Security |  2024 | 1  | 65 | Gloves, glasses and power tool respirator |
 | Hardener and resin | Entropy Resin ER-CLR 5 Kg and hardener 2.15 Kg, Pasteur pipettes, color tints |1|262 ||
-| Glue | BLOK universal (Vinil Acetate) |1| 262 ||
+| Glue | BLOK universal (Vinyl Acetate) | 2 | 12,6 | |
+
 
 Tools
 | Title  | description | #  |cost (euros)| Remarks |
