@@ -39,14 +39,9 @@ Tools
 Hardware
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Mask | 3M™ Particulate Respirator, FFP2, Valved, 8822 | 6 | 25 |  |
-| Mask | Field 0503002 CE0181, www.cls.pt | 1 | 42 |  |
-
-Entropy Resin ER-CLR 5 Kg 1,0000 118,53 118,53
-010018 Entropy Hardener EH-CLS 2.15 Kg 1,0000 55,71 55,71
-050001 ESPARCIDOR BLANCO RIGIDO 75-130 2,0000 2,25 4,50
-010001 ENTROPY RESINS TINT VIVID 6 PACK 1,0000 20,43 20,43
-000001 Pipetas Pasteur (laboratorio)
+| PIXWACK 2 | OFFICIAL |  | 230 |  |
+| Pixhawk PX4 PRO | Pixhawk2.4.8 32bit Flight Controller Autopilot TYPE-C/ USB Port Futaba SBUS M8N GPS 3DR Radio V5 Telemetry DIY | 1 | 164 |  |
+| F4V3S | Flight Controller Board | 1 | 34 |  |
 
 
 
