@@ -27,7 +27,7 @@ OTHER PROJECTS
 - [Insanely High Tech Autonomous sonar depth survey Rc Boat assisted by Oxidean Marine!, Bill Oxidean ](https://www.youtube.com/watch?v=59jIy3ck_OY)
 - [3D Printed RC Utility Boat - Hull and Drive System - Part 1, electrosync](https://www.youtube.com/watch?v=0KblE-0bh7o)
 - [Arduino Sonar Boat, Clay P. McPherson](https://github.com/ClayBuilds/Gumption-Trap-)
-- []()
+- [ Boat build part 2 - Preparing the autopilot, The Carp Pilot ](https://www.youtube.com/watch?v=PFL-nYuIbuE)
 
 SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
