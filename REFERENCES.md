@@ -34,6 +34,8 @@ SONAR
 
 HARDWARE
 - [How to connect a PixHawk Cube or similar system - a simple overview, Painless360](https://www.youtube.com/watch?v=tIE8IN71UFI)
+- [PX4 autopilot, Cube Wiring Quick Start ](https://docs.px4.io/main/en/assembly/quick_start_cube.html#rc_control)
+- [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
 
 EXAMPLES OF AUTONOMOUS BOATS
 - [Further Testing of Materials for Radio Controlled Yachts](https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
