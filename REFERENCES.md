@@ -33,7 +33,7 @@ SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
 
 HARDWARE
-(To be updated)
+- [How to connect a PixHawk Cube or similar system - a simple overview, Painless360](https://www.youtube.com/watch?v=tIE8IN71UFI)
 
 EXAMPLES OF AUTONOMOUS BOATS
 - [Further Testing of Materials for Radio Controlled Yachts](https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
