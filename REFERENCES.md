@@ -9,6 +9,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 
 PLA annealing process
 - [Strong 3D prints through ANNEALING, but... Part 1: PLA, CNC Kitchen](https://www.youtube.com/watch?v=dOzVuoBP9gY)
+- [Annealing: How to improve your 3D prints, Prusa 3D](https://www.youtube.com/watch?v=6YlGjEY7u38)
 
 BIO MATERIALS
 - Hart Smart Products, PHA video: [https://www.youtube.com/watch?v=HT4aw-lRMfY](video)
