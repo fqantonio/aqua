@@ -7,6 +7,9 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
  - [Mechanical Degradation of 3D Printed PLA in Simulated Marine Environment](https://iopscience.iop.org/article/10.1088/1755-1315/424/1/012013)
  - [3D print waterproof](https://makenica.com/how-to-waterproof-your-3d-prints/)
 
+PLA annealing process
+- [Strong 3D prints through ANNEALING, but... Part 1: PLA, CNC Kitchen](https://www.youtube.com/watch?v=dOzVuoBP9gY)
+
 BIO MATERIALS
 - Hart Smart Products, PHA video: [https://www.youtube.com/watch?v=HT4aw-lRMfY](video)
 - PHA filament company, behond plastics, https://beyondplastic.com/
