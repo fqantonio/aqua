@@ -50,8 +50,11 @@ EXAMPLES OF AUTONOMOUS BOATS
 - [A New Approach to 3D Printing a Yacht Hull Mold](https://blog.thermwood.com/en-us/a-new-approach-to-3d-printing-a-yacht-hull-mold)
 - [AUTONOMOUS solar boats, crossing the atlantic](https://www.youtube.com/watch?v=R3e2wp8KGQs)
 
-PROFESSIONAL COMPANIES (Unmanned Surface Vessels (USVs))
+USV's (Unmanned Surface Vessels)
 - [wikipedia](https://en.wikipedia.org/wiki/Unmanned_surface_vehicle)
+
+
+PROFESSIONAL COMPANIES 
 - [Sea Floor Systems](https://www.seafloorsystems.com)
 - [ Multi-Purpose Unmanned Surface Vehicle 4.0, Submergence Group & Affiliates ](https://www.youtube.com/watch?v=szRWuguDHuo)
 - [UNIQUE GROUP](https://www.uniquegroup.com/solutions/unmanned-survey-vessels/?utm_source=google&utm_medium=cpc&utm_campaign=usv-western-hemisphere-search&utm_term=auv%20systems&utm_content=generic-asv&utm_term=auv%20systems&utm_campaign=ASV++(fixed+530)&utm_source=adwords&utm_medium=ppc&hsa_acc=8945981504&hsa_cam=18151076352&hsa_grp=146223606371&hsa_ad=618282513483&hsa_src=g&hsa_tgt=kwd-1956749695874&hsa_kw=auv%20systems&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_Kgldm15CWGCjYWvxruiFVsk_4542mwJyCSkMrPS3XFkaD6jwo1U3cahoCkJMQAvD_BwE)
