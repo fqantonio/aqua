@@ -26,6 +26,9 @@ SOFTWARE
 - [Ardupilot Boat configuration](https://ardupilot.org/rover/docs/boat-configuration.html)
 - [Configuration parameters example](https://drive.google.com/file/d/17pscxfwTCLuxO1fSMs6sBwvtXfGYWXCk/view?pli=1)
 
+LAW
+[Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
+
 OTHER PROJECTS
 - [My Autonomous Sonar Boat, Red Maniac RC](https://www.youtube.com/watch?v=G87lRPbBeAo&t=5s)
 - [Autonomous Box Boat - Long Range Waypoint Mission,rctestflight ](https://www.youtube.com/watch?v=PlUmG3CFadw)
