@@ -34,6 +34,11 @@ OTHER PROJECTS
 - [3D Printed RC Utility Boat - Hull and Drive System - Part 1, electrosync](https://www.youtube.com/watch?v=0KblE-0bh7o)
 - [Arduino Sonar Boat, Clay P. McPherson](https://github.com/ClayBuilds/Gumption-Trap-)
 - [ Boat build part 2 - Preparing the autopilot, The Carp Pilot ](https://www.youtube.com/watch?v=PFL-nYuIbuE)
+- [MIT deploys first full-scale autonomous Roboat on canals of Amsterdam](https://newatlas.com/marine/mit-first-full-scale-autonomous-roboat-amsterdam/)
+- [Robot Boats Survive Epic Voyage Across the Pacific — So Far](https://www.wired.com/2012/05/wave-glider-crosses-pacific/)
+
+AVOIDANCE
+- [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
 
 SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
@@ -52,6 +57,8 @@ EXAMPLES OF AUTONOMOUS BOATS
 
 USV's (Unmanned Surface Vessels)
 - [wikipedia](https://en.wikipedia.org/wiki/Unmanned_surface_vehicle)
+- [Unmanned Surface Vehicles, 15 Years of Development, Justin E. Manley, Battelle Applied Coastal and Environmental Services
+3, http://www.battelle.org](https://www.ieeeoes.org/history/080515-175.pdf)
 
 
 PROFESSIONAL COMPANIES 
