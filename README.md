@@ -10,6 +10,8 @@ The catamarã is a 1,2 m long and it pretends to be used in inside waters in goo
 
 Because of this fact, we think that Portugal should set this strategy as a major footprint: taking care of the sea by knowing about it and defende it as an asset for the long future.
 
+This project is documented as a journal in the file with the name "journal".
+
 ![First Render of AQUA](Photos/aqua_render1.png)
 
 # TEAM
@@ -32,8 +34,6 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 At this moment we are finnishing the hulls by painting them, in a process that is not environmentally friendly as we suspected: so, we plan to produce this catamara in a different way by taking the 3D printing strategy further, meaning that, we do not wanted to add to much to the 3D printing process: just the UV painting.
 
 ![](Photos/AQUA36.jpg)
-
-This project is documented as a journal in the file with the name "journal".
 
 # SUPPORT
 
