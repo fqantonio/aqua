@@ -14,6 +14,12 @@ This project is documented as a journal in the file with the name "journal".
 
 ![First Render of AQUA](Photos/aqua_render1.png)
 
+# FEATURES
+- Aquatics robotics aquatic made simple, to be used by students and as a research platform;
+- Reusable
+- Biofriendly up to 80%
+- Simple and cheap maintance
+ 
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator, control systems  
 Nuno Gomes, CEO XYZLAB  
