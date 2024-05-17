@@ -16,7 +16,7 @@ This project is documented as a journal in the file with the name "journal".
 
 # FEATURES
 - Aquatics robotics aquatic made simple, to be used by students and as a research platform;
-- Reusable
+- Reusable, affordable
 - Biofriendly up to 80%
 - Simple and cheap maintance
  
@@ -43,6 +43,6 @@ At this moment we are finnishing the hulls by painting them, in a process that i
 
 # SUPPORT
 
-Associação Lab Aberto FAB LAB  
+Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
 António Marçal, Marçal metalomecânica  
 Marko Mauser, [Mauser](https://mauser.pt/)
