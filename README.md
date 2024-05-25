@@ -1,7 +1,10 @@
 # RESUME
 Aqua is a small autonomous vessel for biowater research and aquatic engineering learning. 
-This project pretends to considerer to be envitronmentaly sustaible from start to end: meaning that,
-all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. So, should use 3D printing with new materials, and be more environmentally friendly from the very begining of the conceptualization until the moment that is out of service: what shoul it be used for? It should run by GPS way points and have an avidance system. It should user friendly and built with cheap components ready available on the market.
+This project aims to considerer the environmental sustainability from start to end as a core strategy, meaning that, all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. 
+
+So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for? 
+
+from the point of view of the operation it should run by manual controling and GPS way points with an avidance system. It should be user friendly and built with cheap components ready available on the market for the educational systems.
 
 The catamarã is a 1,2 m long and it pretends to be used in inside waters in good weather conditions. It is autonomous and carries a structure to transport sensores and gather local information of physical and chemical parameters.
 
