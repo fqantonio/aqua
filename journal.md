@@ -105,7 +105,7 @@ Spaghetti time. Designing the wiring and accomodating the hardware to control th
 
 We are also looking the way to adjust, with flexible material, the front and rear bars that go inside the boat. They are connected by two screws in each side.
 
-![](longarinas_frechas1.JPG)
+![](Photos/longarinas_frechas1.JPG)
 
 Future: looking forward to test it in a pool. 
 
