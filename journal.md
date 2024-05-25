@@ -99,11 +99,13 @@ Spaghetti time. Designing the wiring and accomodating the hardware to control th
 
 ![](Photos/EnergiaControle_1.JPG)
 
-![](Photos/EnergiaControle_2.jPG)
+![](Photos/EnergiaControle_2.JPG)
 
 ![](Photos/EnergiaControle_3.JPG)
 
 We are also looking the way to adjust, with flexible material, the front and rear bars that go inside the boat. They are connected by two screws in each side.
+
+![](longarinas_frechas1.JPG)
 
 Future: looking forward to test it in a pool. 
 
