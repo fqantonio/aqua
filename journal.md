@@ -91,8 +91,17 @@ We did the UV paint with this brand.
 
 ![](Photos/AQUA37.jpg)
 
+The process is not environmentally friendly as we suspected: so, we plan to produce this catamara in a different way by taking the 3D printing strategy further, meaning that, we do not wanted to add to much to the 3D printing process, just the UV painting, and we want to assume the 3D printing "anommalous" desing by not be embarassed because of this consequent strange design. We will not 
+
 ## May ##
 
-We will be testing in a pool. 
+Spaghetti time. Designing the wiring and accomodating the hardware to control the AQUA.
 
+![](Photos/AQUA37.jpg)
+
+We are also looking the way to adjust, with flexible material, the front and rear bars that go inside the boat. They are connected by two screws in each side.
+
+Future: looking forward to test it in a pool. 
+
+## June ##
 
