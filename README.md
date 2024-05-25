@@ -43,5 +43,5 @@ Spagheti time! Designing and accommodating all the wiring and hardware component
 # SUPPORT
 
 Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
-António Marçal, Marçal metalomecânica  
+ António Marçal, Marçal metalomecânica  
 Marko Mauser, [Mauser](https://mauser.pt/)
