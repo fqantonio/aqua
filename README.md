@@ -41,7 +41,7 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 
 Spagheti time! Designing and accommodating all the wiring and hardware components to controle the AQUA. We will use ARDUPILOT in is boat (rover) version.
 
-![](Photos/EnergiaControle_3..jpg)
+![](Photos/EnergiaControle_3.JPG)
 
 # SUPPORT
 
