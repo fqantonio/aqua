@@ -97,7 +97,11 @@ The process is not environmentally friendly as we suspected: so, we plan to prod
 
 Spaghetti time. Designing the wiring and accomodating the hardware to control the AQUA.
 
-![](Photos/AQUA37.jpg)
+![](Photos/EnergiaControle_1.jpg)
+
+![](Photos/EnergiaControle_2.jpg)
+
+![](Photos/EnergiaControle_3.jpg)
 
 We are also looking the way to adjust, with flexible material, the front and rear bars that go inside the boat. They are connected by two screws in each side.
 
