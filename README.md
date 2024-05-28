@@ -23,7 +23,7 @@ This project is documented as a journal in the file with the name "journal".
 - Simple and cheap maintance
  
 # TEAM
-António Gonçalves, Lab Aberto FAB LAB coordinator, control systems  
+António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqua system control  
 Nuno Gomes, CEO XYZLAB  
 David Rodrigues, PhD, avoidance systems
 
