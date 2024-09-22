@@ -27,6 +27,35 @@ António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqu
 Nuno Gomes, CEO XYZLAB, Product Designer  
 David Rodrigues, PhD, IPLeiria, avoidance systems
 
+We are here:
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-8,40],
+              [-8,38],
+              [-9,40],
+              [-9,38],
+              [-8,40]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
 # HISTORY
 This starts is based in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
 
