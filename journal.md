@@ -104,7 +104,7 @@ We are also looking the way to adjust, with flexible material, the front and rea
 
 Future: looking forward to test it in a pool. 
 
-##July##
+## July ##
 Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take this item into account. We don't have the complete weigth of the catamaran. So we will complete this table later on.
 
 | Type  | Weigth (kg) | % |
@@ -130,6 +130,6 @@ To be solve until the end of the year:
 - [ ] Testing the boat by radio controler and GPS waypoints.
 
 
-##September##
+## September ##
 
 This month is devoted to plannning and assembled the top, cameras, antennas and water test.
