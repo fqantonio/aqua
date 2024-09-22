@@ -44,7 +44,7 @@ Spagheti time! Designing and accommodating all the wiring and hardware component
 ![](Photos/EnergiaControle_3.JPG)
 
 General view
-![](VistaGeral_julh_2024_1.JPG)
+![](Photos/VistaGeral_julh_2024_1.JPG)
 
 # SUPPORT
 
