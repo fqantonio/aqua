@@ -129,5 +129,6 @@ To be solve until the end of the year:
 - [ ] close the floats on top taking care of the antennas position and the camera position to.
 - [ ] Testing the boat by radio controler and GPS waypoints
 
+
 ##September##
 This month is devoted to plannning and assembled the top, cameras, antennas and water test.
