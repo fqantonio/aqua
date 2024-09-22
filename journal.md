@@ -24,9 +24,7 @@ Workshop overview!
 
 We are using the bodyboard as a testing for all of the processes.
 
-
 ![](Photos/AQUA33.JPG)
-
 
 ![](Photos/AQUA34.JPG)
 
@@ -52,9 +50,7 @@ As youu can see, there is a chemical reaction between the resin and the paint. T
 
 ![](Photos/AQUA11.JPG)
 
-
 ![](Photos/AQUA23.JPG)
-
 
 ![](Photos/AQUA32.JPG)
 
@@ -64,11 +60,10 @@ And what an ammount of garbadge.
 
 ![](Photos/AQUA18.JPG)
 
-
 ![](Photos/AQUA19.JPG)
 
-
 ![](Photos/AQUA20.JPG)
+
 
 Primary painting. All the errors appear!
 
@@ -119,6 +114,7 @@ Cleaning was a task at this point and measuring the type of garbage and the weig
 | Plastic  | 5,8 | |
 | Painting cans | 1,8 (18 cans) ||
 | Metal | 3,4 |  |
+| undifferentiated waste | 4,3 |  |
 
 In July we stop here:
 
