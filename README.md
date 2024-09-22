@@ -43,6 +43,9 @@ Spagheti time! Designing and accommodating all the wiring and hardware component
 
 ![](Photos/EnergiaControle_3.JPG)
 
+General view
+![](VistaGeral_julh_2024_1.JPG)
+
 # SUPPORT
 
  - Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
