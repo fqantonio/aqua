@@ -130,3 +130,4 @@ To be solve until the end of the year:
 - [ ] Testing the boat by radio controler and GPS waypoints
 
 ##September##
+
