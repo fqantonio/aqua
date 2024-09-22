@@ -1,14 +1,15 @@
-# RESUME
-Aqua is a small autonomous vessel for biowater research and aquatic engineering learning. 
-This project aims to considerer the environmental sustainability from start to end as a core strategy, meaning that, all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. 
-
-So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for? 
-
-from the point of view of the operation it should run by manual controling and GPS way points with an avidance system. It should be user friendly and built with cheap components ready available on the market for the educational systems.
-
-The catamarã is a 1,2 m long and it pretends to be used in inside waters in good weather conditions. It is autonomous and carries a structure to transport sensores and gather local information of physical and chemical parameters.
 
 > Portugal is 97% water
+
+# RESUME
+Aqua is a small autonomous vessel for biowater research and aquatic engineering learning. 
+This project aims to considerer the environmental sustainability from start to end as a core strategy, meaning that, all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. It aims also to estimulate the focus at the water and ocean systems since Portugal is 97% water. It also pretains to deliver a water platform system for the research comunity that is simple to use, to repair and opensource, at least at same point.
+
+So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for then? 
+
+From the point of view of the operation it should run by manual controling and GPS way points with an autonomous avidance system and a human controlled avoidance system by video display. It should be user friendly and built with cheap components ready available on the market and simple to repair.
+
+This catamarã is a 1,2 m long and it pretends to be used in inside waters in good weather conditions. It is autonomous and carries a structure to transport sensores and gather local information of physical and chemical parameters.
 
 Because of this fact, we think that Portugal should set this strategy as a major footprint: taking care of the sea by knowing about it and defende it as an asset for the long future.
 
