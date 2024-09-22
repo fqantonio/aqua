@@ -24,8 +24,8 @@ This project is documented as a journal in the file with the name "journal".
  
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqua system control  
-Nuno Gomes, CEO XYZLAB  
-David Rodrigues, PhD, avoidance systems
+Nuno Gomes, CEO XYZLAB, Product Designer  
+David Rodrigues, PhD, IPLeiria, avoidance systems
 
 # HISTORY
 This starts is based in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
