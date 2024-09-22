@@ -112,10 +112,13 @@ Future: looking forward to test it in a pool.
 ##July##
 Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take this item into account. We don't have the complete weigth of the catamaran. So we will complete this table later on.
 
-| Type  | Weigth | % |
+| Type  | Weigth (kg) | % |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  |
+| Paper  | 1,2 |  |
+| Cardboard | 5,6 | |
+| Plastic  | 5,8 | |
+| Painting cans | 1,8 (18 cans) ||
+| Metal | 3,4 |  |
 
 In July we stop here:
 
