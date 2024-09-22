@@ -1,4 +1,4 @@
-# 2019
+s# 2019
 
 ## July ##
 
@@ -109,5 +109,18 @@ We are also looking the way to adjust, with flexible material, the front and rea
 
 Future: looking forward to test it in a pool. 
 
-## June ##
+##July##
+In July we stop here:
 
+![](Photos/VistaGeral_julh_2024.JPG)
+
+![](Photos/VistaGeral_julh_2024_1.JPG)
+
+![](Photos/VistaGeral_julh_2024_2.JPG)
+
+To be solve until the end of the year:
+- Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
+- close the floats on top taking care of the antennas position and the camera position to.
+- Testing the boat by radio controler and GPS waypoints
+
+##September##
