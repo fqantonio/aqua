@@ -110,6 +110,13 @@ We are also looking the way to adjust, with flexible material, the front and rea
 Future: looking forward to test it in a pool. 
 
 ##July##
+Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take this item into account. We don't have the complete weigth of the catamaran. So we will complete this table later on.
+
+| Type  | Weigth | % |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |
+
 In July we stop here:
 
 ![](Photos/VistaGeral_julh_2024.JPG)
@@ -119,8 +126,8 @@ In July we stop here:
 ![](Photos/VistaGeral_julh_2024_2.JPG)
 
 To be solve until the end of the year:
-- Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
-- close the floats on top taking care of the antennas position and the camera position to.
-- Testing the boat by radio controler and GPS waypoints
+- [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
+- [ ] close the floats on top taking care of the antennas position and the camera position to.
+- [ ] Testing the boat by radio controler and GPS waypoints
 
 ##September##
