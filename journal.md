@@ -105,16 +105,16 @@ We are also looking the way to adjust, with flexible material, the front and rea
 Future: looking forward to test it in a pool. 
 
 ## July ##
-Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take this item into account. We don't have the complete weigth of the catamaran. So we will complete this table later on.
+Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take the sustainability into account. The complete weigth of the catamaran is 20,5 Kg with an error of 0,2 Kg. So the waste produce in the fabrication of the catamaran is 22,1 Kg, 107,8 % of the mass of the catamara. Since we don't know how to process this catamara in is end of life, we coclude that, at that time, there will be 42,6 kg of waste, which include eletronic parts and plastic less environmentaly friendly. So, in the end of his life there will 207,3% of waste, compared to the mass of the catamaran.
 
 | Type  | Weigth (kg) | % |
 | ------------- | ------------- | ------------- |
-| Paper  | 1,2 |  |
-| Cardboard | 5,6 | |
-| Plastic  | 5,8 | |
-| Painting cans | 1,8 (18 cans) ||
-| Metal | 3,4 |  |
-| undifferentiated waste | 4,3 |  |
+| Paper  | 1,2 | 6 |
+| Cardboard | 5,6 | 2,7 |
+| Plastic  | 5,8 | 2,8 |
+| Painting cans | 1,8 (18 cans) | 0,1 |
+| Metal | 3,4 | 0,2 |
+| undifferentiated waste | 4,3 | 0,2 |
 
 In July we stop here:
 
