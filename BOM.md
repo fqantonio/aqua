@@ -1,29 +1,33 @@
-This a list of mateirals and working time, used in this project. However, its still an approximation, but a good one.
+This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8329,75 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
+
+Working time 3560
+Consumables and materials 3085,75
+Tools 420
+Hardware 1264
 
 Working time
 | Title  | desciption | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Working time  | May and June 2024 | 48 hours  |480 |Hardware mounting and catamaran testing | 
-| Working time  | 2019 - 2023 | 220 hours  |440 | Non-functional prototype |
-| Working time  | January 2024 | 20 hours  |400| Preparing the Hulls | 
-| Working time  | February 2024 | 16 hours  |320| Glueing and sanding |
-| Working time  | March 2024 | 24 hours  |480 |Sanding and Painting |
-| Working time  | April 2024 | 24 hours  |480 |Painting| 
-| Working time  | May and June 2024 | 48 hours  |480 |Hardware mounting and catamaran testing | 
-
+| Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing | 
+| Working time  | 2019 - 2023 | 220 hours  | 440 | Non-functional prototype |
+| Working time  | January 2024 | 20 hours  | 400| Preparing the Hulls | 
+| Working time  | February 2024 | 16 hours  | 320| Glueing and sanding |
+| Working time  | March 2024 | 24 hours  | 480 |Sanding and Painting |
+| Working time  | April 2024 | 24 hours  | 480 |Painting| 
+| Working time  | May and June 2024 | 48 hours  | 480 |Hardware mounting and catamaran testing | 
 
 Consumables and materials
-| Title  | desciption | #  |cost (euros)| Remarks |
+| Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3D printing  | February 2024 | 15 days  | 2500 | Printing the Hulls | 
+| 3D printing  | February 2024 | 15 days  | 2500 | Printing the Hulls sponsored by MAUSER.pt | 
 | Polyester Plamuur | March 2024 | 1  | 54 | Preparing the surface | 
 | Painting materials  | Airo-chemie AIRO PRIMEFILL | 4  | 65 | Primer |
 | Painting materials  | Chemitool chemisol acrylic paint | 8 | 42 |  |
 | ACRYLIC VARNISH | mtm spray 400 mL | 4 | 38,15 | |
-| Glue materials | 2024 | 1  | 15 |Preparing the Hulls |
-| Security |  2024 | 1  | 65 | Gloves, glasses and power tool respirator |
+| Glue | BLOK universal (Vinyl Acetate) | 10 | 63 |Preparing the Hulls |
+| Security | Gloves, glasses and power tool respirator | 1 | 65 |  |
 | Hardener and resin | Entropy Resin ER-CLR 5 Kg and hardener 2.15 Kg, Pasteur pipettes, color tints |1|262 ||
-| Glue | BLOK universal (Vinyl Acetate) | 2 | 12,6 | |
+| Workshop space | 12 months | 12 | 2880 | Sponsored by Marçal Metalonecânica |
 
 
 Tools
@@ -34,12 +38,12 @@ Tools
 | Mask | Delta Plus M6400 MARS KIT | 1 | 23 |  |
 | gloves | gloves | 100 | 8 | |
 | sandpaper| Grit 200 to 1500 | 25 | 22 | |
-
+| Portable Computer | Lenovo ThinkPad | 1 | 300 |  |
 
 Hardware
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PIXWACK 2 | OFFICIAL |  | 230 |  |
+| PIXWACK 2 | OFFICIAL | 1 | 230 |  |
 | Pixhawk PX4 PRO | Pixhawk2.4.8 32bit Flight Controller Autopilot TYPE-C/ USB Port Futaba SBUS M8N GPS 3DR Radio V5 Telemetry DIY | 1 | 164 |  |
 | F4V3S | Flight Controller Board | 1 | 34 |  |
 | DC MOTORS | AIDNTBEO Underwater Thruster | 2 | 55 |  |
