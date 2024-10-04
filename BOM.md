@@ -1,9 +1,9 @@
-This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8422,42 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
+This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8446,42 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
 
 Working time 3560
 Consumables and materials 3085,75
 Tools 420
-Hardware 1356,67
+Hardware 1380,67
 
 Working time
 | Title  | desciption | #  |cost (euros)| Remarks |
@@ -52,6 +52,8 @@ Hardware
 | Video Transmission | Skydroid Hsthe Sea Receptor FPV | 1 | 36,58 |  |
 | Video Transmission | Holybro micro osd v2 | 1 | 28,09 |  |
 | Video Transmission | Agatige Antena De 5,8 GHz, 3Dbi RHCP | 2 | 14 |  |
+| Camera onBoard | mini Camera HD | 1 | 24 |  |
+
 
 
 
