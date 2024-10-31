@@ -26,8 +26,20 @@ SOFTWARE
 - [Ardupilot Boat configuration](https://ardupilot.org/rover/docs/boat-configuration.html)
 - [Configuration parameters example](https://drive.google.com/file/d/17pscxfwTCLuxO1fSMs6sBwvtXfGYWXCk/view?pli=1)
 
+HARDWARE
+- [How to connect a PixHawk Cube or similar system - a simple overview, Painless360](https://www.youtube.com/watch?v=tIE8IN71UFI)
+- [PX4 autopilot, Cube Wiring Quick Start ](https://docs.px4.io/main/en/assembly/quick_start_cube.html#rc_control)
+- [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
+- [Pixwack pro wiring](https://docs.px4.io/main/en/assembly/quick_start_pixhawk.html)
+
 LAW
 [Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
+
+AVOIDANCE
+- [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
+
+SONAR
+- [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
 
 OTHER PROJECTS
 - [My Autonomous Sonar Boat, Red Maniac RC](https://www.youtube.com/watch?v=G87lRPbBeAo&t=5s)
@@ -39,17 +51,6 @@ OTHER PROJECTS
 - [ Boat build part 2 - Preparing the autopilot, The Carp Pilot ](https://www.youtube.com/watch?v=PFL-nYuIbuE)
 - [MIT deploys first full-scale autonomous Roboat on canals of Amsterdam](https://newatlas.com/marine/mit-first-full-scale-autonomous-roboat-amsterdam/)
 - [Robot Boats Survive Epic Voyage Across the Pacific — So Far](https://www.wired.com/2012/05/wave-glider-crosses-pacific/)
-
-AVOIDANCE
-- [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
-
-SONAR
-- [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
-
-HARDWARE
-- [How to connect a PixHawk Cube or similar system - a simple overview, Painless360](https://www.youtube.com/watch?v=tIE8IN71UFI)
-- [PX4 autopilot, Cube Wiring Quick Start ](https://docs.px4.io/main/en/assembly/quick_start_cube.html#rc_control)
-- [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
 
 EXAMPLES OF AUTONOMOUS BOATS
 - [Further Testing of Materials for Radio Controlled Yachts](https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
@@ -65,9 +66,10 @@ USV's (Unmanned Surface Vessels)
 
 
 PROFESSIONAL COMPANIES 
+- [BlueBoat](https://bluerobotics.com/product-category/boat/)
 - [Sea Floor Systems](https://www.seafloorsystems.com)
 - [Saildrone](https://www.saildrone.com/technology/vehicles)
-- [ Multi-Purpose Unmanned Surface Vehicle 4.0, Submergence Group & Affiliates ](https://www.youtube.com/watch?v=szRWuguDHuo)
+- [Multi-Purpose Unmanned Surface Vehicle 4.0, Submergence Group & Affiliates ](https://www.youtube.com/watch?v=szRWuguDHuo)
 - [UNIQUE GROUP](https://www.uniquegroup.com/solutions/unmanned-survey-vessels/?utm_source=google&utm_medium=cpc&utm_campaign=usv-western-hemisphere-search&utm_term=auv%20systems&utm_content=generic-asv&utm_term=auv%20systems&utm_campaign=ASV++(fixed+530)&utm_source=adwords&utm_medium=ppc&hsa_acc=8945981504&hsa_cam=18151076352&hsa_grp=146223606371&hsa_ad=618282513483&hsa_src=g&hsa_tgt=kwd-1956749695874&hsa_kw=auv%20systems&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_Kgldm15CWGCjYWvxruiFVsk_4542mwJyCSkMrPS3XFkaD6jwo1U3cahoCkJMQAvD_BwE)
 
 LORA
