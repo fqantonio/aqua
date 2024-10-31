@@ -31,6 +31,8 @@ HARDWARE
 - [PX4 autopilot, Cube Wiring Quick Start ](https://docs.px4.io/main/en/assembly/quick_start_cube.html#rc_control)
 - [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
 - [Pixwack pro wiring](https://docs.px4.io/main/en/assembly/quick_start_pixhawk.html)
+- [FPV, Holybro micro OSD v2](https://www.youtube.com/watch?v=ghhqSGxdIwQ&t=421s)
+- [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
 
 LAW
 [Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
