@@ -2,7 +2,7 @@
 > Portugal is 97% water
 
 # RESUME
-Aqua is a small autonomous vessel for biowater research and aquatic engineering learning. 
+AQUA is a small autonomous vessel for biowater research and aquatic engineering learning. 
 This project aims to considerer the environmental sustainability from start to end as a core strategy, meaning that, all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. It aims also to estimulate the focus at the water and ocean systems since Portugal is 97% water. It also pretains to deliver a water platform system for the research comunity that is simple to use, to repair and opensource, at least at same point.
 
 So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for then? 
