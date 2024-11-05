@@ -54,6 +54,9 @@ Tools
 | Video Transmission | Holybro micro osd v2 | 1 | 28,09 |  |
 | Video Transmission | Agatige Antena De 5,8 GHz, 3Dbi RHCP | 2 | 14 |  |
 | Camera onBoard | mini Camera HD | 1 | 24 |  |
+| Video trasmission | OSD Holybro | 1 | 27 |  |
+| Radio Transmission | ??? | 1 | 53 |  |
+
 
 
 
