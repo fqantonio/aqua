@@ -14,7 +14,8 @@ Working time
 | Working time  | February 2024 | 16 hours  | 320| Glueing and sanding |
 | Working time  | March 2024 | 24 hours  | 480 |Sanding and Painting |
 | Working time  | April 2024 | 24 hours  | 480 |Painting| 
-| Working time  | May and June 2024 | 48 hours  | 480 |Hardware mounting and catamaran testing | 
+| Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing |
+| Working time  | October and November 2024 | 35 hours  | 700 |Hardware mounting and catamaran testing | 
 
 Consumables and materials
 | Title  | description | #  |cost (euros)| Remarks |
@@ -40,7 +41,7 @@ Tools
 | sandpaper| Grit 200 to 1500 | 25 | 22 | |
 | Portable Computer | Lenovo ThinkPad | 1 | 300 |  |
 
-Hardware
+"Hardware"
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | PIXWACK 2 | OFFICIAL | 1 | 230 |  |
