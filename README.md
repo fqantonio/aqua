@@ -7,7 +7,7 @@ This project aims to considerer the environmental sustainability from start to e
 
 So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for then? 
 
-From the point of view of the operation it should run by manual controling and GPS way points with an autonomous avidance system and a human controlled avoidance system by video display. It should be user friendly and built with cheap components ready available on the market and simple to repair.
+From the point of view of the operation it should run by manual controling with video display and GPS way points with an autonomous avoidance system. It should be user friendly and built with cheap components ready available on the market and simple to repair. Battery autonomy should last for two hours.
 
 This catamarã is a 1,2 m long and it pretends to be used in inside waters in good weather conditions. It is autonomous and carries a structure to transport sensores and gather local information of physical and chemical parameters.
 
