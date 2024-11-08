@@ -34,12 +34,13 @@ HARDWARE
 - [FPV, Holybro micro OSD v2](https://www.youtube.com/watch?v=ghhqSGxdIwQ&t=421s)
 - [FPV, Holybro micro OSD v2 wiring](https://www.flyingtech.co.uk/wp-content/uploads/2021/03/HolyBro-Micro-OSD-V2-Manual-with-HolyBro-formatting-v0.1-copy.pdf)
 - [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
-
-LAW
-[Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
+- [CONECTORS](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 
 AVOIDANCE
 - [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
+
+LAW
+[Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
 
 SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
@@ -67,6 +68,11 @@ USV's (Unmanned Surface Vessels)
 - [Unmanned Surface Vehicles, 15 Years of Development, Justin E. Manley, Battelle Applied Coastal and Environmental Services
 3, http://www.battelle.org](https://www.ieeeoes.org/history/080515-175.pdf)
 
+LEARNING
+- [DRONE BOT workshop](https://dronebotworkshop.com/)
+- [ARDU PILOT](https://ardupilot.org/ardupilot/)
+- [Painless360](https://www.youtube.com/@Painless360)
+- [Opensource Drone](https://www.youtube.com/watch?v=QvRxxjaLjxg)
 
 PROFESSIONAL COMPANIES 
 - [BlueBoat](https://bluerobotics.com/product-category/boat/)
