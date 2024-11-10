@@ -62,7 +62,9 @@ Hardware 1380,67
 | Radio Transmission | ??? | 1 | 53 |  |
 
 # Spare parts
-| Px 4 flight controller |  | 1 | 113 |  |
+| Title  | description | #  |cost (euros)| Remarks |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Pixwack 4 flight controller |  | 1 | 113 |  |
 | Holybro mini OSB |  | 1 | 32 |  |
 
 
