@@ -124,7 +124,7 @@ In July we stop here:
 
 ![](Photos/VistaGeral_julh_2024_2.JPG)
 
-# tasks
+# Tasks
 To be solve until the end of the year:
 - [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
 - [ ] close the floats on top taking care of the antennas position and the camera position to.
