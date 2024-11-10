@@ -1,5 +1,6 @@
 This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8446,42 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
 
+# BOM resume
 Working time 3560
 
 Consumables and materials 3085,75
@@ -8,7 +9,7 @@ Tools 420
 
 Hardware 1380,67
 
-Working time
+# Working time
 | Title  | desciption | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing | 
@@ -20,7 +21,7 @@ Working time
 | Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing |
 | Working time  | October and November 2024 | 35 hours  | 700 |Hardware mounting and catamaran testing | 
 
-Consumables and materials
+# Consumables and materials
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 3D printing  | February 2024 | 15 days  | 2500 | Printing the Hulls sponsored by MAUSER.pt | 
@@ -34,7 +35,7 @@ Consumables and materials
 | Workshop space | 12 months | 12 | 2880 | Sponsored by Marçal Metalonecânica |
 
 
-Tools
+# Tools
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mask | 3M™ Particulate Respirator, FFP2, Valved, 8822 | 6 | 25 |  |
@@ -44,7 +45,7 @@ Tools
 | sandpaper| Grit 200 to 1500 | 25 | 22 | |
 | Portable Computer | Lenovo ThinkPad | 1 | 300 |  |
 
-"Hardware"
+# "Hardware"
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | PIXWACK 2 | OFFICIAL | 1 | 230 |  |
@@ -59,6 +60,11 @@ Tools
 | Camera onBoard | mini Camera HD | 1 | 24 |  |
 | Video trasmission | OSD Holybro | 1 | 27 |  |
 | Radio Transmission | ??? | 1 | 53 |  |
+
+# Spare parts
+| Px 4 flight controller |  | 1 | 113 |  |
+| Holybro mini OSB |  | 1 | 32 |  |
+
 
 
 
