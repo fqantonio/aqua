@@ -28,7 +28,7 @@ António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqu
 Nuno Gomes, CEO XYZLAB, Product Designer  
 David Rodrigues, PhD, IPLeiria, avoidance systems
 
-We are here:
+# We are here:
 
 ```geojson
 {
