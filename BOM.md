@@ -33,6 +33,7 @@ Hardware 1380,67
 | Security | Gloves, glasses and power tool respirator | 1 | 65 |  |
 | Hardener and resin | Entropy Resin ER-CLR 5 Kg and hardener 2.15 Kg, Pasteur pipettes, color tints |1|262 ||
 | Workshop space | 12 months | 12 | 2880 | Sponsored by Marçal Metalonecânica |
+| Tapes |Powerbond, double sided tape, terminals, heat shrink| 53 |||
 
 
 # Tools
@@ -44,6 +45,9 @@ Hardware 1380,67
 | gloves | gloves | 100 | 8 | |
 | sandpaper| Grit 200 to 1500 | 25 | 22 | |
 | Portable Computer | Lenovo ThinkPad | 1 | 300 |  |
+| Crimpºing tool | 1 | 12,99 ||
+| Precision scredriver set | 1 | 10,99 ||
+| Soldering support | | 1 | 18 ||
 
 # "Hardware"
 | Title  | description | #  |cost (euros)| Remarks |
