@@ -124,6 +124,19 @@ In July we stop here:
 
 ![](Photos/VistaGeral_julh_2024_2.JPG)
 
+## September and October##
+
+This month is devoted to plannning and assembled the top, cameras, antennas and water test.
+
+## October ##
+
+This month is devoted to plannning and assembling. Redesign the power circuit.
+
+## November and December##
+
+Test the microcontroller circuit and the power circuit as well. Radio transmitter settings. Ground and Water tests.
+
+
 # Tasks
 To be solve until the end of the year:
 - [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
@@ -135,7 +148,3 @@ To be solve until the end of the year:
 Next year, 2025:
 - [ ] Discuss and prepare comunication and marketing project presentation
 
-
-## September ##
-
-This month is devoted to plannning and assembled the top, cameras, antennas and water test.
