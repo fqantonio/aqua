@@ -26,6 +26,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 (to be updated)
 - [Ardupilot Boat configuration](https://ardupilot.org/rover/docs/boat-configuration.html)
 - [Configuration parameters example](https://drive.google.com/file/d/17pscxfwTCLuxO1fSMs6sBwvtXfGYWXCk/view?pli=1)
+- [Mission Planner boat configurations](https://www.youtube.com/watch?v=PFL-nYuIbuE)
 
 # HARDWARE
 - [How to connect a PixHawk Cube or similar system - a simple overview, Painless360](https://www.youtube.com/watch?v=tIE8IN71UFI)
