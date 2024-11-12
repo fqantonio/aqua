@@ -37,6 +37,13 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
 - [CONECTORS](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 
+# Radio Transmitter
+- [Binding and Setting Up the FlySky i6 Transmitter for a quadcopter/drone](https://www.youtube.com/watch?v=9-Z0rTVEkHI)
+
+# Telemetry
+- [Holybro Telemetry Radio]([https://www.youtube.com/watch?v=9-Z0rTVEkHI](https://docs.px4.io/main/en/telemetry/holybro_sik_radio.html))
+
+
 # AVOIDANCE
 - [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
 
