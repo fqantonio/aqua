@@ -33,6 +33,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [PX4 autopilot, Cube Wiring Quick Start ](https://docs.px4.io/main/en/assembly/quick_start_cube.html#rc_control)
 - [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
 - [Pixwack pro wiring](https://docs.px4.io/main/en/assembly/quick_start_pixhawk.html)
+- [Pixhawk connector diagram](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
 - [FPV, Holybro micro OSD v2](https://www.youtube.com/watch?v=ghhqSGxdIwQ&t=421s)
 - [FPV, Holybro micro OSD v2 wiring](https://www.flyingtech.co.uk/wp-content/uploads/2021/03/HolyBro-Micro-OSD-V2-Manual-with-HolyBro-formatting-v0.1-copy.pdf)
 - [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
