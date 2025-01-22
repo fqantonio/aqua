@@ -38,6 +38,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
 - [CONECTORS](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 - [Thruster User Guide](https://bluerobotics.com/learn/thruster-usage-guide/)
+- [Minimum Throttle, dead zone](https://ardupilot.org/rover/docs/rover-motor-and-servo-configuration.html#rover-motor-and-servo-min-throttle)
   
 # Radio Transmitter
 - [Binding and Setting Up the FlySky i6 Transmitter for a quadcopter/drone](https://www.youtube.com/watch?v=9-Z0rTVEkHI)
