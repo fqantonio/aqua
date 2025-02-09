@@ -73,7 +73,11 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 
 Buoyancy testing
 
-![](Photos/EnergiaControle_3.JPG)
+![](Photos/testeFlutuabilidade_7.png)
+
+![](Photos/testeFlutuabilidade_8.png)
+
+![](Photos/testeFlutuabilidade_9.png)
 
 
 # SUPPORT
