@@ -163,6 +163,7 @@ Buoyancy testing.
 ## March
 
 # Next year tasks, 2025
+- [ ] includes calcs in the january 4S4P batery
 - [ ] Discuss and prepare comunication and marketing project presentation
 - [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
 - [ ] close the floats on top taking care of the antennas position and the camera position to.
