@@ -134,17 +134,24 @@ This month is devoted to plannning and assembling. Redesign the power circuit.
 
 ## November and December##
 
-Test the microcontroller circuit and the power circuit as well. Radio transmitter settings. Ground and Water tests.
+Test the microcontroller circuit and the power circuit as well. Radio transmitter settings. Ground and Water tests. Spagheti time! Designing and accommodating all the wiring and hardware components to controle the AQUA. We will use ARDUPILOT in is boat (rover) version: tested and working properly!
+
+![](Photos/EnergiaControle_3.JPG)
+
+## January
+Remodeling 3D and printing electronic box. Printing and modeling the battery holder. Built 4S4P batery with the help of LCD Porto Maker space.
 
 
-# Tasks
-To be solve until the end of the year:
+
+## February
+Buoyancy testing.
+
+## March
+
+# Next year tasks, 2025
+- [ ] Discuss and prepare comunication and marketing project presentation
 - [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
 - [ ] close the floats on top taking care of the antennas position and the camera position to.
 - [ ] Testing the boat by radio controler and GPS waypoints.
 - [ ] Review BOM math costs
 - [ ] Review text
-
-Next year, 2025:
-- [ ] Discuss and prepare comunication and marketing project presentation
-
