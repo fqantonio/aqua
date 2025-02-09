@@ -145,16 +145,20 @@ Remodeling 3D and printing electronic box. Printing and modeling the battery hol
 
 ![](Photos/4S4P.JPG)
 
-![](Photos/4S4P.JPG)
+![](Photos/4S4P_3.JPG)
 
-![](Photos/4S4P.JPG)
+![](Photos/4S4P_4.JPG)
+
+![](Photos/4S4P_5.JPG)
 
 ## February
 Buoyancy testing.
 
 ![](Photos/testeFlutuabilidade_7.png)
 
-![](Photos/testeFlutuabilidade_7.png)
+![](Photos/testeFlutuabilidade_8.png)
+
+![](Photos/testeFlutuabilidade_9.png)
 
 ## March
 
