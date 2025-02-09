@@ -82,3 +82,4 @@ Buoyancy testing
  - António Marçal, Marçal Metalworking
  - Marko Mauser, [Mauser](https://mauser.pt/)
  - Paulo Teixeira, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
+ - Gonçalo, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
