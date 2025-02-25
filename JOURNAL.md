@@ -160,13 +160,24 @@ Buoyancy testing.
 
 ![](Photos/testeFlutuabilidade_9.png)
 
+We found a structural break in the hull. Preparing to fix it.
+
+(photo here!?!?!?)
+
+We are going to try to fix it. We reprint the access hatch in the top of both hulls with less holes then before, since we decided to have only one openning for the telemetry antenna. This aquatic plataform will serve as a base to have anything that the school need. We reprint the eletronic box and made the batery 4S4P.
+
 ## March
 
-# Next year tasks, 2025
-- [ ] includes calcs in the january 4S4P batery
+# Next tasks, 2025
+- [ ] Make the second 4S4P batery;
+- [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Attach security light and four cleats to the boat;
+- [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
+- [ ] Review BOM costs;
+- [ ] Review text;
 - [ ] Discuss and prepare comunication and marketing project presentation
-- [ ] Decide how to make the avoidance, by camera using the human hand or autonolously by pattern detecting: perhaps both; 
-- [ ] close the floats on top taking care of the antennas position and the camera position to.
-- [ ] Testing the boat by radio controler and GPS waypoints.
-- [ ] Review BOM math costs
-- [ ] Review text
+
+# Next 2026 task
+- [ ] NEXT project phase: decide how to make the avoidance, by camera using the human eyes or autonolously by pattern detecting: perhaps both; 
+
+
