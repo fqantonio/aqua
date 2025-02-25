@@ -87,3 +87,4 @@ Buoyancy testing
  - Marko Mauser, [Mauser](https://mauser.pt/)
  - Paulo Teixeira, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
  - Gonçalo Pereira, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
+ - Renan Portocarrero, MAKER, 3D printing
