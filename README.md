@@ -83,8 +83,8 @@ Buoyancy testing
 # SUPPORT
 
  - Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
- - António Marçal, Marçal Metalworking
+ - António Marçal, advising and workshop space, Marçal Metalworking
  - Marko Mauser, [Mauser](https://mauser.pt/)
- - Paulo Teixeira, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
- - Gonçalo Pereira, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
+ - Paulo Teixeira, 3D printing, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
+ - Gonçalo Pereira, bateries training, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
  - Renan Portocarrero, MAKER, 3D printing
