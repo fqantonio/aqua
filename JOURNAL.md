@@ -156,7 +156,9 @@ Buoyancy testing.
 
 ![](Photos/testeFlutuabilidade_9.png)
 
-We found a structural break in the hull. Preparing to fix it.
+We found a structural break in the hull. Perhaps because of a falling situation when removing from the car. Preparing to fix it.
+
+
 
 (photo here!?!?!?)
 
