@@ -175,7 +175,7 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 1. modeling a boid to attach to the bow in order to balance it;
 2. glue a foam under the bow.
 
-![](Photos/AQUA_march2025.JPG)
+![](Photos/AQUA_march2025.jpeg)
 
 # Tasks
 - [x] Structural break;
