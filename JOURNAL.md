@@ -145,6 +145,8 @@ Remodeling 3D and printing electronic box. Printing and modeling the battery hol
 
 ![](Photos/4S4P_5.JPG)
 
+![](Photos//bateriaCX1.JPG)
+
 ## February
 Buoyancy testing.
 
