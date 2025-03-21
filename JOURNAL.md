@@ -139,7 +139,7 @@ Test the microcontroller circuit and the power circuit as well. Radio transmitte
 ![](Photos/EnergiaControle_3.JPG)
 
 ## January
-Remodeling 3D and printing electronic box. Printing and modeling the battery holder. Built 4S4P batery with the help of LCD Porto Maker Space.
+Remodeling 3D and printing electronic box. Printing and modeling the battery holder. Built 4S4P batery with the help of LCD Porto Maker Space, by crimping.
 
 ![](Photos/4S4P.JPG)
 
@@ -168,16 +168,35 @@ We are going to try to fix it. We reprint the access hatch in the top of both hu
 
 ## March
 
-# Next tasks, 2025
+Structural break fixed. After sanding and cleaning with a dremel, and prepared the epoxi glue the results:
+
+(put pictures here!?)
+
+Thinking about the unbalance hull. That's a big issue that didn't appear so important but with the real hull it appears very disturbing. Two solutions, taking in account that this is a prototype: 
+
+1. modeling a boid to attach to the bow in order to balance it;
+2. glue a foam under the bow.
+
+# Tasks
+- [x] Structural break;
+- [ ] Attach four cleats to the boat;
+- [ ] Attach the foam to the bow;
+- [ ] Testing testing testing...
+
+(include pictures here)
+
+## April
+
+- [ ] Attach security light and flag;
+- [ ] Remodeling the top hull covers in order to be more water tight;
 - [ ] Make the second 4S4P batery;
 - [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Attach security light and four cleats to the boat;
 - [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
 - [ ] Review BOM costs;
 - [ ] Review text;
-- [ ] Discuss and prepare comunication and marketing project presentation
+- [ ] Discuss and prepare comunication and marketing project presentation for investors support.
 
 # Next 2026 task
-- [ ] NEXT project phase: decide how to make the avoidance, by camera using the human eyes or autonolously by pattern detecting: perhaps both; 
+- [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
 
 
