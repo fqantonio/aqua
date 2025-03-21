@@ -177,23 +177,26 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 
 # Tasks
 - [x] Structural break;
-- [ ] Attach four cleats to the boat;
-- [ ] Attach the foam to the bow;
+- [ ] Assemble the last cleat;
+- [ ] Glue the foam to the bow;
+- [ ] Seal the motor holes in the hull;
+- [ ] Paint with yellow and varnish;
 - [ ] Attach security light and flag;
-- [ ] Attach the top hatchs with rubber band;
-- [ ] Testing testing testing...
-
-(include pictures here)
+- [ ] Testing...
 
 ## April
 
-- [ ] Security boid assembling;
-- [ ] Seal the motor holes in the hull;
-- [ ] Print the battery holder;
 - [ ] Remodeling the top hull covers in order to be more water tight;
+- [ ] Fix the hatchs with holding belts;
+- [ ] Security safety buoy;
+- [ ] Assemble the second battery
+- [ ] Print the batery holder;
 - [ ] Make the second 4S4P batery;
+- [ ] Testing testing testing...
+
+## May
+
 - [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Charging procedure;
 - [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
 - [ ] Review BOM costs;
 - [ ] Review text;
