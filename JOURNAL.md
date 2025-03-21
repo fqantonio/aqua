@@ -168,7 +168,7 @@ We reprint the access hatch in the top of both hulls with less holes then before
 
 Structural break fixed. After sanding and cleaning with a dremel, and prepared the epoxi glue the results:
 
-(put pictures here!?)
+![](Photos/breakFixed.JPG)
 
 Thinking about the unbalance hull. That's a big issue that didn't appear so important but with the real hull it appears very disturbing. Two solutions, taking in account that this is a prototype: 
 
