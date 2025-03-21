@@ -71,13 +71,9 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 
 # PROJECT STATUS
 
-Buoyancy testing
+to be continued... almost there!
 
-![](Photos/testeFlutuabilidade_7.png)
-
-![](Photos/testeFlutuabilidade_8.png)
-
-![](Photos/testeFlutuabilidade_9.png)
+![](Photos/AQUA_march2025.jpeg)
 
 
 # SUPPORT
