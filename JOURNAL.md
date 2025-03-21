@@ -158,11 +158,11 @@ Buoyancy testing.
 
 We found a structural break in the hull. Perhaps because of a falling situation when removing from the car. Preparing to fix it.
 
+![](Photos/AquaBreak_1.jpg)
 
+We are going to try to fix it. 
 
-(photo here!?!?!?)
-
-We are going to try to fix it. We reprint the access hatch in the top of both hulls with less holes then before, since we decided to have only one openning for the telemetry antenna. This aquatic plataform will serve as a base to have anything that the school need. We reprint the eletronic box and made the batery 4S4P.
+We reprint the access hatch in the top of both hulls with less holes then before, since we decided to have only one openning for the telemetry antenna. This aquatic plataform will serve as a base to have anything that the school need. We reprint the eletronic box and made the battery 4S4P.
 
 ## March
 
