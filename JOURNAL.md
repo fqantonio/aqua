@@ -186,17 +186,16 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 - [ ] Attach security light and flag;
 - [ ] Testing...
 
-## April
+## May
 
 - [ ] Remodeling the top hull covers in order to be more water tight;
 - [ ] Fix the hatchs with holding belts;
 - [ ] Security safety buoy;
-- [ ] Assemble the second battery
 - [ ] Print the batery holder;
 - [ ] Make the second 4S4P batery;
 - [ ] Testing testing testing...
 
-## May
+## June
 
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
