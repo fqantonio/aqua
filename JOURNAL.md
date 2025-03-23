@@ -2,7 +2,7 @@
 
 ## July ##
 
-Idea: build a small catamara (1,2 m) to be used on maritime engeneering training and biowater research. It should be 70% sustainable from A to Z. It should use 3D printing with new materials, and be more environmentally friendly from the very begining of the conceptualization until the moment that is out of service: what shoul it be used for? It should run by GPS way points and have an avidance system. It should user friendly and built with cheap components available on the market.
+Idea: build a small catamara (1,2 m) to be used on maritime engeneering training and water bio research. It should be 70% sustainable from A to Z. It should use 3D printing with new materials, and be more environmentally friendly from the very begining of the conceptualization until the moment that is out of service: what shoul it be used for? It should run by GPS way points and have an avidance system. It should user friendly and built with cheap components available on the market.
 
 # 2023
 
