@@ -179,29 +179,37 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 
 # Tasks
 - [x] Structural break;
-- [ ] Assemble the last cleat;
-- [ ] Glue the foam to the bow;
-- [ ] Seal the motor holes in the hull;
-- [ ] Paint with yellow and varnish;
-- [ ] Attach security light and flag;
+- [x] Assemble the last cleat;
+- [x] Glue the foam to the bow;
+- [x] Paint with yellow and varnish;
+- [x] Attach security light
 - [ ] Testing...
 
 ## May
+The top covers were left unvarnished to directly observe the behavior of the PLA material and compare it to the varnished sections. Foam was adhered to the underside of the hulls to enhance the catamaran's stability. Elastic structures were integrated to securely fasten the covers. Finally, the last coats of paint were applied, and the top hull covers were tightened to improve water tightness. The paint didn't work weel in the foam.
 
-- [ ] Remodeling the top hull covers in order to be more water tight;
-- [ ] Fix the hatchs with holding belts;
-- [ ] Security safety buoy;
+![](Photos/AQUA_march2025.jpeg)
+
+- [X] Remodeling the top hull covers in order to be more water tight;
+- [X] Fix the hatchs with holding belts;
+- [X] Make the second 4S4P batery;
 - [ ] Print the batery holder;
-- [ ] Make the second 4S4P batery;
-- [ ] Testing testing testing...
+- [ ] Security safety buoy;
+- [ ] Seal the motor holes in the hull;
+- [ ] ...and flag;
+
 
 ## June
 
+- [ ] Testing testing testing...
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
 - [ ] Review BOM costs;
+- [ ] Review material waste weight;
 - [ ] Review text;
-- [ ] Discuss and prepare comunication and marketing project presentation for investors support.
+- [ ] Prepare the new designs;
+- [ ] Print with obliquo roller printer;
+- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 
 # Next 2026 task
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
