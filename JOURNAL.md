@@ -188,7 +188,9 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 ## May
 The top covers were left unvarnished to directly observe the behavior of the PLA material and compare it to the varnished sections. Foam was adhered to the underside of the hulls to enhance the catamaran's stability. Elastic structures were integrated to securely fasten the covers. Finally, the last coats of paint were applied, and the top hull covers were tightened to improve water tightness. The paint didn't work weel in the foam.
 
-![](Photos/AQUA_march2025.jpeg)
+![](Photos/pinturaEspuma1.jpeg)
+
+![](Photos/pinturaEspuma2.jpeg)
 
 - [X] Remodeling the top hull covers in order to be more water tight;
 - [X] Fix the hatchs with holding belts;
