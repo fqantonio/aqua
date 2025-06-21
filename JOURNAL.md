@@ -207,26 +207,46 @@ The top covers were left unvarnished to directly observe the behavior of the PLA
 
 ## June
 
-We have made a heavy testing of the boat. Even the transportation was a testing point. The boat is to wide for the van. yes!!! Wrong turn!!!The heat was another etsting point. The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
-
-This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water.
+We have made a heavy testing of the boat. Even the transportation was a testing point. The boat is to wide for the van. yes!!! Wrong turn!!!We need to cut the floats stringers by 7 cm. The heat was another testing point. The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
 
 
+
+This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water (see February pictures). During the transportation they got out.
 
 ## July
 
+- [ ] Cut 7 cm on th exterior stringer's
+- [ ] Second batery on the 3D printed cover
+- [ ] Screw the motors better
+- [ ] Check the electrical cables fixation
+- [ ] Charging procedure
+- [ ] Presence light (not only for the night but to test the transmiter connectivity to the system)
+- [ ] Put the vynil logos 8email entities)
+- [ ] ...and flag;
+- [ ] Testing the boat by radio controler and GPS waypoints;
 - [ ] Testing testing testing...
+- [ ] Transportation in the field
+- [ ] Minimal tools
+- [ ] Using procedure
+
+## October
+
+- [ ] Prepare the inaugoration and delivering
 - [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Testing testing testing... Testing the boat by radio controler and GPS waypoints;
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
 - [ ] Review text;
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
-- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
-- [ ] ...and flag;
+- [ ] Assembling
+- [ ] Packaging
+- [ ] Review docuemntation
 
 # Next 2026 task
+- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
+- [ ] 3 faires
+- [ ] Financing
+- [ ] 
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
 
 
