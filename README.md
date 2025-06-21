@@ -1,5 +1,5 @@
 # General view
-![](Photos/VistaGeral_julh_2024_1.JPG)
+![](Photos/juneStatus_3.JPG)
 
 > Portugal is 97% water
 
