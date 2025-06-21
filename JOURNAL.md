@@ -183,7 +183,7 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 - [x] Glue the foam to the bow;
 - [x] Paint with yellow and varnish;
 - [x] Attach security light
-- [ ] Testing...
+- [x] Testing...
 
 ## May
 
@@ -200,13 +200,20 @@ The top covers were left unvarnished to directly observe the behavior of the PLA
 - [X] Remodeling the top hull covers in order to be more water tight;
 - [X] Fix the hatchs with holding belts;
 - [X] Make the second 4S4P batery;
-- [ ] Print the batery holder;
-- [ ] Security safety buoy;
-- [ ] Seal the motor holes in the hull;
-- [ ] ...and flag;
+- [x] Print the batery holder;
+- [x] Security safety buoy;
+- [x] Seal the motor holes in the hull;
 
 
 ## June
+
+We have made a heavy testing of the boat. Even the transportation was a testing point. The boat is to wide for the van. yes!!! Wrong turn!!!The heat was another etsting point. The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
+
+This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water.
+
+
+
+## July
 
 - [ ] Testing testing testing...
 - [ ] include calcs for the 4S4P batery in this journal;
@@ -217,6 +224,7 @@ The top covers were left unvarnished to directly observe the behavior of the PLA
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
+- [ ] ...and flag;
 
 # Next 2026 task
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
