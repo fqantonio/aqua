@@ -223,7 +223,7 @@ The top covers were replaced because the rubber fixers where not appropiate for 
 
 We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps .
 
-![](Photos/juneStatus_1.jpg)
+![](Photos/starBoardHullCloseSensor.jpg)
 
 This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water (see February pictures). During the transportation they got out. Another wrong turn!
 
@@ -233,7 +233,6 @@ This is crucial. We need to glue the front floaters or the boat will not be hori
 
 ![](Photos/floaterUngluedStatus.jpg)
 
-![](Photos/starBoardHullCloseSensor.jpg)
 
 
 
