@@ -213,13 +213,29 @@ We have made a heavy testing of the boat. Even the transportation was a testing 
 
 The heat was another testing point. 
 
+![](Photos/heatResult.jpeg)
+
+The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB.
+
+![](Photos/CNCPortoMos.jpeg)
+
+![](Photos/CNCPortoMos2.jpeg)
+
+We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps .
+
+![](Photos/juneStatus_1.jpg)
+
+This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water (see February pictures). During the transportation they got out. Another wrong turn!
+
+![](Photos/gluedWrong.jpeg)
+
+![](Photos/gluedWrong2.jpeg)
+
+![](Photos/floaterUngluedStatus.jpg)
+
+![](Photos/starBoardHullCloseSensor.jpg)
 
 
-The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
-
-
-
-This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water (see February pictures). During the transportation they got out.
 
 ## July
 
