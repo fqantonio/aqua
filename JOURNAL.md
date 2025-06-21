@@ -207,7 +207,15 @@ The top covers were left unvarnished to directly observe the behavior of the PLA
 
 ## June
 
-We have made a heavy testing of the boat. Even the transportation was a testing point. The boat is to wide for the van. yes!!! Wrong turn!!!We need to cut the floats stringers by 7 cm. The heat was another testing point. The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
+We have made a heavy testing of the boat. Even the transportation was a testing point. The boat is to wide for the van. yes!!! Wrong turn!!!We need to cut the floats stringers by 7 cm. 
+
+![](Photos/toWideVan.jpg)
+
+The heat was another testing point. 
+
+
+
+The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB. We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps (see picture below).
 
 
 
