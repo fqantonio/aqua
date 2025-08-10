@@ -302,38 +302,40 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 ## October
 
 - [ ] beeps!?
-- [ ] ...and flag;
+- [ ] Valves: buy
+- [ ] print covers for the holes of the motor wires
 - [ ] more flutuability to the bow
-- [ ] Procedures to handle the boat carefully
 - [ ] protections for the bow and the stern
 - [ ] Engine covers, buy
-- [ ] Temperature sensor inside!?
 - [ ] Charging procedure
-- [ ] Put the vynil logos (email entities)
-- [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Teste voltage values and adjust;
-- [ ] Review BOM costs;
-- [ ] Review material waste weight;
-- [ ] Review text;
-- [ ] Prepare the new designs;
-- [ ] Print with obliquo roller printer;
-- [ ] Assembling
-- [ ] Packaging
-- [ ] Review documentation
+- [ ] Test voltage values and adjust it;
+- [ ] lights: white, red, green!?
+- [ ] MP parameters: see discussion on ArduPilot Discourse and about the voltage accurancy
+- [ ] Tests
 
 ## November
 
-- [ ] Prepare the inauguration and delivering
+- [ ] Nicla Vision wifi: print and assemble
+- [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Put the vynil logos (email entities)
+- [ ] Temperature sensor inside!?
+- [ ] Procedures to handle the boat carefully
+- [ ] ...and flag;
+- [ ] repaint?!
+- [ ] Tests
+- [ ] minimum tools
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
-- [ ] Review text;
 - [ ] Prepare the new designs;
-- [ ] Print with obliquo roller printer;
-- [ ] Assembling
-- [ ] Packaging
+- [ ] Review BOM costs;
+- [ ] Review material waste weight;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 
 # Next 2026 task
+- [ ] Packaging
+- [ ] Prepare the new designs;
+- [ ] Prepare the inauguration and delivering
+- [ ] Print with obliquo roller printer;
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 - [ ] 3 faires
 - [ ] Financing
