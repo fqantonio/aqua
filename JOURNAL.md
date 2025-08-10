@@ -303,7 +303,7 @@ You can download the video in the folder VIDEO
 
 ## October
 
-- [ ] beeps!?
+- [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
 - [ ] Valves: buy
 - [ ] print covers for the holes of the motor wires
 - [ ] more flutuability to the bow
