@@ -299,6 +299,8 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 
 ![](Photos/inWater.jpeg)
 
+![](aqua/VIDEO/aquaErvedeiraAgo2025.mp4)
+
 ## October
 
 - [ ] beeps!?
