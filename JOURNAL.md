@@ -291,6 +291,10 @@ when tilted, you can no longer hear the sound of water inside.
 
 Possible entries points. Need procedures to handle the boat. I will try to test the way points. In spite of not having internet on the locals we can use fetching with MP.
 
+![](Photos/entradaÁgua1.jpeg)
+
+![](Photos/entradaÁgua2.jpeg)
+
 Conclusion: No data collected yet... just see what's going on... audible warnings... battery heating... we should have an internal temperature sensor. Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer... but the button to start the engines before arming in the MP software... it have... investigate what it means. It working alright. We will came back to it in October, now, vacations!
 
 ![](Photos/inWater.jpeg)
@@ -303,6 +307,7 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 - [ ] Procedures to handle the boat carefully
 - [ ] protections for the bow and the stern
 - [ ] Engine covers, buy
+- [ ] Temperature sensor inside!?
 - [ ] Charging procedure
 - [ ] Put the vynil logos (email entities)
 - [ ] include calcs for the 4S4P batery in this journal;
