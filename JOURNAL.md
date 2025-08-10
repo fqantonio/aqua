@@ -321,6 +321,7 @@ You can download the video in the folder VIDEO
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Put the vynil logos (email entities)
 - [ ] Temperature sensor inside!?
+- [ ] Paint the flutability level;
 - [ ] Procedures to handle the boat carefully
 - [ ] ...and flag;
 - [ ] repaint?!
@@ -334,6 +335,7 @@ You can download the video in the folder VIDEO
 - [ ] Review documentation: manual, procedures, safety and maintenance
 
 # Next 2026 task
+- [ ] Solar powered?!
 - [ ] Packaging
 - [ ] Prepare the new designs;
 - [ ] Prepare the inauguration and delivering
