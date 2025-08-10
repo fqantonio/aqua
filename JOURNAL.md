@@ -304,15 +304,15 @@ You can download the video in the folder VIDEO
 ## October
 
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
+- [ ] Charging procedure
 - [ ] Valves: buy
+- [ ] Engine covers, buy
 - [ ] print covers for the holes of the motor wires
 - [ ] more flutuability to the bow
-- [ ] protections for the bow and the stern
-- [ ] Engine covers, buy
-- [ ] Charging procedure
+- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accurancy
 - [ ] Test voltage values and adjust it;
 - [ ] lights: white, red, green!?
-- [ ] MP parameters: see discussion on ArduPilot Discourse and about the voltage accurancy
+- [ ] protections for the bow and the stern
 - [ ] Tests
 
 ## November
