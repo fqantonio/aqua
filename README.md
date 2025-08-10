@@ -71,8 +71,11 @@ After being tested we will deliver it to the MARE in Peniche - Portugal (this is
 
 # PROJECT STATUS
 
-![](Photos/juneStatus_3.jpg)
+Tested. Work fine. Problems with water infiltration. October awaits for more!
 
+![](Photos/inWater.jpeg)
+
+(video???)
 
 # SUPPORT
 
