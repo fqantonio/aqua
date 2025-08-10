@@ -233,29 +233,80 @@ This is crucial. We need to glue the front floaters or the boat will not be hori
 
 ![](Photos/floaterUngluedStatus.jpg)
 
-
-
-
 ## July
 
-- [ ] Cut 7 cm on th exterior stringer's
-- [ ] Second batery on the 3D printed cover
-- [ ] Screw the motors better
-- [ ] Check the electrical cables fixation
-- [ ] Charging procedure
-- [ ] Presence light (not only for the night but to test the transmiter connectivity to the system)
-- [ ] Put the vynil logos 8email entities)
-- [ ] ...and flag;
-- [ ] Testing the boat by radio controler and GPS waypoints;
-- [ ] Testing testing testing...
-- [ ] Transportation in the field
-- [ ] Minimal tools
-- [ ] Using procedure
+- [x] Second batery on the 3D printed cover
+- [x] Screw the motors better
+- [x] Check the electrical cables fixation
+- [x] Presence light (not only for the night but to test the transmiter connectivity to the system)
+- [x] Testing the boat by radio controler and GPS waypoints;
+- [x] Testing testing testing...
+- [x] Transportation in the field
+- [x] Minimal tools
+- [x] Using procedure
+
+Tomorrow I'm going to assemble the engine. It was removed when I moved it on the table. Issues around the use of the boat.
+
+![](Photos/bronkenMotor.jpeg)
+
+Boat ready to test. We machine the parts on the FAB LAB CNC machine of Porto de Mós FAB LAB. Fix them with flat ropes.
+
+![](Photos/pronto.jpeg)
+
+## August
+
+Tests on 10 August. Add a handcart to move it easily.
+
+![](Photos/prontoErvedeira.jpeg)
+
+![](Photos/prontoErvedeira2.jpeg)
+
+It goes ok as you can see in the video. The bow is a little bit down but we will add more flutuability in the next iteraction. Everything was fine... When I opened it, it has water inside!!! Brr....
+
+In the next day I weard water moving also inside. The boat is taking on water, I don't know where from. I should none that because hobbiecat does that...
+
+Water testing.
+
+![](Photos/testeÁguaInfiltração.jpeg)
+
+Conclusion: water is coming in through the four screw holes and the both electrical wires that powers the engine. But it doesn't go directly into the boat, it enters the hull and then comes out through interior grooves in the bow... that are result of the way the boat was built... I'll insulate it as best I can... and hope for the best. I use silicone in the wire hole and the screws.
+
+![](Photos/silicone.jpeg)
+
+Notice that the starboard paint peeled off.
+
+![](Photos/peeledOff.jpeg)
+
+Apply silicone... dry for 6 hours and put it on water again.
+
+![](Photos/silicone.jpeg)
+
+Took water inside again but less... but it worked... buzzer ringing again.
+Interior water also. F...
+
+Today, Sunday, it's drying! I put it back also. Lift it in several positions for the ware to came out from the grooves: it was upside down because the water comes out inside, at the stern, and then drains inside, but at the top of the hull.
+when tilted, you can no longer hear the sound of water inside.
+
+![](Photos/secagem.jpeg)
+
+Possible entries points. Need procedures to handle the boat. I will try to test the way points. In spite of not having internet on the locals we can use fetching with MP.
+
+Conclusion: No data collected yet... just see what's going on... audible warnings... battery heating... we should have an internal temperature sensor. Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer... but the button to start the engines before arming in the MP software... it have... investigate what it means. It working alright. We will came back to it in October, now, vacations!
+
+![](Photos/inWater.jpeg)
 
 ## October
 
-- [ ] Prepare the inaugoration and delivering
+- [ ] beeps!?
+- [ ] ...and flag;
+- [ ] more flutuability to the bow
+- [ ] Procedures to handle the boat carefully
+- [ ] protections for the bow and the stern
+- [ ] Engine covers, buy
+- [ ] Charging procedure
+- [ ] Put the vynil logos (email entities)
 - [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Teste voltage values and adjust;
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
 - [ ] Review text;
@@ -263,13 +314,25 @@ This is crucial. We need to glue the front floaters or the boat will not be hori
 - [ ] Print with obliquo roller printer;
 - [ ] Assembling
 - [ ] Packaging
-- [ ] Review docuemntation
+- [ ] Review documentation
+
+## November
+
+- [ ] Prepare the inauguration and delivering
+- [ ] Review BOM costs;
+- [ ] Review material waste weight;
+- [ ] Review text;
+- [ ] Prepare the new designs;
+- [ ] Print with obliquo roller printer;
+- [ ] Assembling
+- [ ] Packaging
+- [ ] Review documentation: manual, procedures, safety and maintenance
 
 # Next 2026 task
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 - [ ] 3 faires
 - [ ] Financing
-- [ ] 
+- [ ] (...)
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
 
 
