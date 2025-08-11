@@ -333,6 +333,7 @@ You can download the video in the folder VIDEO
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
 - [ ] Review documentation: manual, procedures, safety and maintenance
+- [ ] Review text file business
 
 # Next 2026 task
 - [ ] Solar powered?!
