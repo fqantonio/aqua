@@ -303,6 +303,7 @@ You can download the video in the folder VIDEO
 
 ## October
 
+- [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
 - [ ] Charging procedure
 - [ ] Valves: buy
