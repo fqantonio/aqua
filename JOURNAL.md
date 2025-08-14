@@ -295,7 +295,7 @@ Possible entries points. Need procedures to handle the boat. I will try to test 
 
 ![](Photos/entradaÁgua2.jpeg)
 
-Conclusion: No data collected yet... just see what's going on... audible warnings... battery heating... we should have an internal temperature sensor. Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer... but the button to start the engines before arming in the MP software... it have... investigate what it means. It working alright. We will came back to it in October, now, vacations!
+Conclusion: No data collected yet... just see what's going on... audible warnings... battery heating... we should have an internal temperature sensor. Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer (well, we don't have it now but we had it, it broke)... but the button to start the engines before arming in the MP software... it has... investigate what it means. It working alright. We will came back to it in October, now, vacations!
 
 ![](Photos/inWater.jpeg)
 
