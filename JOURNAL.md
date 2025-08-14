@@ -305,15 +305,15 @@ You can download the video in the folder VIDEO
 
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
-- [ ] Charging procedure: carefull with both bateries;
+- [ ] Charging procedure: improve circuit and carefull with both bateries;
 - [ ] Valves: buy
 - [ ] Engine covers, buy
 - [ ] print covers for the holes of the motor wires
-- [ ] more flutuability to the bow
+- [ ] more flutuability to the bow: improve with a bolt and print 3d part.
 - [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accurancy
 - [ ] Test voltage values and adjust it;
 - [ ] lights: white, red, green!?
-- [ ] protections for the bow and the stern
+- [ ] protections for corners and all the bow and the stern
 - [ ] Tests
 
 ## November
