@@ -3,18 +3,25 @@
 
 > Portugal is 97% water
 
-# RESUME
-AQUA is a small autonomous vessel for biowater research and aquatic engineering learning. 
-This project aims to considerer the environmental sustainability from start to end as a core strategy, meaning that, all the steps, from fabrication to the end of life, should be environmentally friendly. This team values should always be under the 4R's and circular economy principles, at least to a 70% degree. It aims also to estimulate the focus at the water and ocean systems since Portugal is 97% water. It also pretains to deliver a water platform system for the research comunity that is simple to use, to repair and opensource, at least at same point.
+## About AQUA
 
-So, it will use 3D printing with easy environmental decomposition materials, being environmentally friendly from the very begining of the conceptualization, until the moment that is out of service: what shoul it be used for then? 
+AQUA is a small autonomous vessel designed for biowater research and aquatic engineering education. This project's core strategy is to consider environmental sustainability from start to finish. All stages, from fabrication to the end of life, should be environmentally friendly.
 
-From the point of view of the operation it should run by manual controling with video display and GPS way points with an autonomous avoidance system. It should be user friendly and built with cheap components ready available on the market and simple to repair. Battery autonomy should last for two hours.
+The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** and **circular economy principles**, aiming to meet these standards by at least **70%**. The project also seeks to raise awareness about water and ocean systems, which is especially important since **Portugal's territory is 97% water**.
 
-This catamarã is a 1,2 m long and it pretends to be used in inside waters in good weather conditions. It is autonomous and carries a structure to transport sensores and gather local information of physical and chemical parameters.
+The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
-Because of this fact, we think that Portugal should set this strategy as a major footprint: taking care of the sea by knowing about it and defende it as an asset for the long future.
+## Technical Specifications & Operation**
 
+The vessel will operate using manual control with a video display, GPS waypoints, and an autonomous collision avoidance system. It is designed to be **user-friendly**, built with affordable, readily available components, and simple to repair. The battery life is designed to last for two hours.
+
+## Vessel Design & Function**
+
+This **1.2-meter-long catamaran** is intended for use in calm, inland waters during good weather conditions. It is autonomous and carries a structure to transport sensors for gathering local physical and chemical data.
+
+## Vision and Impact
+
+We believe this project aligns with a crucial strategy for Portugal: taking care of the sea by learning about it and defending it as a long-term asset. This initiative can serve as a major footprint for the nation's commitment to marine environmental stewardship.
 This project is documented as a journal in the file with the name "journal".
 
 ![First Render of AQUA](Photos/aqua_render1.png)
