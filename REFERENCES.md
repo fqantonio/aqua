@@ -94,7 +94,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 # FAIRES
 
 # PROFESSIONAL COMPANIES 
-- [ORCA]()
+- [ORCA](https://expresso.pt/sociedade/ciencia/2022-03-24-ORCA.-O-barco-autonomo-que-promete-levar-o-CEIIA-a-novos-negocios-6b455650)
 - [BlueBoat](https://bluerobotics.com/product-category/boat/)
 - [Sea Floor Systems](https://www.seafloorsystems.com)
 - [Saildrone](https://www.saildrone.com/technology/vehicles)
