@@ -1,5 +1,5 @@
 # PLA 
-## BEHAVIOR to maritime environments
+## PLA BEHAVIOR to maritime environments
  - [Behaviour of 3D printed PLA and PLA-PHA in marine environments, G R Montalvão et al 2020 IOP Conf. Ser.: Earth Environ. Sci. 424 012013](https://iopscience.iop.org/article/10.1088/1755-1315/424/1/012013) 
  - [Performance of additively manufactured polylactic acid (PLA) in prolonged marine environments, Polymer Degradation and Stability
 Volume 199, May 2022, 109903](https://www.sciencedirect.com/science/article/abs/pii/S0141391022000891)
@@ -34,11 +34,10 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Ardupilot Receiver](https://ardupilot.org/copter/docs/common-rc-systems.html)
 - [Pixwack pro wiring](https://docs.px4.io/main/en/assembly/quick_start_pixhawk.html)
 - [Pixhawk connector diagram](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
-- [FPV, Holybro micro OSD v2](https://www.youtube.com/watch?v=ghhqSGxdIwQ&t=421s)
-- [FPV, Holybro micro OSD v2 wiring](https://www.flyingtech.co.uk/wp-content/uploads/2021/03/HolyBro-Micro-OSD-V2-Manual-with-HolyBro-formatting-v0.1-copy.pdf)
 - [Radio telemetry, Atlatl/HV](https://www.youtube.com/watch?v=4xW_c2qP68c)
 - [CONECTORS](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 - [Thruster User Guide](https://bluerobotics.com/learn/thruster-usage-guide/)
+- [T200](https://bluerobotics.com/store/thrusters/t100-t200-thrusters/t200-thruster-r2-rp/)
 - [Minimum Throttle, dead zone](https://ardupilot.org/rover/docs/rover-motor-and-servo-configuration.html#rover-motor-and-servo-min-throttle)
   
 # Radio Transmitter
@@ -52,11 +51,14 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
 
 # LAW
-
 [Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
 
 # SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
+
+# OSD
+- [FPV, Holybro micro OSD v2](https://www.youtube.com/watch?v=ghhqSGxdIwQ&t=421s)
+- [FPV, Holybro micro OSD v2 wiring](https://www.flyingtech.co.uk/wp-content/uploads/2021/03/HolyBro-Micro-OSD-V2-Manual-with-HolyBro-formatting-v0.1-copy.pdf)
 
 # OTHER PROJECTS
 - [My Autonomous Sonar Boat, Red Maniac RC](https://www.youtube.com/watch?v=G87lRPbBeAo&t=5s)
@@ -69,7 +71,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [MIT deploys first full-scale autonomous Roboat on canals of Amsterdam](https://newatlas.com/marine/mit-first-full-scale-autonomous-roboat-amsterdam/)
 - [Robot Boats Survive Epic Voyage Across the Pacific — So Far](https://www.wired.com/2012/05/wave-glider-crosses-pacific/)
 
-EXAMPLES OF AUTONOMOUS BOATS
+# EXAMPLES OF AUTONOMOUS BOATS
 - [Further Testing of Materials for Radio Controlled Yachts](https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
 - [How to 3D print a boat](https://arcticchallenge.co.uk/2022/03/13/how-to-3d-print-a-boat/)
 - [3D Printed Boats: Everything You Need to Know](https://www.nikkoindustries.com/blogs/news/3d-printed-boats-everything-you-need-to-know)
@@ -87,7 +89,12 @@ EXAMPLES OF AUTONOMOUS BOATS
 - [Painless360](https://www.youtube.com/@Painless360)
 - [Opensource Drone](https://www.youtube.com/watch?v=QvRxxjaLjxg)
 
+# RESEARCH INSTITUTES
+
+# FAIRES
+
 # PROFESSIONAL COMPANIES 
+- [ORCA]()
 - [BlueBoat](https://bluerobotics.com/product-category/boat/)
 - [Sea Floor Systems](https://www.seafloorsystems.com)
 - [Saildrone](https://www.saildrone.com/technology/vehicles)
