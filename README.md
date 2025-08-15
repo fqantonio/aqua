@@ -84,5 +84,5 @@ Download video in the VIDEO folder!
  - Marko Mauser, [Mauser](https://mauser.pt/)
  - Tiago Elias, Maker, 3D printing
  - Paulo Teixeira, 3D printing, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
- - Gonçalo Pereira, bateries training, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
+ - Gonçalo Pereira, batteries training and electric circuit adviser, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
  - Renan Portocarrero, MAKER, 3D printing
