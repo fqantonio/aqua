@@ -75,7 +75,7 @@ Tested. Work fine. Problems with water infiltration. October awaits for more!
 
 ![](Photos/inWater.jpeg)
 
-Download video in the VIDEO folder!
+Video here: https://youtu.be/jL261LpirRE
 
 # SUPPORT
 
