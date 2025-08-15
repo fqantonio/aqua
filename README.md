@@ -11,11 +11,11 @@ The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** a
 
 The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
-## Technical Specifications & Operation**
+## Technical Specifications & Operation
 
 The vessel will operate using manual control with a video display, GPS waypoints, and an autonomous collision avoidance system. It is designed to be **user-friendly**, built with affordable, readily available components, and simple to repair. The battery life is designed to last for two hours.
 
-## Vessel Design & Function**
+## Vessel Design & Function
 
 This **1.2-meter-long catamaran** is intended for use in calm, inland waters during good weather conditions. It is autonomous and carries a structure to transport sensors for gathering local physical and chemical data.
 
@@ -69,11 +69,11 @@ David Rodrigues, PhD, IPLeiria, avoidance systems
 # HISTORY
 This starts is based in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
 
-Since then, the Lab Aberto FAB LAB have supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team, with that they were the winners of 2018 Sunset Hackathon. 
+Since then, the Lab Aberto FAB LAB have supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team, with that they were the winners of 2018 Sunset Hackathon in Ilhavo (Aveiro - Portugal). 
 
-At this moment we gather, informally, a few experties of different areas to develop a project that need time to set the hulls on the water. We have a "AQUA" which is a body board with same components to serve as pilot test platform, owned by tha Lab Aberto FAB LAB assotiation. And we are a spinoff of LAB ABERTO FAB LAB, building a first prototyping more close to a small catamaran vessel for inside water bodies training and research.
+At this moment we gather, informally, a few expertises of different areas to develop a project that need time to set the hulls on the water. We have also another "AQUA" which is a body board with same components to serve as pilot test platform, owned by tha Lab Aberto FAB LAB assotiation. And we are a spinoff of LAB ABERTO FAB LAB, building a first prototyping more close to a small catamaran vessel for inside water bodies training and research.
 
-After being tested we will deliver it to the MARE in Peniche - Portugal (this is a depratment of the Polytechnic Institue of Leiria) for further testing in a real framework of researchers and students. 
+After being tested, our aim is to share it with MARE in Peniche - Portugal (this is a department of the Polytechnic Institue of Leiria) for further testing in a real framework of researchers and students. 
 
 
 # PROJECT STATUS
