@@ -303,6 +303,7 @@ You can download the video in the folder VIDEO
 
 ## October
 
+- [ ] repair the hulls (see procedure bellow)
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
 - [ ] Charging procedure: improve circuit and carefull with both bateries;
@@ -316,8 +317,30 @@ You can download the video in the folder VIDEO
 - [ ] protections for corners and all the bow and the stern
 - [ ] Tests
 
+![](Photos/endurecedor.jpeg)
+
+![](Photos/amarelo.jpeg)
+
+We plan to repaint the hulls in October. We will follow this procedure:
+
+1. Print the bow floats;
+2. Sand the hulls to remove the paint as much as possible (120 to 220);
+3. Prepare the holes for the bow floats, throtles, valves and the lights;
+4. Close the holes (prepare the repair compound using two spatulas: just a drop of hardener is enough);
+5. Wait 24 hours; 
+6. Sand the parts where we applied the repair compound;
+7. Clean with a sponge;
+8. Apply epoxi primer with the paint roller: after preparing we have two hours to apply it;
+9. Wait 2 days;
+10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush: stirr well before mixing; make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
+11. Wait two days;
+12. Repaint if needed;
+13. Mount the structure, flag, lights, eletronic and eletrical parts;
+14. Test
+
 ## November
 
+- [ ] Tests
 - [ ] Nicla Vision wifi: print and assemble
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Put the vynil logos (email entities)
@@ -346,6 +369,6 @@ You can download the video in the folder VIDEO
 - [ ] 3 faires
 - [ ] Financing
 - [ ] (...)
-- [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonolously by pattern detecting: perhaps both?
+- [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
 
 
