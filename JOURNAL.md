@@ -314,7 +314,8 @@ You can download the video in the folder VIDEO
 - [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accurancy
 - [ ] Test voltage values and adjust it;
 - [ ] lights: white, red, green!?
-- [ ] protections for corners and all the bow and the stern
+- [ ] removable protections for corners, bow and stern
+- [ ] Get test sites maps with APM 
 - [ ] Tests
 
 ![](Photos/endurecedor.jpeg)
