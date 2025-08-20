@@ -303,18 +303,25 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 
 ## October
 
+- [x] Valves: buy
+- [x] Engine covers, buy
+- [x] more flutuability to the bow: improve with a bolt...
+- [x] BUY the flag
+- [ ] ...and print 3d part.
+- [ ] PVC for the holes of the motor atachment
+- [x] Buy lights: white, red, green!?
+
 - [ ] repair the hulls (see procedure bellow)
+
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
-- [ ] Charging procedure: improve circuit and carefull with both bateries;
-- [ ] Valves: buy
-- [ ] Engine covers, buy
-- [ ] print covers for the holes of the motor wires
-- [ ] more flutuability to the bow: improve with a bolt and print 3d part.
+
+- [ ] Charging procedure: improve circuit and carefully with both bateries in mind;
 - [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accurancy
 - [ ] Test voltage values and adjust it;
-- [ ] lights: white, red, green!?
+
 - [ ] removable protections for corners, bow and stern
+
 - [ ] Get test sites maps with APM 
 - [ ] Tests
 
@@ -326,9 +333,9 @@ We plan to repaint the hulls in October. We will follow this procedure:
 
 1. Print the bow floats;
 2. Sand the hulls to remove the paint as much as possible (120 to 220);
-3. Prepare the holes for the bow floats, throtles, valves and the lights;
+3. Prepare the holes for the bow floats, thruster cables, valves and the three lights (red, green and white);
 4. Close the holes (prepare the repair compound using two spatulas: just a drop of hardener is enough);
-5. Wait 24 hours; 
+5. Wait 24 hours;
 6. Sand the parts where we applied the repair compound;
 7. Clean with a sponge;
 8. Apply epoxi primer with the paint roller: after preparing we have two hours to apply it;
@@ -345,27 +352,19 @@ We plan to repaint the hulls in October. We will follow this procedure:
 - [ ] Nicla Vision wifi: print and assemble
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Put the vynil logos (email entities)
-- [ ] Temperature sensor inside!?
-- [ ] Paint the flutability level;
-- [ ] Procedures to handle the boat carefully
-- [ ] ...and flag;
-- [ ] repaint?!
-- [ ] Tests
 - [ ] minimum tools
-- [ ] Review BOM costs;
-- [ ] Review material waste weight;
-- [ ] Prepare the new designs;
+- [ ] Write the manual with procedures to handle the boat carefully
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Review text file business
 
 # Next 2026 task
+- [ ] Prepare the new designs;
+- [ ] Print with obliquo roller printer;
 - [ ] Solar powered?!
 - [ ] Packaging
-- [ ] Prepare the new designs;
 - [ ] Prepare the inauguration and delivering
-- [ ] Print with obliquo roller printer;
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 - [ ] 3 faires
 - [ ] Financing
