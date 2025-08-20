@@ -82,7 +82,7 @@ Tested. Work fine. Problems with water infiltration. October awaits for more!
 
 ![](Photos/inWater.jpeg)
 
-Video here: 'https://www.youtube-nocookie.com/embed/https://youtu.be/jL261LpirRE'
+Video here: '[https://youtu.be/jL261LpirRE](https://www.youtube.com/watch?v=jL261LpirRE)'
 
 # SUPPORT
 
