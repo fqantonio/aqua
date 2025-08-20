@@ -299,7 +299,7 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 
 ![](Photos/inWater.jpeg)
 
-You can download the video in the folder VIDEO
+Video: https://www.youtube.com/watch?v=jL261LpirRE
 
 ## October
 
