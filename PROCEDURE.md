@@ -8,7 +8,8 @@
 - Turn on the radio transmitter (verify green led in the receiver: changing from blinking to steady;
 - Conectar MP (botão na janela do programa, em cima à direita);
 - Check the battery voltage
-- Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?) In the case of AUTO, ways point settled???
+- Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?)
+- In the case of AUTO, ways point settled??? https://ardupilot.org/planner/docs/common-mission-planning.html
 
 # DURING OPERATIONS
 
