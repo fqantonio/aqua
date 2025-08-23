@@ -1,4 +1,4 @@
-# Before
+# BEFORE
 
 - Materials check list: computer; roap; trolley; fenders; basic tools; USB cables; charger; telemetry radios; wooden platform;
 - Feetching the maps with Mission Planner (PM) in a computer with internet access beforehand;
@@ -10,7 +10,7 @@
 - Check the battery voltage
 - Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?) In the case of AUTO, ways point settled???
 
-# During Operations
+# DDURING OPERATIONS
 
 ## START
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier
@@ -42,7 +42,7 @@
 - Bring AQUA to shore
 - Clean as much as possible with fresh water: becarefull with the entrances of water inside AQUA
 
-# After
+# AFTER
 
 - collect tools and utensils in the bag and box
 - put everything in the trolley
