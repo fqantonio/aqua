@@ -10,7 +10,7 @@
 - Check the battery voltage
 - Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?) In the case of AUTO, ways point settled???
 
-# DDURING OPERATIONS
+# DURING OPERATIONS
 
 ## START
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier
