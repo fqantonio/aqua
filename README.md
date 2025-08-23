@@ -27,10 +27,9 @@ This project is documented as a journal in the file with the name "journal".
 ![First Render of AQUA](Photos/aqua_render1.png)
 
 # FEATURES
-- Aquatics robotics made simple, to be used by students and as inland water and port systems research platform;
-- Reusable, affordable and biofriendly
-- Biofriendly up to 80%
-- Simple and cheap maintance
+- A Simple Aquatic Robotics Platform for Training, Education, and Research
+- Reusable, affordable and biofriendl up to 80%
+- Simple use and cheap maintance
  
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqua system control  
