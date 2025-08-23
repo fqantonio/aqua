@@ -309,6 +309,7 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 - [x] BUY the flag
 - [x] PVC for the holes of the motor atachment
 - [x] Buy lights: white, red, green!?
+- [x] Procedures
 
 - [ ] ...and print 3d part.
 - [ ] repair and paint the hulls (see procedure bellow)
@@ -360,7 +361,7 @@ We plan to repaint the hulls in October. We will follow this procedure:
 - [ ] Review text file business
 
 # Next 2026 task
-- [ ] Painte needed or why print in yellow?
+- [ ] Paint needed or why print in yellow?
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
 - [ ] Solar powered?!
