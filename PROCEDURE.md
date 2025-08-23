@@ -40,6 +40,7 @@
 - Turn off motor switch (from red led steady to blink)
 - Turn of power
 - Bring AQUA to shore
+- Clean as much as possible with fresh water: becarefull with the entrances of water inside AQUA
 
 # After
 
