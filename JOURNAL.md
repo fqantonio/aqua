@@ -307,11 +307,11 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 - [x] Engine covers, buy
 - [x] more flutuability to the bow: improve with a bolt...
 - [x] BUY the flag
-- [ ] ...and print 3d part.
-- [ ] PVC for the holes of the motor atachment
+- [x] PVC for the holes of the motor atachment
 - [x] Buy lights: white, red, green!?
 
-- [ ] repair the hulls (see procedure bellow)
+- [ ] ...and print 3d part.
+- [ ] repair and paint the hulls (see procedure bellow)
 
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
@@ -360,6 +360,7 @@ We plan to repaint the hulls in October. We will follow this procedure:
 - [ ] Review text file business
 
 # Next 2026 task
+- [ ] Painte needed or why print in yellow?
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
 - [ ] Solar powered?!
