@@ -302,6 +302,43 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 Video: https://www.youtube.com/watch?v=jL261LpirRE
 
 ## September
+Repaint everything. Hard work that need to be done! Paint, holes repair and primary
+
+![](Photos/PrimarioTapaBuracos.jpeg)
+
+![](Photos/Tinta.jpeg)
+
+![](Photos/conjunto.jpeg)
+
+All set disassembled.
+
+![](Photos/desmontado.jpeg)
+
+Minimal tools to disassembled.
+
+![](Photos/ferramentasMinimas.jpeg)
+
+Destails, starboard and port board.
+
+![](Photos/detalheFundoBombordo.jpeg)
+
+![](Photos/detalheFundoEstibordo.jpeg)
+
+![](Photos/detalheMotor1.jpeg)
+
+![](Photos/detalheMotor2.jpeg)
+
+![](Photos/detalheOrificios1.jpeg)
+
+![](Photos/detalheOrificios2.jpeg)
+
+![](Photos/detalheOrificios3.jpeg)
+
+![](Photos/detalheOrificios4.jpeg)
+
+Eletrical part.
+
+![](Photos/parteEletrica.jpeg)
 
 ## October
 
