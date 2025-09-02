@@ -301,6 +301,8 @@ Conclusion: No data collected yet... just see what's going on... audible warning
 
 Video: https://www.youtube.com/watch?v=jL261LpirRE
 
+## September
+
 ## October
 
 - [x] Valves: buy
@@ -323,16 +325,17 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 
 - [ ] removable protections for corners, bow and stern
 
-- [ ] Get test sites maps with APM 
+- [ ] Download log data procedure
+- [ ] Get test sites maps with APM fetching
 - [ ] Tests
 
 ![](Photos/endurecedor.jpeg)
 
 ![](Photos/amarelo.jpeg)
 
-We plan to repaint the hulls in October. We will follow this procedure:
+We plan to repaint the hulls in October. We will follow this **procedure**:
 
-1. Print the bow floats;
+1. 3D printing the bow floats;
 2. Sand the hulls to remove the paint as much as possible (120 to 220);
 3. Prepare the holes for the bow floats, thruster cables, valves and the three lights (red, green and white);
 4. Close the holes (prepare the repair compound using two spatulas: just a drop of hardener is enough);
@@ -341,7 +344,7 @@ We plan to repaint the hulls in October. We will follow this procedure:
 7. Clean with a sponge;
 8. Apply epoxi primer with the paint roller: after preparing we have two hours to apply it;
 9. Wait 2 days;
-10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush: stirr well before mixing; make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
+10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush: stir well before mixing; make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
 11. Wait two days;
 12. Repaint if needed;
 13. Mount the structure, flag, lights, eletronic and eletrical parts;
@@ -350,7 +353,7 @@ We plan to repaint the hulls in October. We will follow this procedure:
 ## November
 
 - [ ] Tests
-- [ ] Nicla Vision wifi: print and assemble
+- [ ] Nicla Vision WIFI: print and assemble
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Put the vynil logos (email entities)
 - [ ] minimum tools
@@ -361,10 +364,11 @@ We plan to repaint the hulls in October. We will follow this procedure:
 - [ ] Review text file business
 
 # Next 2026 task
+- [ ] Deliver for training and testing (IPL);
 - [ ] Paint needed or why print in yellow?
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
-- [ ] Solar powered?!
+- [ ] Solar charging proceding and materials?!
 - [ ] Packaging
 - [ ] Prepare the inauguration and delivering
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
