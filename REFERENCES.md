@@ -101,5 +101,11 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Multi-Purpose Unmanned Surface Vehicle 4.0, Submergence Group & Affiliates ](https://www.youtube.com/watch?v=szRWuguDHuo)
 - [UNIQUE GROUP](https://www.uniquegroup.com/solutions/unmanned-survey-vessels/?utm_source=google&utm_medium=cpc&utm_campaign=usv-western-hemisphere-search&utm_term=auv%20systems&utm_content=generic-asv&utm_term=auv%20systems&utm_campaign=ASV++(fixed+530)&utm_source=adwords&utm_medium=ppc&hsa_acc=8945981504&hsa_cam=18151076352&hsa_grp=146223606371&hsa_ad=618282513483&hsa_src=g&hsa_tgt=kwd-1956749695874&hsa_kw=auv%20systems&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_Kgldm15CWGCjYWvxruiFVsk_4542mwJyCSkMrPS3XFkaD6jwo1U3cahoCkJMQAvD_BwE)
 
+# EPOXY
+- https://bramptontechnology.com/understanding-the-science-of-waterproof-epoxy/?srsltid=AfmBOooUiCUlK0Fa6sgTrG4pshEND0tu8YvJhRhPGMW3OeZWKQ4ipXv1
+- https://www.reallandcomposite.com/How-Marine-Resin-and-Regular-Epoxy-Perform-in-Boat-Repairs-2025-Guide.html
+- https://www.mdpi.com/2073-4360/16/11/1510
+- https://www.sciencedirect.com/science/article/pii/S259012302401034X
+
 # LORA
 - [You’ve Never Seen WiFi Like This, Data Slayer](https://www.youtube.com/watch?v=9azEfCQNhSA)
