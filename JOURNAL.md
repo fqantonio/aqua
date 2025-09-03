@@ -340,6 +340,12 @@ Eletrical part.
 
 ![](Photos/parteEletrica.jpeg)
 
+Reparing th boat confront us with the epoxy problem, that were two problems:
+1. waterproof epoxy: we didn't use it;
+2. we should have sanded the PLA to create roughness;
+
+Always learning in the hard way.
+
 ## October
 
 - [x] Valves: buy
