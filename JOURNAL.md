@@ -357,7 +357,7 @@ Always learning in the hard way.
 - [x] Procedures
 
 - [ ] ...and print 3d part.
-- [ ] repair and paint the hulls (see procedure bellow)
+- [x] repair and paint the hulls (see procedure bellow)
 
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
@@ -385,13 +385,15 @@ We plan to repaint the hulls in October. We will follow this **procedure**:
 5. Wait 24 hours;
 6. Sand the parts where we applied the repair compound;
 7. Clean with a sponge;
-8. Apply epoxi primer with the paint roller: after preparing we have two hours to apply it;
-9. Wait 2 days;
-10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush: stir well before mixing; make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
-11. Wait two days;
-12. Repaint if needed;
-13. Mount the structure, flag, lights, eletronic and eletrical parts;
-14. Test
+8. Apply epoxi primer with the paint roller and brush: after preparing we have two hours to apply it;
+9. Wait 1 day and paint: if you can't, Wait 5 days for the paint to become glazed, sand again with 220-grit sandpaper and paint (the sanding is for the paint adhesion;
+10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush:
+    (a) stir well before mixing;
+    (b) make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
+12. Wait two days;
+13. Repaint if needed;
+14. Mount the structure, flag, lights, eletronic and eletrical parts;
+15. Test, test, test and test!
 
 ## November
 
