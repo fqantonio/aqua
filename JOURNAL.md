@@ -16,7 +16,7 @@ The energy system should use Samsung 18650 cells in a two bateries 4S4P setting 
 
 For the spare parts it should have cheap components easily available on the market.
 
-It all strated here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
+It all started here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
 
 # 2023
 
