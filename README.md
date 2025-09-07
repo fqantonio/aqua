@@ -1,4 +1,5 @@
 # General view
+
 ![](Photos/OceanRacePhoto.jpg)
 
 > Portugal is 97% water
@@ -11,7 +12,9 @@ The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** a
 
 ## Mission
 
-The goal is to construct an DIY affordable and easily maintainable 1.2-meter catamaran from mostly sustainable materials. This vessel will be designed for a 10 kg payload capacity and at least 2 hours of autonomous operation. A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
+The goal is to construct an DIY affordable and easily maintainable 1.2-meter catamaran from mostly sustainable materials. This vessel will be designed for a 10 kg payload capacity and at least 2 hours of autonomous operation. 
+
+A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
 
 The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
@@ -70,7 +73,7 @@ David Rodrigues, PhD, IPLeiria, avoidance systems
 ```
 
 # HISTORY
-This starts is based in the [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/), as the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
+It all started here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University, Caparica Campus, Almada, Lisbon, Portugal [FAB ACADEMY 2019](https://fabacademy.org/2019/labs/fct/students/antonio-gomes/). This was the final [incompleted] project, at the [FCT FAB LAB](https://www.fctfablab.fct.unl.pt/), Filipe Silvestre, as the local instructor and Luís Carvão, as the node instructor, course coordenated by the [FABACADEMY](https://fabacademy.org/), by professor Neil Gershenfeld.
 
 Since then, the Lab Aberto FAB LAB have supported two catamarans made by our intership (Guilherme Cruz) and by the Lab Aberto team, with that they were the winners of 2018 Sunset Hackathon in Ilhavo (Aveiro - Portugal). 
 
