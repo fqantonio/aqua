@@ -2,17 +2,21 @@
 
 ## July ##
 
-Idea: Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload. The vessel should have a 2-hour operating endurance and be constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability
+### Idea
+
+Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload with 2-hour operating endurance and be constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability.
 
 This vessel could be used as a platform for maritime engineering training and aquatic bioecochemistry or water quality assessment. 
 
 It will uses modeling and 3D printing with PLA, with the possiblility of exploring new ecofriendly materials: environmentally friendly from the very begining of the conceptualization until the moment that is out of service.
 
-The control, in a early stage, is run by radio and GPS way points. If needed could have an avoidance system. We will use ARDUPILOT, an open-source autopilot software suite. 
+The control, in a early stage, is by radio and GPS way points using Mission Planner of ARDUPILOT software opensource community. If needed could have an avoidance system. ARDUPILOT, is an open-source autopilot software suite where mission Planner is a product. 
 
-The energy system use 4S4P two bateries 
+The energy system should use Samsung 18650 cells in a two bateries 4S4P setting in paralell (16.8 V). This system can be charged with solar pannels or a 220 V home energy source.
 
-For the spare parts it should have cheap components easily available on the market. 
+For the spare parts it should have cheap components easily available on the market.
+
+It all strated here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
 
 # 2023
 
