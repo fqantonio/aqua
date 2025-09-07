@@ -2,7 +2,17 @@
 
 ## July ##
 
-Idea: build a small catamara (1,2 m) to be used on maritime engeneering training and water bio research. It should be 70% sustainable from A to Z. It should use 3D printing with new materials, and be more environmentally friendly from the very begining of the conceptualization until the moment that is out of service: what shoul it be used for? It should run by GPS way points and have an avidance system. It should user friendly and built with cheap components available on the market.
+Idea: Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload. The vessel should have a 2-hour operating endurance and be constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability
+
+This vessel could be used as a platform for maritime engineering training and aquatic bioecochemistry or water quality assessment. 
+
+It will uses modeling and 3D printing with PLA, with the possiblility of exploring new ecofriendly materials: environmentally friendly from the very begining of the conceptualization until the moment that is out of service.
+
+The control, in a early stage, is run by radio and GPS way points. If needed could have an avoidance system. We will use ARDUPILOT, an open-source autopilot software suite. 
+
+The energy system use 4S4P two bateries 
+
+For the spare parts it should have cheap components easily available on the market. 
 
 # 2023
 
@@ -409,7 +419,8 @@ We plan to repaint the hulls in October. We will follow this **procedure**:
 - [ ] Review text file business
 
 # Next 2026 task
-- [ ] Deliver for training and testing (IPL);
+- [ ]  after service, what should it be used for?
+- [ ]  Deliver for training and testing (IPL);
 - [ ] Paint needed or why print in yellow?
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
