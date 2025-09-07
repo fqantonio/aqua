@@ -9,6 +9,10 @@ AQUA is a small autonomous vessel designed for biowater research and aquatic eng
 
 The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** and **circular economy principles**, aiming to meet these standards by at least **70%**. The project also seeks to raise awareness about water and ocean systems, which is especially important since **Portugal's territory is 97% water**.
 
+## Mission
+
+The goal is to construct an DIY affordable and easily maintainable 1.2-meter catamaran from mostly sustainable materials. This vessel will be designed for a 10 kg payload capacity and at least 2 hours of autonomous operation. A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
+
 The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
 ## Technical Specifications & Operation
