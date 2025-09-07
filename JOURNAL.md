@@ -283,7 +283,8 @@ Water testing.
 
 ![](Photos/testeÁguaInfiltração.jpeg)
 
-Conclusion: water is coming in through the four screw holes and the both electrical wires that powers the engine. But it doesn't go directly into the boat, it enters the hull and then comes out through interior grooves in the bow... that are result of the way the boat was built... I'll insulate it as best I can... and hope for the best. I use silicone in the wire hole and the screws.
+### UPPS!
+Water is coming in through the four screw holes and the both electrical wires that powers the engine. But it doesn't go directly into the boat, it enters the hull and then comes out through interior grooves in the bow... that are result of the way the boat was built... I'll insulate it as best I can... and hope for the best. I use silicone in the wire hole and the screws.
 
 ![](Photos/silicone.jpeg)
 
@@ -309,7 +310,11 @@ Possible entries points. Need procedures to handle the boat. I will try to test 
 
 ![](Photos/entradaÁgua2.jpeg)
 
-Conclusion: No data collected yet... just see what's going on... audible warnings... battery heating... we should have an internal temperature sensor. Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer (well, we don't have it now but we had it, it broke)... but the button to start the engines before arming in the MP software... it has... investigate what it means. It working alright. We will came back to it in October, now, vacations!
+### CONCLUSION
+
+Water is coming in through the four screw holes and the both electrical wires that powers the engine. But it doesn't go directly into the boat, it enters the hull and then comes out through interior grooves in the bow... that are result of the way the boat was built... I'll insulate it as best I can... and hope for the best. I use silicone in the wire hole and the screws.
+
+No data collected yet... just see what's going on: audible warnings that needed to be understanded, seems to have same battery heating (we should have an internal temperature sensor). Strange sound... try to understand what it means... it's not from the pixwack because we don't have the buzzer (well, we don't have it now but we had it, it broke)... but the button to start the engines before arming in the MP software... it has... investigate what it means. It working alright. We plan to repaint the hulls in October. So, we will came back to it in October, now, vacations!
 
 ![](Photos/inWater.jpeg)
 
@@ -354,9 +359,11 @@ Eletrical part.
 
 ![](Photos/parteEletrica.jpeg)
 
-Reparing th boat confront us with the epoxy problem, that were two problems:
-1. waterproof epoxy: we didn't use it;
-2. we should have sanded the PLA to create roughness;
+### WARNING!!!
+Reparing the boat more carefully confront us with the epoxy problem, that came out to be problems:
+1. Waterproof epoxy: we didn't use it;
+2. We should had sanded the PLA to create roughness;
+3. The preparations painting stages and the wating times are crucial to have a good result: so, reading the technical documents its crucial
 
 Always learning in the hard way.
 
@@ -390,7 +397,7 @@ Always learning in the hard way.
 
 ![](Photos/amarelo.jpeg)
 
-We plan to repaint the hulls in October. We will follow this **procedure**:
+We will follow this **paint procedure**:
 
 1. 3D printing the bow floats;
 2. Sand the hulls to remove the paint as much as possible (120 to 220);
@@ -400,20 +407,25 @@ We plan to repaint the hulls in October. We will follow this **procedure**:
 6. Sand the parts where we applied the repair compound;
 7. Clean with a sponge;
 8. Apply epoxi primer with the paint roller and brush: after preparing we have two hours to apply it;
-9. Wait 1 day and paint: if you can't, Wait 5 days for the paint to become glazed, sand again with 220-grit sandpaper and paint (the sanding is for the paint adhesion;
-10. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush:
+9. Wait 1 day and paint: if you can't, wait 5 days for the paint to become glazed, sand again with 220-grit sandpaper and paint (the sanding is for the paint adhesion);
+10. Certify that there are no "holidays": repaint if needed with the primer mix with thinner (not to much, just to loar a little bit the viscosity;
+11. Apply yellow enamel paint (polyurethane plus acrylate) with the roller and the brush:
     (a) stir well before mixing;
     (b) make half and then the rest if needed: after two hours the rest is not reusable: clean the brush with thinner and throw away the rolls;
 12. Wait two days;
-13. Repaint if needed;
-14. Mount the structure, flag, lights, eletronic and eletrical parts;
+13. Repaint if needed using a little bit of thinner;
+14. Mount the structure, flag, lights, batteries, eletronics and eletrical parts;
 15. Test, test, test and test!
 
 ## November
 
-- [ ] Tests
+- [ ] Tests radio, telemetry max distance
+- [ ] Test with a payload of 10kg.
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 - [ ] Nicla Vision WIFI: print and assemble
+- [ ] Test the WIFI max distance
 - [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Contact enteties for a broad protocol
 - [ ] Put the vynil logos (email entities)
 - [ ] minimum tools
 - [ ] Write the manual with procedures to handle the boat carefully
@@ -423,8 +435,10 @@ We plan to repaint the hulls in October. We will follow this **procedure**:
 - [ ] Review text file business
 
 # Next 2026 task
-- [ ]  after service, what should it be used for?
-- [ ]  Deliver for training and testing (IPL);
+- [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
+- [ ] we should have an internal temperature sensor?
+- [ ] after service, what should it be used for?
+- [ ] Deliver for training and testing (IPL);
 - [ ] Paint needed or why print in yellow?
 - [ ] Prepare the new designs;
 - [ ] Print with obliquo roller printer;
