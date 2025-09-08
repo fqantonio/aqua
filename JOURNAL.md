@@ -234,7 +234,7 @@ The heat was another testing point.
 
 The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB.
 
-![](Photos/CNCPortoMos.jpeg)
+![](Photos/CNCportoMos.jpeg)
 
 ![](Photos/CNCPortoMos2.jpeg)
 
