@@ -417,6 +417,10 @@ We will follow this **paint procedure**:
 14. Mount the structure, flag, lights, batteries, eletronics and eletrical parts;
 15. Test, test, test and test!
 
+![](Photos/repair1.jpeg)
+
+![](Photos/repair2.jpeg)
+
 ## November
 
 - [ ] Tests radio, telemetry max distance
