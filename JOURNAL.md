@@ -379,22 +379,21 @@ Always learning in the hard way.
 - [x] PVC for the holes of the motor atachment
 - [x] Buy lights: white, red, green!?
 - [x] Procedures
+- [x] repair and paint the hulls (see procedure bellow)
+- [x] Charging procedure: improve circuit and carefully with both bateries in mind;
 
 - [ ] ...and print 3d part.
-- [x] repair and paint the hulls (see procedure bellow)
-
 - [ ] GPS problem: no led light blinking...
 - [ ] beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
 
-- [ ] Charging procedure: improve circuit and carefully with both bateries in mind;
-- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accurancy
+- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse and about the voltage accuracy
 - [ ] Test voltage values and adjust it;
 
 - [ ] removable protections for corners, bow and stern
 
 - [ ] Download log data procedure
 - [ ] Get test sites maps with APM fetching
-- [ ] Tests
+- [ ] Control and GPS point test
 
 ![](Photos/endurecedor.jpeg)
 
