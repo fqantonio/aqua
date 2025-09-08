@@ -84,11 +84,12 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-Tested. Work fine. Problems with water infiltration. October awaits for more!
+Repairing!
 
-![](Photos/inWater.jpeg)
+![](Photos/repair1.jpeg)
 
-Video here: '[https://youtu.be/jL261LpirRE](https://www.youtube.com/watch?v=jL261LpirRE)'
+![](Photos/repair2.jpeg)
+
 
 # SUPPORT
 
