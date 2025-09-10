@@ -112,8 +112,6 @@ Cleaning was a task at this point and measuring the type of garbage and the weig
 | Metal | 3,4 | 0,2 |
 | undifferentiated waste | 4,3 | 0,2 |
 
-
-
 | In July we stop here:  |  | |
 | ------------- | ------------- | ------------- |
 | ![](Photos/VistaGeral_julh_2024.JPG) | ![](Photos/VistaGeral_julh_2024_1.JPG) |  ![](Photos/VistaGeral_julh_2024_2.JPG) |
