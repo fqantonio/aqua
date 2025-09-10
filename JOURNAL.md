@@ -56,13 +56,11 @@ As you can see, there is a chemical reaction between the resin and the paint. Th
 | Resin the hulls |  |  
 | ------------- | ------------- | 
 | ![](Photos/AQUA11.JPG) | ![](Photos/AQUA23.JPG) |
-
 | ![](Photos/AQUA32.JPG) | |
 
 | And what an ammount of garbadge |  |  
 | ------------- | ------------- |
 | ![](Photos/AQUA17.JPG) | ![](Photos/AQUA18.JPG) |
-
 | ![](Photos/AQUA19.JPG) | ![](Photos/AQUA20.JPG) |
 
 
