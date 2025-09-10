@@ -99,4 +99,6 @@ Repairing!
  - Tiago Elias, Maker, 3D printing
  - Paulo Teixeira, 3D printing, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
  - Gonçalo Pereira, batteries training and electric circuit adviser, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
+ - Álvaro brito, MAKER, 3D printing
  - Renan Portocarrero, MAKER, 3D printing
+ - Rui Infante, FAB LAB Porto de Mós, CNC milling
