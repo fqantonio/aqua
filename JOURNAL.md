@@ -122,7 +122,7 @@ This month is devoted to plannning and assembled the top, cameras, antennas and 
 
 ## October ##
 
-This month is devoted to plannning and assembling. Redesign the power circuit.
+This month is devoted to plannning and assembling and redesign the power circuit.
 
 ## November and December##
 
@@ -143,11 +143,9 @@ Remodeling 3D and printing electronic box. Printing and modeling the battery hol
 ## February
 Buoyancy testing.
 
-![](Photos/testeFlutuabilidade_7.png)
-
-![](Photos/testeFlutuabilidade_8.png)
-
-![](Photos/testeFlutuabilidade_9.png)
+| Is it a submarine or not? | | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/testeFlutuabilidade_7.png) | ![](Photos/testeFlutuabilidade_8.png) | ![](Photos/testeFlutuabilidade_9.png) |
 
 We found a structural break in the hull. Perhaps because of a falling situation when removing from the car. Preparing to fix it.
 
@@ -318,21 +316,11 @@ Minimal tools to disassembled.
 
 Destails, starboard and port board.
 
-![](Photos/detalheFundoBombordo.jpeg)
-
-![](Photos/detalheFundoEstibordo.jpeg)
-
-![](Photos/detalheMotor1.jpeg)
-
-![](Photos/detalheMotor2.jpeg)
-
-![](Photos/detalheOrificios1.jpeg)
-
-![](Photos/detalheOrificios2.jpeg)
-
-![](Photos/detalheOrificios3.jpeg)
-
-![](Photos/detalheOrificios4.jpeg)
+| Details, details | | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/detalheFundoBombordo.jpeg) | ![](Photos/detalheFundoEstibordo.jpeg) | ![](Photos/detalheMotor1.jpeg) |
+| ![](Photos/detalheMotor2.jpeg) | ![](Photos/detalheOrificios1.jpeg) | ![](Photos/detalheOrificios2.jpeg) |
+| ![](Photos/detalheOrificios3.jpeg) | ![](Photos/detalheOrificios4.jpeg) ||
 
 Eletrical part.
 
