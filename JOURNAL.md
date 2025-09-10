@@ -38,15 +38,11 @@ Workshop overview!
 
 We are using the bodyboard as a testing for all of the processes.
 
-![](Photos/AQUA33.JPG)
-    
-![](Photos/AQUA33.JPG)
-
-![](Photos/AQUA25.JPG)
-
-![](Photos/AQUA29.JPG)
-
-![](Photos/AQUA31.JPG)
+| photos  |  |  |
+| ------------- | ------------- | 
+| ![](Photos/AQUA33.JPG) | ![](Photos/AQUA33.JPG) | 
+| ![](Photos/AQUA33.JPG) | ![](Photos/AQUA25.JPG) |
+| ![](Photos/AQUA29.JPG) | ![](Photos/AQUA31.JPG) |
 
 
 ## February ##
