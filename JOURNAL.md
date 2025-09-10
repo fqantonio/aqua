@@ -75,11 +75,10 @@ Fill the holes and repaint after sanding, sanding and sanding. Repaint again. Th
 
 ## April ##
 
-In April we finnaly concluded the painting.
 
-![](Photos/AQUA35.jpg)
-
-![](Photos/AQUA36.jpg)
+| In April we finnaly concluded the painting. |  |  
+| ------------- | ------------- |
+| ![](Photos/AQUA35.jpg) | ![](Photos/AQUA36.jpg) |
 
 We did the UV paint with this brand.
 
@@ -89,7 +88,7 @@ The process is not environmentally friendly as we suspected: so, we plan to prod
 
 ## May ##
 
-Spaghetti time. Designing the wiring and accomodating the hardware to control the AQUA.
+Spaghetti time! Designing the wiring and accomodating the hardware to control the AQUA.
 
 ![](Photos/EnergiaControle_1.JPG)
 
@@ -115,13 +114,11 @@ Cleaning was a task at this point and measuring the type of garbage and the weig
 | Metal | 3,4 | 0,2 |
 | undifferentiated waste | 4,3 | 0,2 |
 
-In July we stop here:
 
-![](Photos/VistaGeral_julh_2024.JPG)
 
-![](Photos/VistaGeral_julh_2024_1.JPG)
-
-![](Photos/VistaGeral_julh_2024_2.JPG)
+| In July we stop here:  |  | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/VistaGeral_julh_2024.JPG) | ![](Photos/VistaGeral_julh_2024_1.JPG) |  ![](Photos/VistaGeral_julh_2024_2.JPG) |
 
 ## September and October##
 
