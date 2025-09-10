@@ -300,7 +300,7 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 ## September
 Repaint everything. Hard work that need to be done! Paint, holes repair and primary
 
-| CNC FAB LAB Porto de Mós | | 
+| Paint | | 
 | ------------- | ------------- |
 | ![](Photos/PrimarioTapaBuracos.jpeg) | ![](Photos/Tinta.jpeg) |
 
@@ -358,10 +358,6 @@ Always learning in the hard way.
 - [ ] Download log data procedure
 - [ ] Get test sites maps with APM fetching
 - [ ] Control and GPS point test
-
-| CNC FAB LAB Porto de Mós | | 
-| ------------- | ------------- |
-| ![](Photos/endurecedor.jpeg) | ![](Photos/amarelo.jpeg) |
 
 We will follow this **paint procedure**:
 
