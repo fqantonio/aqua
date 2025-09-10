@@ -137,13 +137,10 @@ Test the microcontroller circuit and the power circuit as well. Radio transmitte
 ## January 2025
 Remodeling 3D and printing electronic box. Printing and modeling the battery holder. Built 4S4P batery with the help of LCD Porto Maker Space, by crimping.
 
-![](Photos/4S4P.JPG)
 
-![](Photos/4S4P_3.JPG)
-
-![](Photos/4S4P_4.JPG)
-
-![](Photos/4S4P_5.JPG)
+| ------------- | ------------- | ------------- |
+| ![](Photos/4S4P.JPG) | ![](Photos/4S4P_3.JPG) |
+| ![](Photos/4S4P_4.JPG) | ![](Photos/4S4P_5.JPG) |
 
 ![](Photos//bateriaCX1.JPG)
 
