@@ -178,15 +178,15 @@ Thinking about the unbalance hull. That's a big issue that didn't appear so impo
 
 ## May
 
-![](Photos/EstibordoPronto.jpeg)
-
-![](Photos/pinturasFinais.jpeg)
+| painting | | 
+| ------------- | ------------- |
+| ![](Photos/EstibordoPronto.jpeg) | ![](Photos/pinturasFinais.jpeg) |
 
 The top covers were left unvarnished to directly observe the behavior of the PLA material and compare it to the varnished sections. Foam was adhered to the underside of the hulls to enhance the catamaran's stability. Elastic structures were integrated to securely fasten the covers. Finally, the last coats of paint were applied, and the top hull covers were tightened to improve water tightness. The paint didn't work weel in the foam.
 
-![](Photos/pinturaEspuma1.jpeg)
-
-![](Photos/pinturaEspuma2.jpeg)
+| painting | | 
+| ------------- | ------------- |
+| ![](Photos/pinturaEspuma1.jpeg) | ![](Photos/pinturaEspuma2.jpeg) |
 
 - [X] Remodeling the top hull covers in order to be more water tight;
 - [X] Fix the hatchs with holding belts;
@@ -208,9 +208,9 @@ The heat was another testing point.
 
 The top covers were replaced because the rubber fixers where not appropiate for the heat during the transportation incide the van. The new top covers where made with EPS machineed at the Porto de Mós FAB LAB.
 
-![](Photos/CNCportoMos.jpeg)
-
-![](Photos/CNCPortoMos2.jpeg)
+| CNC FAB LAB Porto de Mós | | 
+| ------------- | ------------- |
+| ![](Photos/CNCportoMos.jpeg) | ![](Photos/CNCPortoMos2.jpeg) |
 
 We also print parts to insure that the water doesn't get inside the hulls. We also modeled fixers for the top float covers that use straps .
 
@@ -218,9 +218,9 @@ We also print parts to insure that the water doesn't get inside the hulls. We al
 
 This is crucial. We need to glue the front floaters or the boat will not be horizontal in the water (see February pictures). During the transportation they got out. Another wrong turn!
 
-![](Photos/gluedWrong.jpeg)
-
-![](Photos/gluedWrong2.jpeg)
+| Wrong turn | | 
+| ------------- | ------------- |
+| ![](Photos/gluedWrong.jpeg) | ![](Photos/gluedWrong2.jpeg) |
 
 ![](Photos/floaterUngluedStatus.jpg)
 
@@ -283,9 +283,9 @@ when tilted, you can no longer hear the sound of water inside.
 
 Possible entries points. Need procedures to handle the boat. I will try to test the way points. In spite of not having internet on the locals we can use fetching with MP.
 
-![](Photos/entradaÁgua1.jpeg)
-
-![](Photos/entradaÁgua2.jpeg)
+| Water | | 
+| ------------- | ------------- |
+| ![](Photos/entradaÁgua1.jpeg) | ![](Photos/entradaÁgua2.jpeg) |
 
 ### CONCLUSION
 
@@ -300,9 +300,9 @@ Video: https://www.youtube.com/watch?v=jL261LpirRE
 ## September
 Repaint everything. Hard work that need to be done! Paint, holes repair and primary
 
-![](Photos/PrimarioTapaBuracos.jpeg)
-
-![](Photos/Tinta.jpeg)
+| CNC FAB LAB Porto de Mós | | 
+| ------------- | ------------- |
+| ![](Photos/PrimarioTapaBuracos.jpeg) | ![](Photos/Tinta.jpeg) |
 
 ![](Photos/conjunto.jpeg)
 
@@ -359,9 +359,9 @@ Always learning in the hard way.
 - [ ] Get test sites maps with APM fetching
 - [ ] Control and GPS point test
 
-![](Photos/endurecedor.jpeg)
-
-![](Photos/amarelo.jpeg)
+| CNC FAB LAB Porto de Mós | | 
+| ------------- | ------------- |
+| ![](Photos/endurecedor.jpeg) | ![](Photos/amarelo.jpeg) |
 
 We will follow this **paint procedure**:
 
@@ -383,9 +383,9 @@ We will follow this **paint procedure**:
 14. Mount the structure, flag, lights, batteries, eletronics and eletrical parts;
 15. Test, test, test and test!
 
-![](Photos/repair1.jpeg)
-
-![](Photos/repair2.jpeg)
+| Repair | | 
+| ------------- | ------------- |
+| ![](Photos/repair1.jpeg) | ![](Photos/repair2.jpeg) |
 
 ## November
 
