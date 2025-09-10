@@ -90,11 +90,9 @@ The process is not environmentally friendly as we suspected: so, we plan to prod
 
 Spaghetti time! Designing the wiring and accomodating the hardware to control the AQUA.
 
-![](Photos/EnergiaControle_1.JPG)
-
-![](Photos/EnergiaControle_2.JPG)
-
-![](Photos/EnergiaControle_3.JPG)
+| Control  |  |  |
+| ------------- | ------------- | ------------- |
+| ![](Photos/EnergiaControle_1.JPG) | ![](Photos/EnergiaControle_2.JPG) | ![](Photos/EnergiaControle_3.JPG) |
 
 We are also looking the way to adjust, with flexible material, the front and rear bars that go inside the boat. They are connected by two screws in each side.
 
@@ -137,7 +135,7 @@ Test the microcontroller circuit and the power circuit as well. Radio transmitte
 ## January 2025
 Remodeling 3D and printing electronic box. Printing and modeling the battery holder. Built 4S4P batery with the help of LCD Porto Maker Space, by crimping.
 
-
+| Energy! | |
 | ------------- | ------------- | ------------- |
 | ![](Photos/4S4P.JPG) | ![](Photos/4S4P_3.JPG) |
 | ![](Photos/4S4P_4.JPG) | ![](Photos/4S4P_5.JPG) |
