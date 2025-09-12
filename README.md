@@ -86,9 +86,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 Repairing!
 
-![](Photos/repair1.jpeg)
-
-![](Photos/repair2.jpeg)
+![](Photos/pintura2.jpeg)
 
 
 # SUPPORT
