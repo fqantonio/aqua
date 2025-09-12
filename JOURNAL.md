@@ -327,12 +327,16 @@ Eletrical part.
 ![](Photos/parteEletrica.jpeg)
 
 ### WARNING!!!
-Reparing the boat more carefully confront us with the epoxy problem, that came out to be problems:
+Reparing the boat more carefully confront us with the epoxy problem, that came out to be a problem:
 1. Waterproof epoxy: we didn't use it;
 2. We should had sanded the PLA to create roughness;
 3. The preparations painting stages and the wating times are crucial to have a good result: so, reading the technical documents its crucial
 
 Always learning in the hard way.
+
+Repairing. Painting.
+
+![](Photos/pintura2.jpeg)
 
 ## October
 
