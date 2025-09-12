@@ -1,0 +1,51 @@
+This text was created by GEMINI AI, using this text "turning a PLA as a material to use in boats and maritime platforms":
+
+Turning PLA into material for boats is a complex process due to PLA's susceptibility to moisture absorption and degradation in marine environments, but advancements in PLA-PHA composites and incorporating waste materials offer potential for maritime applications, such as marine debris reuse or high-performance composites, although it requires further study and development for practical and durable boat components. 
+Understanding the Challenges of PLA in Marine Environments
+
+    Moisture Absorption:
+    PLA's ability to absorb water can lead to swelling and embrittlement, reducing its mechanical strength and lifespan in marine conditions. 
+
+Biodegradation:
+While its eco-friendly nature is an advantage, PLA's potential to biodegrade too quickly in seawater can make it unsuitable for long-term use in maritime structures. 
+
+Potential Solutions and Emerging Applications
+
+    PLA-PHA Composites:
+    Combining PLA with Polyhydroxyalkanoates (PHA) can improve the material's performance in marine environments by offering a balance of biodegradability and better mechanical properties. 
+
+Marine Waste as a Resource:
+Researchers are exploring the use of marine plastic waste as a source material to create new filaments for 3D printing, offering a sustainable solution for both pollution reduction and material sourcing in the maritime sector. 
+Green Composites:
+Incorporating agricultural or marine waste into PLA to form green composites can reduce costs and enhance biodegradability without significantly compromising mechanical performance. 
+
+Current Research and Future Prospects
+
+    Accelerated Aging Models:
+    Studies are developing models to predict the lifespan of 3D printed PLA components under marine conditions, a crucial step for understanding their long-term viability. 
+
+Mechanical Degradation Studies:
+The behavior of 3D printed PLA in simulated seawater environments is being studied to identify mechanical weaknesses, such as a decrease in ductility and yield strength, and to understand the effects of environmental factors on its performance. 
+Sustainable Manufacturing:
+3D printing is being recognized as a promising tool for cleaner production in the maritime industry, with the potential to produce components from recycled and bio-based materials. 
+
+References:
+https://www.sciencedirect.com/science/article/abs/pii/S2468023020307707
+
+https://www.sciencedirect.com/science/article/abs/pii/S0141391022000891
+
+https://iopscience.iop.org/article/10.1088/1755-1315/424/1/012013 (https://iopscience.iop.org/article/10.1088/1755-1315/424/1/012013/pdf) 
+
+https://ultimaker.com/learn/how-to-3d-print-waterproof-parts/#:~:text=PLA%20is%20one%20of%20the,PLA%20is%20also%20biodegradable.
+
+https://www.mdpi.com/2073-4360/13/9/1361
+
+https://www.sciencedirect.com/science/article/pii/S0959652623013094
+
+https://www.mdpi.com/2073-4360/11/3/400#:~:text=Nonetheless%2C%20when%20blended%20with%20PLA%2C%20it%20(,enhanced%20physical%20properties%20and%20processability%20%5B%2017%5D.
+
+https://www.sciencedirect.com/science/article/pii/S2772416625001688#:~:text=Furthermore%2C%20blending%20PLA%20with%20other%20bio%2Dbased%20materials%2C,applications%20(%20Boz%C3%B3%20et%20al.%2C%202021)%20.
+
+https://addi.ehu.es/handle/10810/60371
+
+
