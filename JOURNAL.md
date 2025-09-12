@@ -334,9 +334,8 @@ Reparing the boat more carefully confront us with the epoxy problem, that came o
 
 Always learning in the hard way.
 
-Repairing. Painting.
+Next: Repairing. Painting.
 
-![](Photos/pintura2.jpeg)
 
 ## October
 
@@ -386,6 +385,7 @@ We will follow this **paint procedure**:
 | Repair | | 
 | ------------- | ------------- |
 | ![](Photos/repair1.jpeg) | ![](Photos/repair2.jpeg) |
+|![](Photos/pintura2.jpeg)||
 
 ## November
 
