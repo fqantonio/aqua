@@ -346,12 +346,15 @@ Dia 2,
 57:00, Blue tech Academy school (Escola)
 https://www.youtube.com/watch?v=pink51yKz9M
 
+Extend you radio range WIFI communications: https://www.youtube.com/watch?v=TAoYp5voIo8
+
 Dia 3, 
 4:35, Training and edu (Escola e formação), 
 28:00, Seaweed (Algas), 
 40:00, Corals, 
 52:00, Photogrametry with a sonar (fotogrametria com um sonar)
 https://www.youtube.com/watch?v=Y_22u3cKbTw
+
 
 ## October
 
