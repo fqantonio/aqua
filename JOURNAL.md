@@ -334,7 +334,9 @@ Reparing the boat more carefully confront us with the epoxy problem, that came o
 
 Always learning in the hard way.
 
-Next: Repairing. Painting.
+Next: Repairing. Painting. We also had to change the T200 thrusthers because, whenever we put the floats in the horizontal we didn't notice they they slihtly touch the ground and the structure broke.
+
+![](Photos/T200Repairing)
 
 ## Blue fest
 
@@ -368,6 +370,7 @@ https://www.youtube.com/watch?v=Y_22u3cKbTw
 - [x] repair and paint the hulls (see procedure bellow)
 - [x] Charging procedure: improve circuit and carefully with both bateries in mind;
 - [x] print and paint 3d float part;
+- [ ] Reassemble the T200
     
 - [ ] GPS problem: no led light blinking...
 - [ ] strange warning PIXWACK beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
