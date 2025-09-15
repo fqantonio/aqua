@@ -70,6 +70,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [ Boat build part 2 - Preparing the autopilot, The Carp Pilot ](https://www.youtube.com/watch?v=PFL-nYuIbuE)
 - [MIT deploys first full-scale autonomous Roboat on canals of Amsterdam](https://newatlas.com/marine/mit-first-full-scale-autonomous-roboat-amsterdam/)
 - [Robot Boats Survive Epic Voyage Across the Pacific — So Far](https://www.wired.com/2012/05/wave-glider-crosses-pacific/)
+- [Aquatic Drones Builds Data Service for Europe and Beyond](https://www.therobotreport.com/aquatic-drones-builds-data-service-for-europe-and-beyond/)
 
 # EXAMPLES OF AUTONOMOUS BOATS
 - [Further Testing of Materials for Radio Controlled Yachts](https://3dprintedradioyachts.com/testing-materials-radio-controlled-yachts/)
