@@ -51,7 +51,7 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 - [Radar based collision detection developments on USV ROAZ II, June 2009, SourceIEEE Xplore](https://www.researchgate.net/publication/224599932_Radar_based_collision_detection_developments_on_USV_ROAZ_II)
 
 # LAW
-[Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
+- [Princípios de Conduta da Indústria de Navios de Superfície Autônomos Marítimos e Código de Prática versão 4](https://www.maritimeuk.org/media-centre/publications/maritime-autonomous-surface-ships-industry-conduct-principles-code-practice-v4/)
 
 # SONAR
 - [Mapping The Floor of Ladybird Lake, Clay P. McPherson](https://www.clay-p-mcpherson.com/projects/mapping-the-floor-of-ladybird-lake)
