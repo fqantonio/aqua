@@ -16,7 +16,9 @@ The goal is to construct an DIY affordable and easily maintainable 1.2-meter cat
 
 A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
 
-The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
+The goal is to provide the research community with a simple, easy-to-repair, and **open-source water platform system**. The vessel will be constructed using **3D printing** with materials that are biodegradable. 
+
+This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
 ## Technical Specifications & Operation
 
@@ -24,7 +26,7 @@ The vessel will operate using manual control with a video display, GPS waypoints
 
 ## Vessel Design & Function
 
-This **1.2-meter-long catamaran** is intended for use in calm, inland waters during good weather conditions. It is autonomous and carries a structure to transport sensors for gathering local physical and chemical data.
+This **1.2-meter-long catamaran** is intended for use in calm, inland waters during good weather conditions with 50 cm waves. It is autonomous and carries a structure to transport sensors for gathering local physical and chemical data.
 
 ## Vision and Impact
 
@@ -36,7 +38,8 @@ This project is documented as a journal in the file with the name "journal".
 # FEATURES
 - A Simple Aquatic Robotics Platform for Training, Education, and Research
 - Reusable, affordable and biofriendl up to 80%
-- Simple use and cheap maintance
+- Low cost, simple use, acessible and cheap maintance
+- 10 kg payload
  
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqua system control  
