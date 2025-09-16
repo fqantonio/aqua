@@ -425,6 +425,21 @@ We will follow this **paint procedure**:
 - [ ] Review material waste weight;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Review text file business
+- [ ] Presetations and faires
+
+Faires and conferences
+1. STE 2026, Porto, 1-2 October
+https://engeduconferences.com/STE2026/
+2. Put the project online here: Nautica expo
+https://www.nauticexpo.com/pt/
+3. Madrid, Junho 3-5, startups, South Summit
+https://www.southsummit.io/
+
+Professionals faires (to be discussed):
+4. Oceanology international, Londres, 10-12 março 2026
+5. Isobay, 16-18 junho, Basc Country
+6. Conference, https://www.it.pt/Events/Event/4345
+7. https://www.infratech.de/en
 
 # Next 2026 task
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
