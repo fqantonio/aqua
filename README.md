@@ -44,9 +44,9 @@ This project is documented as a journal in the file with the name "journal".
 - 10 kg payload
  
 # TEAM
-António Gonçalves, Lab Aberto FAB LAB coordinator, project coordinator and aqua system control  
-Nuno Gomes, CEO XYZLAB, Product Designer  
-David Rodrigues, PhD, IPLeiria, avoidance systems
+António Gonçalves, Lab Aberto FAB LAB coordinator and teacher, project coordinator and aqua system control  
+Nuno Gomes, teacher at ESAD - IPLEIRIA and Innovation Makers Labs, Designer Director  
+David Rodrigues, PhD, ESAD - IPLeiria, avoidance systems
 
 # We are here:
 
