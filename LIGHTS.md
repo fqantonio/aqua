@@ -1,3 +1,5 @@
+Este documento foi escrito pelo GEMINI depois de uma pergunta especifica
+
 Pixhawk uses an RC passthrough mechanism where a parameter is set to enable an AUX output to pass through the value of a specific RC input channel, allowing direct control of accessories like gimbals or lights by a switch or knob on the RC transmitter. You can configure this by setting the SERVOx_FUNCTION parameter to 1 (RC Passthrough) for the desired AUX port in the Mission Planner or QGroundControl, then assigning an RC input channel to it. 
 Understanding RC Passthrough 
 
