@@ -16,8 +16,15 @@ Open Ground Control Software: Launch Mission Planner (for ArduPilot) or QGroundC
 Access Parameter List: Navigate to the full parameter list or tree. 
 Find Servo Parameters: Locate the SERVOx_FUNCTION parameter that corresponds to the AUX output you want to use (e.g., SERVO9_FUNCTION for AUX output 9). 
 Set Function to RC Passthrough: Change the value of this parameter to 1. 
+
+Servo6_function = 1 (RC Passthrough) 
+
 Assign RC Input Channel: Use the RCx_FUNCTION parameter (e.g., RC9_FUNCTION) to assign the input RC channel that will control this function. 
-Map to Auxiliary Function (If Needed): For some airframes or applications, you may also need to set an auxiliary function (e.g., RC_MAP_MOUNT to map RC9 to mount yaw control) in the mount or RC mapping section of the software. 
+Map to Auxiliary Function (If Needed): For some airframes or applications, you may also need to set an auxiliary function (e.g., RC_MAP_MOUNT to map RC9 to mount yaw control) in the mount or RC mapping section of the software.
+
+RC6_option = 28 (relay on/off) there is no RC6_function!!! for Ardurover V4.5.7 
+
+BRD_TYPE = 14 (pixwack pro)
 
 Important Considerations
 
