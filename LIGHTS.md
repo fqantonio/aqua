@@ -1,4 +1,4 @@
-Este documento foi escrito pelo GEMINI depois de uma pergunta especifica
+Este documento foi escrito pelo GEMINI depois de uma pergunta especifica: este docuemntação não está correta!!!
 
 Pixhawk uses an RC passthrough mechanism where a parameter is set to enable an AUX output to pass through the value of a specific RC input channel, allowing direct control of accessories like gimbals or lights by a switch or knob on the RC transmitter. You can configure this by setting the SERVOx_FUNCTION parameter to 1 (RC Passthrough) for the desired AUX port in the Mission Planner or QGroundControl, then assigning an RC input channel to it. 
 Understanding RC Passthrough 
@@ -22,7 +22,7 @@ Servo6_function = 1 (RC Passthrough)
 Assign RC Input Channel: Use the RCx_FUNCTION parameter (e.g., RC9_FUNCTION) to assign the input RC channel that will control this function. 
 Map to Auxiliary Function (If Needed): For some airframes or applications, you may also need to set an auxiliary function (e.g., RC_MAP_MOUNT to map RC9 to mount yaw control) in the mount or RC mapping section of the software.
 
-RC6_option = 28 (relay on/off) there is no RC6_function!!! for Ardurover V4.5.7 
+RC6_option = 28 (relay on/off) there is no RC6_function!!! for Ardurover V4.5.7 only RC6_option!!!
 
 BRD_TYPE = 14 (pixwack pro)
 
