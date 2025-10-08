@@ -26,6 +26,10 @@ RC6_option = 28 (relay on/off) there is no RC6_function!!! for Ardurover V4.5.7
 
 BRD_TYPE = 14 (pixwack pro)
 
+RC9_OPTION = 28 (Relay1)
+
+Relay1_function = 1 (relay)
+
 Important Considerations
 
     Low Current Bus:
