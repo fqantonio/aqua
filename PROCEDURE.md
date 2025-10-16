@@ -11,7 +11,7 @@
 - Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?)
 - In the case of AUTO, ways point settled??? https://ardupilot.org/planner/docs/common-mission-planning.html
 
-## SOUNDS AND LED SIGNS
+### SOUNDS AND LED SIGNS
 
 LEDS
 https://ardupilot.org/copter/docs/common-leds-pixhawk.html
