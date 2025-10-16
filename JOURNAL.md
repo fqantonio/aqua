@@ -413,14 +413,14 @@ Lights was a nightmare! After trying to understand all the documenting about ard
 
 We have lighst! White, red and green.
 
-Now AQUA is assembled again and ready to be tested.
+Now AQUA is assembled again, with valves and lights: ready to be tested.
 
 ## November
 
-- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse;
+- [ ] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [ ] Milling the covers
 - [ ] Use the radio receptor with 10 CH
-- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; STABILIZE
+- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; STABILIZE: choose!
 - [ ] log data procedure;
 - [ ] Get test sites maps with APM fetching;
 - [ ] Control and GPS point test;
