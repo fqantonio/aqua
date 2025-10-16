@@ -1,14 +1,28 @@
 # BEFORE
 
-- Materials check list: computer; roap; trolley; fenders; basic tools; USB cables; charger; telemetry radios; wooden platform;
 - Feetching the maps with Mission Planner (PM) in a computer with internet access beforehand;
 - Check the site permissions to test/use the AQUA;
-- Turning on computer and open MP;
-- Turn on the main power switch (see picture: put picture here!?!?!?): verify sounds and PIX4 led colors;
-- Turn on the radio transmitter (verify green led in the receiver: changing from blinking to steady;
-- Conectar MP (botão na janela do programa, em cima à direita);
-- Check the battery voltage
+- Materials check list: computer; trolley; wooden platform; dingy if possible; box (roap; fenders; basic tools; USB cables; charger; telemetry radios;);
+
+update about this...
 - Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?)
+https://ardupilot.org/rover/docs/boat-configuration.html
+- Types of ArduBoat driving modes
+
+    Autonomous Modes:
+        Auto: Follows a pre-programmed mission, often from a ground station.
+        Guided: Follows a specific command from the ground station, like moving to a new waypoint.
+    Position-Holding Modes:
+        Loiter: Holds the boat in its current position, even after it reaches a destination.
+        PosHold: Holds the vehicle's current position in altitude and location.
+    Return/Landing Modes:
+        RTL (Return-to-Launch): Commands the boat to return to its starting point.
+        SmartRTL: A variation of RTL that attempts to maintain position after reaching the destination.
+        Land: Commands the boat to land at its current location.
+    Manual/Assisted Control Modes:
+        Manual: The pilot has direct control over the vehicle's motors and movement.
+        Acro: Requires pilot input to hold heading and roll, with no automatic stabilization.
+        Stabilize: A form of assisted control where the vehicle self-levels its attitude when the control sticks are released.
 - In the case of AUTO, ways point settled??? https://ardupilot.org/planner/docs/common-mission-planning.html
 
 ### SOUNDS AND LED SIGNS
@@ -26,24 +40,34 @@ https://ardupilot.org/copter/docs/common-safety-switch-pixhawk.html
 
 TONES
 https://ardupilot.org/copter/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4
+https://bluerobotics.com/store/thrusters/speed-controllers/besc30-r3/
 
 # DURING OPERATIONS
 
 ## START
+- Connect the telemetry radio to the USBC in the computer
+- Turn on the computer and open MP;
+- open the starboard float cover
+- Turn on the main power switch (see picture: put picture here!?!?!?): verify sounds and PIX4 led colors: motor DRIVER sounds mean that they are connected connected;
+- Conecting MP to the pixhwack (upper button on the right of the MP screen);
+- Turn on the radio transmitter (verify green led in the receiver: changing from blinking to solid red);
+- Check the battery voltage;
+- Turn on the safety switch on: it will change from blinking to solid light and emit two tones indicating initialization
+- Close the starboard float cover;
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier
-- Turn the swith on: red led blink to steady: motor sounds meaning connected;
-- No other boats, people or obstacles around AQUA?
 - Everything ready to arm the AQUA?
-- Click on the ARM/DISARM AQUA in the MP down left window: choose ARM.
+  - check list:  Security check: no other boats, people or obstacles around AQUA?
+  - No warning signals; leds normal; 
+- At MP push the ARM/DISARM button: down left window;
 - Untie AQUA
 - Drive AQUA mission
 - ATTENTION to voltage levells and safety screen warnings, namelly (??!?!?)
 
 ## STOP
 
-- Take AQUA to safety
+- Take AQUA to safety shore
 - Tie it
-- DISARM at MP
+- DISARM at MP if necessary
 
 ## RESTART
 
@@ -53,14 +77,16 @@ https://ardupilot.org/copter/docs/common-sounds-pixhawkpx4.html#common-sounds-pi
 
 ## END
 
-- Follow the STOP procedure (before)
-- Turn off motor switch (from red led steady to blink)
-- Turn of power
+- Disarm at MP;
+- open the starboard float cover
+- Turn off motor switch (from solid red led to blink)
+- Turn of power if necessary
 - Bring AQUA to shore
-- Clean as much as possible with fresh water: becarefull with the entrances of water inside AQUA
+- Clean as much as possible with fresh water: be carefull with the entrances of water inside AQUA
 
 # AFTER
 
+- If necessary, unscrew the white light
 - collect tools and utensils in the bag and box
 - put everything in the trolley
 - Use the wooden platform to help you get AQUA into the car
