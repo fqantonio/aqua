@@ -420,7 +420,7 @@ Now AQUA is assembled again, with valves and lights: ready to be tested.
 - [ ] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [ ] Milling the covers
 - [ ] Use the radio receptor with 10 CH
-- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose!
+- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html
 - [ ] log data procedure;
 - [ ] Get test sites maps with APM fetching;
 - [ ] Control and GPS point test;
