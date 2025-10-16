@@ -458,6 +458,8 @@ Professionals faires (to be discussed):
 7. https://www.infratech.de/en
 
 # Next 2026 task
+- [ ] What sensors?
+- [ ] Googles and gimball?
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
 - [ ] we should have an internal temperature sensor?
 - [ ] after service, what should it be used for?
