@@ -370,19 +370,10 @@ https://www.youtube.com/watch?v=Y_22u3cKbTw
 - [x] repair and paint the hulls (see procedure bellow)
 - [x] Charging procedure: improve circuit and carefully with both bateries in mind;
 - [x] print and paint 3d float part;
-- [ ] Reassemble the T200
-    
-- [ ] GPS problem: no led light blinking...
-- [ ] strange warning PIXWACK beeps!? (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
-
-- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse;
-- [ ] test the voltage accuracy;
-
-- [ ] removable protections for corners, bow and stern;
-
-- [ ] log data procedure;
-- [ ] Get test sites maps with APM fetching;
-- [ ] Control and GPS point test;
+- [x] Reassemble the T200   
+- [x] GPS problem: no led light blinking...
+- [x] strange warning PIXWACK beeps!? They were from the safety switch (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
+- [x] test the voltage accuracy;
 
 We will follow this **paint procedure**:
 
@@ -409,23 +400,48 @@ We will follow this **paint procedure**:
 | ![](Photos/repair1.jpeg) | ![](Photos/repair2.jpeg) |
 |![](Photos/pintura2.jpeg)||
 
+The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
+After this repairing the boat was tested and more water inside... grrr.... everywhere, from the hulls (more on the starboard) and small floats on the bow.
+
+(put pictures here)
+
+Try to dry everything; remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
+
+(put picture here)
+
+Lights was a nightmare! After trying to understand all the documenting about ardurover firmware out dated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
+
+We have lighst! White, red and green.
+
+Now AQUA is assembled again and ready to be tested.
+
 ## November
 
+- [ ] MP parameters: see discussion on ArduPilot AHRS Discourse;
+- [ ] Milling the covers
+- [ ] Use the radio receptor with 10 CH
+- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; STABILIZE
+- [ ] log data procedure;
+- [ ] Get test sites maps with APM fetching;
+- [ ] Control and GPS point test;
 - [ ] Tests radio, telemetry max distance
-- [ ] Test with a payload of 10kg.
+- [ ] Test with a payload of 5 and 10kg.
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
+- [ ] Put the vynil logos (email entities)
+- [ ] removable protections for corners, bow and stern;
+
 - [ ] Nicla Vision WIFI: print and assemble
 - [ ] Test the WIFI max distance
+
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Contact enteties for a broad protocol
-- [ ] Put the vynil logos (email entities)
-- [ ] minimum tools
-- [ ] Write the manual with procedures to handle the boat carefully
+- [ ] revisit minimum tools
+- [ ] Write the procedures manual to handle the boat carefully;
 - [ ] Review BOM costs;
 - [ ] Review material waste weight;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Review text file business
-- [ ] Presetations and faires
+- [ ] Presentations and faires
 
 Faires and conferences
 1. STE 2026, Porto, 1-2 October
