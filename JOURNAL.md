@@ -408,27 +408,23 @@ After the repair, testing. Everything is working.
 But, it sudendly stoped because the electric terminals that I use in the thrusters wire didn't handle the high current. The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
 After this repairing the boat was tested and more water inside... grrr.... everywhere, from the hulls (more on the starboard) and small floats on the bow.
 
-![](Photos/outEntradaAgua1.jpeg)
-
-![](Photos/outEntradaAgua2.jpeg)
-
-![](Photos/outEntradaAgua3.jpeg)
-
-![](Photos/outEntradaAgua4.jpeg)
-
-![](Photos/outEntradaAgua5.jpeg)
-
-![](Photos/outEntradaAgua6.jpeg)
-
-![](Photos/outEntradaAgua7.jpeg)
-
-![](Photos/outEntradaAgua8.jpeg)
+| Repair | | 
+| ------------- | ------------- |
+| ![](Photos/outEntradaAgua1.jpeg)| ![](Photos/outEntradaAgua2.jpeg) |
+|![](Photos/outEntradaAgua3.jpeg)|![](Photos/outEntradaAgua4.jpeg)|
+| ![](Photos/outEntradaAgua5.jpeg) | ![](Photos/outEntradaAgua6.jpeg) |
+| ![](Photos/outEntradaAgua7.jpeg) | ![](Photos/outEntradaAgua8.jpeg) |
 
 Try to dry everything;
 
 ![](Photos/outSecagem1.jpeg)
 
 remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
+
+| Repair | | 
+| ------------- | ------------- |
+| ![](Photos/bujao.jpeg)| ![](Photos/bujao1.jpeg) |
+| ![](Photos/bujao2.jpeg)| ![](Photos/bujao3.jpeg) |
 
 Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
 
