@@ -400,10 +400,15 @@ We will follow this **paint procedure**:
 | ![](Photos/repair1.jpeg) | ![](Photos/repair2.jpeg) |
 |![](Photos/pintura2.jpeg)||
 
-The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
+After the repair, testing. Everything is working.
+
+![](Photos/outTeste1.jpeg)
+![](Photos/outTeste2.jpeg)
+
+But, it sudendly stoped because the electric terminals that I use in the thrusters wire didn't handle the high current. The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
 After this repairing the boat was tested and more water inside... grrr.... everywhere, from the hulls (more on the starboard) and small floats on the bow.
 
-(put pictures here)
+![](Photos/outTeste2.jpeg)
 
 Try to dry everything; remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
 
