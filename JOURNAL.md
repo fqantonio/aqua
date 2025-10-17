@@ -426,7 +426,7 @@ After this repairing the boat was tested and more water inside... grrr.... every
 
 Try to dry everything;
 
-
+![](Photos/outSecagem1.jpeg)
 
 remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
 
