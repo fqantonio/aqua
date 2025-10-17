@@ -375,7 +375,7 @@ https://www.youtube.com/watch?v=Y_22u3cKbTw
 - [x] strange warning PIXWACK beeps!? They were from the safety switch (https://ardupilot.org/rover/docs/common-sounds-pixhawkpx4.html#common-sounds-pixhawkpx4)
 - [x] test the voltage accuracy;
 
-We will follow this **paint procedure**:
+We followed this **paint procedure**:
 
 1. 3D printing the bow floats;
 2. Sand the hulls to remove the paint as much as possible (120 to 220);
@@ -408,13 +408,29 @@ After the repair, testing. Everything is working.
 But, it sudendly stoped because the electric terminals that I use in the thrusters wire didn't handle the high current. The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
 After this repairing the boat was tested and more water inside... grrr.... everywhere, from the hulls (more on the starboard) and small floats on the bow.
 
-![](Photos/outTeste2.jpeg)
+![](Photos/outEntradaAgua1.jpeg)
 
-Try to dry everything; remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
+![](Photos/outEntradaAgua2.jpeg)
 
-(put picture here)
+![](Photos/outEntradaAgua3.jpeg)
 
-Lights was a nightmare! After trying to understand all the documenting about ardurover firmware out dated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
+![](Photos/outEntradaAgua4.jpeg)
+
+![](Photos/outEntradaAgua5.jpeg)
+
+![](Photos/outEntradaAgua6.jpeg)
+
+![](Photos/outEntradaAgua7.jpeg)
+
+![](Photos/outEntradaAgua8.jpeg)
+
+Try to dry everything;
+
+
+
+remaking holes, because the wire of the notors where to curved; holes for the Thru Hull at stern;
+
+Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
 
 We have lighst! White, red and green.
 
