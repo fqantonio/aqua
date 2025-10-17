@@ -1,3 +1,35 @@
+Ferramentas
+Vista geral de IA
+An ArduRover battery failsafe is a safety feature that automatically takes action
+when the vehicle's battery voltage or remaining capacity drops below a user-defined threshold. This is designed to prevent a sudden loss of power by triggering a predefined action, such as Return to Launch (RTL), Land mode, or another specified behavior. It can be configured with both a primary low-voltage/capacity trigger and a secondary critical-voltage/capacity trigger. 
+How it works
+
+    Low battery trigger:
+    When the battery voltage drops below the BATT_LOW_VOLT (or FS_BATT_VOLTAGE) parameter for a specified duration (e.g., 10 seconds), the failsafe is triggered. 
+
+Low capacity trigger:
+Alternatively, the failsafe can be triggered if the remaining capacity falls below a set percentage, defined by BATT_LOW_MAH. 
+Critical battery trigger:
+A second, lower threshold can be set using parameters like BATT_CRT_VOLT and BATT_CRT_MAH. This triggers a more immediate and severe failsafe action. 
+Configurable action:
+The user can choose the action to be taken when the failsafe is triggered. Common options include:
+
+    Return to Launch (RTL) 
+
+Land 
+Hold position 
+
+Override:
+The failsafe can be overridden by the pilot by switching the vehicle to a different mode using the RC controller or ground control station, as long as a valid mode is available. 
+Reset:
+After the battery is replaced, the failsafe must be manually reset by disarming the vehicle and using a command in the ground control software, like Mission Planner, to acknowledge that a fresh battery has been installed. 
+
+Configuration
+
+    The settings are typically configured in the safety setup page of a ground control software like QGroundControl. 
+
+Users can adjust the voltage and capacity thresholds, disable them by setting them to zero, and choose the failsafe action
+
 Safety issues. This a GEMINI text to the question why the safety switch is giveing a a warning and the batery is  full...!?!?!?
 
 This is a very common issue with Pixhawk (ArduPilot or PX4 firmware) systems! The low battery warning is usually triggered based on **voltage** and/or **remaining capacity** thresholds configured in the flight controller, and if those settings are incorrect, you can get a false alarm even with a fully charged battery.
