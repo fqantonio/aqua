@@ -10,7 +10,10 @@
 - Connect the telemetry radio to the USBC in the computer
 - Turn on the computer and open MP;
 - open the starboard float cover
-- Turn on the main power switch (see picture: put picture here!?!?!?): verify sounds and PIX4 led colors: motor DRIVER sounds mean that they are connected connected;
+- Turn on the main power switch (see picture: put picture here!?!?!?)
+- 
+- what sounds and what led colors of everythi g is ok!?!?!?verify sounds and PIX4 led colors: motor DRIVER sounds mean that they are connected connected;
+-
 - Conecting MP to the pixhwack (upper button on the right of the MP screen);
 - Turn on the radio transmitter (verify green led in the receiver: changing from blinking to solid red);
 - Check the battery voltage;
