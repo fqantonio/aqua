@@ -1,23 +1,16 @@
-Ferramentas
-Vista geral de IA
-An ArduRover battery failsafe is a safety feature that automatically takes action
-when the vehicle's battery voltage or remaining capacity drops below a user-defined threshold. This is designed to prevent a sudden loss of power by triggering a predefined action, such as Return to Launch (RTL), Land mode, or another specified behavior. It can be configured with both a primary low-voltage/capacity trigger and a secondary critical-voltage/capacity trigger. 
-How it works
+In this projet we set the veihcle to sen an alarm by telemetry when the voltage drop under 12 V. Since its a 4S4P system, 16,8 V is the full battery voltage. 
+Note: It shoul be interesting to have a smart RTL as a predefined action
 
-    Low battery trigger:
-    When the battery voltage drops below the BATT_LOW_VOLT (or FS_BATT_VOLTAGE) parameter for a specified duration (e.g., 10 seconds), the failsafe is triggered. 
+FS trigered???
 
-Low capacity trigger:
-Alternatively, the failsafe can be triggered if the remaining capacity falls below a set percentage, defined by BATT_LOW_MAH. 
-Critical battery trigger:
-A second, lower threshold can be set using parameters like BATT_CRT_VOLT and BATT_CRT_MAH. This triggers a more immediate and severe failsafe action. 
-Configurable action:
-The user can choose the action to be taken when the failsafe is triggered. Common options include:
+Low battery trigger:
+BATT_LOW_VOLT (or FS_BATT_VOLTAGE) = 14V??? duration 10 seconds??? Fail safe trigered: FS can be smmart RTL!?!?!?
 
-    Return to Launch (RTL) 
+in percentage!?!?!? BATT_LOW_MAH. 
 
-Land 
-Hold position 
+lower threshold BATT_CRT_VOLT = 12V and BATT_CRT_MAH.
+
+severe failsafe action: smart return to land
 
 Override:
 The failsafe can be overridden by the pilot by switching the vehicle to a different mode using the RC controller or ground control station, as long as a valid mode is available. 
