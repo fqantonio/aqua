@@ -2,7 +2,7 @@
 
 - Feetching the maps with Mission Planner (PM) in a computer with internet access beforehand;
 - Check the site permissions to test/use the AQUA;
-- Materials check list: computer; trolley; wooden platform; dingy if possible; box (roap; fenders; basic tools; USB cables; charger; telemetry radios;);
+- Materials check list: computer; trolley; wooden platform; box (roap; fenders; basic tools; USB cables; charger; telemetry radio); dingy if possible;
 
 update about this...
 - Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?)
