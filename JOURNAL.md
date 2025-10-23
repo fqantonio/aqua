@@ -428,9 +428,12 @@ remaking holes, because the wire of the notors where to curved; holes for the Th
 
 Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
 
-We have lighst! White, red and green.
+We have lights! White, red and green.
 
 Now AQUA is assembled again, with valves and lights: ready to be tested.
+The test when good for about 30 minuts but it starts to be get water inside again. At the same time one of the switchs broke, I don't know if because of heat (high currrent) or another reason. The main switch is bronken. Changed! Everything seems ok now. All the lateral conections between the aluminium bars, the stringers, and the floats where filled with silicone. After drying we will test again.
+
+Restart again...
 
 ## November
 
