@@ -280,6 +280,22 @@ Using the air compressed most of the paint went off.
 | ![](Photos/tintaRemove13.jpeg) | ![](Photos/tintaRemove14.jpeg) | ![](Photos/tintaRemove15.jpeg) |
 | ![](Photos/tintaRemove16.jpeg) | ![](Photos/tintaRemove17.jpeg) | ![](Photos/tintaRemove18.jpeg) |
 
+Repairing again using primary and epoxy paint. Better sunding for adherence.
+
+| Repairing | | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/reparacaoTerc1.jpeg) | ![](Photos/reparacaoTerc2.jpeg) | ![](Photos/reparacaoTerc3.jpeg) |
+| ![](Photos/reparacaoTerc4.jpeg) | ![](Photos/reparacaoTerc5.jpeg) | ![](Photos/reparacaoTerc6.jpeg) |
+| ![](Photos/reparacaoTerc7.jpeg) | ![](Photos/reparacaoTerc8.jpeg) | ![](Photos/reparacaoTerc9.jpeg) |
+
+Thruster reparation.
+
+![](Photos/motorReparar.jpeg)
+
+Measuring current and voltage.
+
+![](Photos/medicoes.jpeg)
+
 Apply silicone... dry for 6 hours and put it on water again.
 
 ![](Photos/silicone.jpeg)
