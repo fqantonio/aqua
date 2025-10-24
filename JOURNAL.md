@@ -408,6 +408,13 @@ After the repair, testing. Everything is working.
 But, it sudendly stoped because the electric terminals that I use in the thrusters wire didn't handle the high current. The "strange warning PIXWACK beeps!?" where not exactly from pixhwack but from the safety switch buzzer saying thta the batery was low.
 After this repairing the boat was tested and more water inside... grrr.... everywhere, from the hulls (more on the starboard) and small floats on the bow.
 
+| Water inside | | 
+| ------------- | ------------- |
+| ![](Photos/agua1.jpeg)| ![](Photos/agua2.jpeg) |
+|![](Photos/agua3.jpeg)|![](Photos/agua4.jpeg)|
+| ![](Photos/agua5.jpeg) | ![](Photos/agua6.jpeg) |
+
+
 | Repair | | 
 | ------------- | ------------- |
 | ![](Photos/outEntradaAgua1.jpeg)| ![](Photos/outEntradaAgua2.jpeg) |
@@ -426,12 +433,17 @@ remaking holes, because the wire of the notors where to curved; holes for the Th
 | ![](Photos/bujao.jpeg)| ![](Photos/bujao1.jpeg) |
 | ![](Photos/bujao2.jpeg)| ![](Photos/bujao3.jpeg) |
 
-Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly thoutgh that it was r+rtight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
+Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly though that it was tight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
 
 We have lights! White, red and green.
 
 Now AQUA is assembled again, with valves and lights: ready to be tested.
 The test when good for about 30 minuts but it starts to be get water inside again. At the same time one of the switchs broke, I don't know if because of heat (high currrent) or another reason. The main switch is bronken. Changed! Everything seems ok now. All the lateral conections between the aluminium bars, the stringers, and the floats where filled with silicone. After drying we will test again.
+
+| Sealing | | 
+| ------------- | ------------- |
+| ![](Photos/selar1.jpeg)| ![](se2.jpeg) |
+
 
 Restart again... Everything on the boat must be very well sealed. Today we tested again and it works very weel; there is, still, some water in, but it's a small quantity, and we will reseal again.
 
