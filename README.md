@@ -105,3 +105,4 @@ Repairing!
  - Álvaro brito, MAKER, 3D printing
  - Renan Portocarrero, MAKER, 3D printing
  - Rui Infante, FAB LAB Porto de Mós, CNC milling
+ - Alexandre Nunes, Intership, 3D printing and testing
