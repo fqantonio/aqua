@@ -485,7 +485,15 @@ Problems: battery warning are not consistent with the measuring; warning of the 
 
 ![](Photos/preparadoNov.jpeg)
 
-Faires and conferences
+Testing the layer height and the number of walls.
+
+| Sealing | | |
+| ------------- | ------------- |------------- |
+| ![](Photos/teste1.jpeg)| ![](teste2.jpeg) |![](teste3.jpeg)|
+| ![](Photos/teste4.jpeg)|  ||
+
+## Faires and conferences
+
 1. STE 2026, Porto, 1-2 October
 https://engeduconferences.com/STE2026/
 2. Put the project online here: Nautica expo
@@ -504,6 +512,7 @@ Professionals faires (to be discussed):
 - [x] Use the radio receptor with 10 CH
 - [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [x] Presentations and faires
+- [ ] testing walls and layer height;
 
 - [ ] reseal;
 - [ ] girsocope calibration warnings: first time;
