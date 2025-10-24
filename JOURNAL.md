@@ -269,6 +269,15 @@ Notice that the starboard paint peeled off.
 
 ![](Photos/peeledOff.jpeg)
 
+| peeled off | | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/tintaRemove1.jpeg) | ![](Photos/tintaRemove2.jpeg) | ![](Photos/tintaRemove3.jpeg) |
+| ![](Photos/tintaRemove4.jpeg) | ![](Photos/tintaRemove5.jpeg) | ![](Photos/tintaRemove6.jpeg) |
+| ![](Photos/tintaRemove7.jpeg) | ![](Photos/tintaRemove8.jpeg) | ![](Photos/tintaRemove9.jpeg) |
+| ![](Photos/tintaRemove10.jpeg) | ![](Photos/tintaRemove11.jpeg) | ![](Photos/tintaRemove12.jpeg) |
+| ![](Photos/tintaRemove13.jpeg) | ![](Photos/tintaRemove14.jpeg) | ![](Photos/tintaRemove15.jpeg) |
+| ![](Photos/tintaRemove16.jpeg) | ![](Photos/tintaRemove17.jpeg) | ![](Photos/tintaRemove18.jpeg) |
+
 Apply silicone... dry for 6 hours and put it on water again.
 
 ![](Photos/silicone.jpeg)
