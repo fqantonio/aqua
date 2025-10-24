@@ -271,6 +271,12 @@ Notice that the starboard paint peeled off.
 
 Using the air compressed most of the paint went off.
 
+| air compressed| | |
+| ------------- | ------------- | ------------- |
+| ![](Photos/ar1.jpeg) | ![](Photos/ar2.jpeg) | ![](Photos/ar3.jpeg) |
+
+
+
 | peeled off | | |
 | ------------- | ------------- | ------------- |
 | ![](Photos/tintaRemove1.jpeg) | ![](Photos/tintaRemove2.jpeg) | ![](Photos/tintaRemove3.jpeg) |
@@ -292,7 +298,7 @@ Thruster reparation.
 
 ![](Photos/motorReparar.jpeg)
 
-Measuring current and voltage.
+Addint the feature of measuring current and voltage.
 
 ![](Photos/medicoes.jpeg)
 
