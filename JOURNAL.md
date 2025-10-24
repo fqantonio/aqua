@@ -440,16 +440,17 @@ We have lights! White, red and green.
 Now AQUA is assembled again, with valves and lights: ready to be tested.
 The test when good for about 30 minuts but it starts to be get water inside again. At the same time one of the switchs broke, I don't know if because of heat (high currrent) or another reason. The main switch is bronken. Changed! Everything seems ok now. All the lateral conections between the aluminium bars, the stringers, and the floats where filled with silicone. After drying we will test again.
 
-| Sealing | | 
-| ------------- | ------------- |
-| ![](Photos/selar1.jpeg)| ![](se2.jpeg) |
-
+| Sealing | | |
+| ------------- | ------------- |------------- |
+| ![](Photos/selar1.jpeg)| ![](selar2.jpeg) |![](selar3.jpeg)|
+| ![](Photos/selar4.jpeg)| ![](selar5.jpeg) |![](selar6.jpeg)|
+| ![](Photos/selar7.jpeg)| ![](selar8.jpeg) |![](selar9.jpeg)|
 
 Restart again... Everything on the boat must be very well sealed. Today we tested again and it works very weel; there is, still, some water in, but it's a small quantity, and we will reseal again.
 
 Problems: battery warning are not consistent with the measuring; warning of the giroscope calibration are confusing because the calibration was done and in the past we never get it. Problems with the normal driving mode; a little bit of water: resealing!
 
-![](Photos/tentativa3.jpeg)
+![](Photos/preparadoNov.jpeg)
 
 Faires and conferences
 1. STE 2026, Porto, 1-2 October
