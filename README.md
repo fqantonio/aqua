@@ -91,7 +91,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 Repairing!
 
-![](Photos/preparado.jpeg)
+![](Photos/preparadoNov.jpeg)
 
 
 # SUPPORT
