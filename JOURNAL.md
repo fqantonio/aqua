@@ -433,36 +433,11 @@ We have lights! White, red and green.
 Now AQUA is assembled again, with valves and lights: ready to be tested.
 The test when good for about 30 minuts but it starts to be get water inside again. At the same time one of the switchs broke, I don't know if because of heat (high currrent) or another reason. The main switch is bronken. Changed! Everything seems ok now. All the lateral conections between the aluminium bars, the stringers, and the floats where filled with silicone. After drying we will test again.
 
-Restart again...
+Restart again... Everything on the boat must be very well sealed. Today we tested again and it works very weel; there is, still, some water in, but it's a small quantity, and we will reseal again.
 
-## November
+Problems: battery warning are not consistent with the measuring; warning of the giroscope calibration are confusing because the calibration was done and in the past we never get it. Problems with the normal driving mode; a little bit of water: resealing!
 
-- [ ] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
-- [ ] Milling the covers
-- [ ] Use the radio receptor with 10 CH
-- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html
-- [ ] log data procedure;
-- [ ] Activity log sheet
-- [ ] Get test sites maps with APM fetching;
-- [ ] Control and GPS point test;
-- [ ] Tests radio, telemetry max distance
-- [ ] Test with a payload of 5 and 10kg.
-- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
-- [ ] Put the vynil logos (email entities)
-- [ ] removable protections for corners, bow and stern;
-
-- [ ] Nicla Vision WIFI: print and assemble
-- [ ] Test the WIFI max distance
-
-- [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Contact enteties for a broad protocol
-- [ ] revisit minimum tools
-- [ ] Write the procedures manual to handle the boat carefully;
-- [ ] Review BOM costs;
-- [ ] Review material waste weight;
-- [ ] Review documentation: manual, procedures, safety and maintenance
-- [ ] Review text file business
-- [ ] Presentations and faires
+![](Photos/tentativa3.jpeg)
 
 Faires and conferences
 1. STE 2026, Porto, 1-2 October
@@ -477,6 +452,44 @@ Professionals faires (to be discussed):
 5. Isobay, 16-18 junho, Basc Country
 6. Conference, https://www.it.pt/Events/Event/4345
 7. https://www.infratech.de/en
+
+## November
+
+- [x] Use the radio receptor with 10 CH
+- [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
+- [x] Presentations and faires
+
+- [ ] reseal;
+- [ ] girsocope calibration warnings: first time;
+- [ ] Normal driving mode issues;
+- [ ] Battery parameters;
+- [ ] Milling the covers
+- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html
+- [ ] log data procedure;
+- [ ] Activity log sheet
+- [ ] Get test sites maps with APM fetching;
+- [ ] Control and GPS point test;
+
+- [ ] Tests radio, telemetry max distance
+- [ ] Test with a payload of 5 and 10kg.
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
+
+- [ ] Put the vynil logos (email entities)
+- [ ] removable protections for corners, bow and stern;
+
+- [ ] Nicla Vision WIFI: print and assemble
+- [ ] Test the WIFI max distance
+
+- [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Contact enteties for a broad protocol
+- [ ] revisit minimum tools and tool box
+- [ ] Write the procedures manual to handle the boat carefully;
+- [ ] Review BOM costs;
+- [ ] Review material waste weight;
+- [ ] Review documentation: manual, procedures, safety and maintenance
+- [ ] Review text file business
+
+
 
 # Next 2026 task
 - [ ] What sensors?
