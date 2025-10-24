@@ -269,6 +269,8 @@ Notice that the starboard paint peeled off.
 
 ![](Photos/peeledOff.jpeg)
 
+Using the air compressed most of the paint went off.
+
 | peeled off | | |
 | ------------- | ------------- | ------------- |
 | ![](Photos/tintaRemove1.jpeg) | ![](Photos/tintaRemove2.jpeg) | ![](Photos/tintaRemove3.jpeg) |
