@@ -450,8 +450,8 @@ After this repairing the boat was tested and more water inside... grrr.... every
 
 | Repair | | 
 | ------------- | ------------- |
-| ![](Photos/outEntradaAgua1.jpeg)| ![](Photos/outEntradaAgua2.jpeg) |
-|![](Photos/outEntradaAgua3.jpeg)|![](Photos/outEntradaAgua4.jpeg)|
+| ![](Photos/outEntradaAgua1.jpeg) | ![](Photos/outEntradaAgua2.jpeg) |
+| ![](Photos/outEntradaAgua3.jpeg) | ![](Photos/outEntradaAgua4.jpeg) |
 | ![](Photos/outEntradaAgua5.jpeg) | ![](Photos/outEntradaAgua6.jpeg) |
 | ![](Photos/outEntradaAgua7.jpeg) | ![](Photos/outEntradaAgua8.jpeg) |
 
@@ -489,8 +489,7 @@ Testing the layer height and the number of walls.
 
 | Sealing | | |
 | ------------- | ------------- |------------- |
-| ![](Photos/teste1.jpeg)| ![](teste2.jpeg) |![](teste3.jpeg)|
-| ![](Photos/teste4.jpeg)| ||
+| ![](Photos/teste1.jpeg)| ![](teste3.jpeg) | ![](teste4.jpeg) |
 
 ## Faires and conferences
 
