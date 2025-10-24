@@ -490,7 +490,7 @@ Testing the layer height and the number of walls.
 | Sealing | | |
 | ------------- | ------------- |------------- |
 | ![](Photos/teste1.jpeg)| ![](teste2.jpeg) |![](teste3.jpeg)|
-| ![](Photos/teste4.jpeg)|  ||
+| ![](Photos/teste4.jpeg)| ||
 
 ## Faires and conferences
 
