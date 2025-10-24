@@ -89,7 +89,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-Repairing!
+Ready... almost, need to prepare a little more details.
 
 ![](Photos/preparadoNov.jpeg)
 
