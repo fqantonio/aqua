@@ -491,6 +491,20 @@ Testing the layer height and the number of walls.
 | ------------- | ------------- |------------- |
 | ![](Photos/teste1.jpeg)| ![](teste3.jpeg) | ![](teste4.jpeg) |
 
+Results: !?!?!
+
+Conclusions: !?!?
+
+ ![](Photos/lixo.jpeg)
+
+| garbage | | 
+| ------------- | ------------- |
+|Plastic | !?!? |
+|Paper | !?!? |
+| Other ||
+| Bateries ||
+
+
 ## Faires and conferences
 
 1. STE 2026, Porto, 1-2 October
