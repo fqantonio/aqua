@@ -525,39 +525,40 @@ Professionals faires (to be discussed):
 - [x] Use the radio receptor with 10 CH
 - [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [x] Presentations and faires
-- [ ] testing walls and layer height;
 
-- [ ] reseal;
-- [ ] girsocope calibration warnings: first time;
-- [ ] Normal driving mode issues;
-- [ ] Battery parameters;
+- [ ] Publish the testing walls and layer height results and conclusions;
 - [ ] Milling the covers
-- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html
+- [ ] reseal;
+- [ ] giroscope calibration warnings: first time;
+- [ ] Battery safety sweetch warning;
+- [ ] Normal/simple driving mode issues;
+- [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
+- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
+- [ ] Control and GPS point test;
+
 - [ ] log data procedure;
 - [ ] Activity log sheet
 - [ ] Get test sites maps with APM fetching;
-- [ ] Control and GPS point test;
 
 - [ ] Tests radio, telemetry max distance
 - [ ] Test with a payload of 5 and 10kg.
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] Put the vynil logos (email entities)
-- [ ] removable protections for corners, bow and stern;
+- [ ] removable protections for corners, bow and stern: how!?!?;
 
 - [ ] Nicla Vision WIFI: print and assemble
 - [ ] Test the WIFI max distance
 
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Contact enteties for a broad protocol
+
 - [ ] revisit minimum tools and tool box
 - [ ] Write the procedures manual to handle the boat carefully;
 - [ ] Review BOM costs;
-- [ ] Review material waste weight;
+- [ ] Review material waste weight: Publish the garbage update;;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Review text file business
-
-
 
 # Next 2026 task
 - [ ] What sensors?
