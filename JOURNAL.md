@@ -489,7 +489,7 @@ Testing the layer height and the number of walls.
 
 | Sealing | | |
 | ------------- | ------------- |------------- |
-| ![](Photos/teste1.jpeg)| ![](teste3.jpeg) | ![](teste4.jpeg) |
+| ![](Photos/teste1.jpeg)| ![](Photos/teste3.jpeg) | ![](Photos/teste4.jpeg) |
 
 Results: !?!?!
 
