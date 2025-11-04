@@ -513,6 +513,8 @@ https://engeduconferences.com/STE2026/
 https://www.nauticexpo.com/pt/
 3. Madrid, Junho 3-5, startups, South Summit
 https://www.southsummit.io/
+4. Lisbon Web Summit 2026
+   https://websummit.com/
 
 Professionals faires (to be discussed):
 4. Oceanology international, Londres, 10-12 março 2026
