@@ -101,7 +101,9 @@ We are also looking the way to adjust, with flexible material, the front and rea
 Future: looking forward to test it in a pool. 
 
 ## July ##
-Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take the sustainability into account. The complete weigth of the catamaran is 20,5 Kg with an error of 0,2 Kg. So the waste produce in the fabrication of the catamaran is 22,1 Kg, 107,8 % of the mass of the catamara. Since we don't know how to process this catamara in is end of life, we coclude that, at that time, there will be 42,6 kg of waste, which include eletronic parts and plastic less environmentaly friendly. So, in the end of his life there will 207,3% of waste, compared to the mass of the catamaran.
+Cleaning was a task at this point and measuring the type of garbage and the weight in percentage of the catamaran is a reference to take the sustainability into account. The complete weigth of the catamaran is 20,5 Kg with an error of 0,2 Kg. So the waste produce in the fabrication of the catamaran was 22,1 Kg this time, 107,8 % of the mass of the catamara. 
+
+Since we don't know how to process this catamara in is end of life, we coclude that, at that time, there will be 42,6 kg of waste, which include eletronic parts and plastic less environmentaly friendly. So, in the end of his life there will 207,3% of waste, compared to the mass of the catamaran.
 
 | Type  | Weigth (kg) | % |
 | ------------- | ------------- | ------------- |
@@ -491,19 +493,22 @@ Testing the layer height and the number of walls.
 | ------------- | ------------- |------------- |
 | ![](Photos/teste1.jpeg)| ![](Photos/teste3.jpeg) | ![](Photos/teste4.jpeg) |
 
-Results: !?!?!
+Results: no spilled water 
 
-Conclusions: !?!?
+Conclusions: We think that 3 walls is enought
 
  ![](Photos/lixo.jpeg)
 
+ About the garbage, in total 12,4 Kg this time, there are some that its clear where to dispose, other its a mess. Adding the waste in
+
 | garbage | | 
 | ------------- | ------------- |
-|Plastic | !?!? |
-|Paper | !?!? |
-| Other ||
-| Bateries ||
+| Plastic | 3,4 Kg |
+| Paper | 6,5 Kg |
+| Paints | 2,5 Kg |
+| Bateries | 16 AAA bateries |
 
+Until today, the waste produced was 34,5 Kg (168% of the mass of the catamaran); if we had the material in the end of life of th vessel, it will be 55 Kg, 268 %.
 
 ## Faires and conferences
 
@@ -517,24 +522,32 @@ https://www.southsummit.io/
    https://websummit.com/
 
 Professionals faires (to be discussed):
+
 4. Oceanology international, Londres, 10-12 março 2026
 5. Isobay, 16-18 junho, Basc Country
 6. Conference, https://www.it.pt/Events/Event/4345
 7. https://www.infratech.de/en
 
 ## November
+This november we had a proficous meeting with ESTM of IPLeiria a University school where the sea and water areas are important for their biology research and training teams.
+
+It was decided that we will start a program from March 2026 to July 2026 to test, use as a pedagogical tool and as a platform fro plancton research.
+So, our major task now is to prepare everything in order for ESTM has the best experience with our USV platform. And we are also keen to know the reception in March and the outcames in July.
+
+For now this are the tasks until **March 2026**: prepare, prepare and prepare, and test, test and test!
 
 - [x] Use the radio receptor with 10 CH
 - [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [x] Presentations and faires
+- [x] Publish the testing walls and layer height results and conclusions;
+- [x] Milling the covers
+- [x] reseal;
+- [x] giroscope calibration warnings: first time;
+- [x] Battery safety sweetch warning;
+- [x] Nicla Vision WIFI: print and assemble
 
-- [ ] Publish the testing walls and layer height results and conclusions;
-- [ ] Milling the covers
-- [ ] reseal;
-- [ ] giroscope calibration warnings: first time;
-- [ ] Battery safety sweetch warning;
+- [ ] Put the vynil logos (email entities)
 - [ ] Normal/simple driving mode issues;
-- [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
 - [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
 - [ ] Control and GPS point test;
 
@@ -546,23 +559,21 @@ Professionals faires (to be discussed):
 - [ ] Test with a payload of 5 and 10kg.
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
-- [ ] Put the vynil logos (email entities)
-- [ ] removable protections for corners, bow and stern: how!?!?;
-
-- [ ] Nicla Vision WIFI: print and assemble
-- [ ] Test the WIFI max distance
-
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Contact enteties for a broad protocol
 
 - [ ] revisit minimum tools and tool box
 - [ ] Write the procedures manual to handle the boat carefully;
 - [ ] Review BOM costs;
-- [ ] Review material waste weight: Publish the garbage update;;
+- [ ] Review material waste weight: Publish the garbage update;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Review text file business
 
 # Next 2026 task
+
+- [ ] Discuss professional faires;
+- [ ] removable protections for corners, bow and stern: how!?!?;
+- [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
 - [ ] What sensors?
 - [ ] Googles and gimball?
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
