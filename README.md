@@ -99,10 +99,11 @@ Ready... almost, need to prepare a little more details.
  - Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
  - António Marçal, advising and workshop space, Marçal Metalworking
  - Marko Mauser, [Mauser](https://mauser.pt/)
- - Tiago Elias, Maker, 3D printing
  - Paulo Teixeira, 3D printing, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
  - Gonçalo Pereira, batteries training and electric circuit adviser, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
- - Álvaro brito, MAKER, 3D printing
- - Renan Portocarrero, MAKER, 3D printing
  - Rui Infante, FAB LAB Porto de Mós, CNC milling
+ - Tiago Elias, Maker, 3D printing
+ - Álvaro Brito, MAKER, 3D printing
+ - Sebastião Bizarro, Maker
+ - Renan Portocarrero, MAKER, 3D printing
  - Alexandre Nunes, Intership, 3D printing and testing
