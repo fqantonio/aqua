@@ -545,6 +545,7 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] giroscope calibration warnings: first time;
 - [x] Battery safety sweetch warning;
 - [x] Nicla Vision WIFI: print and assemble
+- [x] Contact enteties for a broad protocol
 
 - [ ] Install Nicla Vision
 - [ ] Put the vynil logos (email entities)
@@ -561,13 +562,13 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Contact enteties for a broad protocol
 
 - [ ] revisit minimum tools and tool box
 - [ ] Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
 - [ ] Review material waste weight: Publish the garbage update;
 - [ ] Review documentation: manual, procedures, safety and maintenance
+- [ ] Prepare MARCH 2026 training
 - [ ] Review text file business
 
 # Next 2026 task
