@@ -555,6 +555,7 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] Install Nicla Vision
+- [ ] Nicla vision battery
 
 
 - [ ] log data procedure;
