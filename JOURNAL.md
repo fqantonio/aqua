@@ -546,12 +546,13 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Battery safety sweetch warning;
 - [x] Nicla Vision WIFI: print and assemble
 - [x] Contact enteties for a broad protocol
+- [x] Review material waste weight: Publish the garbage update;
 
 - [ ] Install Nicla Vision
 - [ ] Put the vynil logos (email entities)
 - [ ] Normal/simple driving mode issues;
-- [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
-- [ ] Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
+- [ ] Driving modes: MANUAL, AUTO, LOITER (https://ardupilot.org/rover/docs/loiter-mode.html); other, GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
+- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 
 - [ ] log data procedure;
 - [ ] Activity log sheet
@@ -562,11 +563,9 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] include calcs for the 4S4P batery in this journal;
-
 - [ ] revisit minimum tools and tool box
 - [ ] Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
-- [ ] Review material waste weight: Publish the garbage update;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
 - [ ] Review text file business
