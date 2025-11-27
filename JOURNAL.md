@@ -548,13 +548,14 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Contact enteties for a broad protocol
 - [x] Review material waste weight: Publish the garbage update;
 
-- [ ] Install Nicla Vision
 - [ ] Put the vynil logos (email entities)
 - [ ] Normal/simple driving mode issues;
 - [ ] Driving modes: MANUAL, AUTO, LOITER (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
 - [ ] guided? https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
+- [ ] Install Nicla Vision
+
 
 - [ ] log data procedure;
 - [ ] Activity log sheet
