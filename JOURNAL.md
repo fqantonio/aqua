@@ -468,7 +468,7 @@ remaking holes, because the wire of the notors where to curved; holes for the Th
 | ![](Photos/bujao.jpeg)| ![](Photos/bujao1.jpeg) |
 | ![](Photos/bujao2.jpeg)| ![](Photos/bujao3.jpeg) |
 
-Lights was a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly though that it was tight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
+Lights where a nightmare! After trying to understand all the documenting about ardurover firmware outdated; finnaly though that it was tight, but no... I even get a multimeter and an arduino uno to see what happen to the pins when I was pushing the radio button to turn on the lights... they seemeddead. Why are they all dead? Seeking to find same parameter in the thousand of parameters that keep the pin LOW. Well... it was just a button: push the safety button because, if not, pins are no enabled!!! Grrr...
 
 We have lights! White, red and green.
 
@@ -495,7 +495,7 @@ Testing the layer height and the number of walls.
 
 Results: no spilled water 
 
-Conclusions: We think that 3 walls is enought
+Conclusions: We think that 3 walls are enought
 
  ![](Photos/lixo.jpeg)
 
@@ -529,7 +529,7 @@ Professionals faires (to be discussed):
 7. https://www.infratech.de/en
 
 ## November
-This november we had a proficous meeting with ESTM of IPLeiria a University school where the sea and water areas are important for their biology research and training teams.
+This november we had a benificial meeting with [ESTM](https://www.ipleiria.pt/estm/) Politenic University school belong to [IPLeiria](https://www.ipleiria.pt/) where the sea and water areas are important for their biology research and training teams.
 
 It was decided that we will start a program from March 2026 to July 2026 to test, use as a pedagogical tool and as a platform fro plancton research.
 So, our major task now is to prepare everything in order for ESTM has the best experience with our USV platform. And we are also keen to know the reception in March and the outcames in July.
