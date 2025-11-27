@@ -576,26 +576,25 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 
 # Next 2026 task
 
+- [ ] Deliver for training and testing (ESTM IPLeiria);
+- [ ] Prepare the a new design;
+- [ ] Print with obliquo roller printer;
+- [ ] Paint needed or why print in yellow?
 - [ ] Discuss professional faires;
-- [ ]  Life Cycle Assessment
+- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
 - [ ] removable protections for corners, bow and stern: how!?!?;
 - [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
 - [ ] What sensors?
 - [ ] Googles and gimball?
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
 - [ ] we should have an internal temperature sensor?
-- [ ] after service, what should it be used for?
-- [ ] Deliver for training and testing (IPL);
-- [ ] Paint needed or why print in yellow?
-- [ ] Prepare the new designs;
-- [ ] Print with obliquo roller printer;
+- [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
 - [ ] Solar charging proceding and materials?!
 - [ ] Packaging
-- [ ] Prepare the inauguration and delivering
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
-- [ ] 3 faires
+- [ ] faires
 - [ ] Financing
 - [ ] (...)
-- [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
+
 
 
