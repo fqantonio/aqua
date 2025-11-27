@@ -546,10 +546,11 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Battery safety sweetch warning;
 - [x] Nicla Vision WIFI: print and assemble
 
+- [ ] Install Nicla Vision
 - [ ] Put the vynil logos (email entities)
 - [ ] Normal/simple driving mode issues;
 - [ ] Driving modes: AUTO; GUIDED; LOITER; PosHOLD; RTL; SMART RTL; MANUAL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
-- [ ] Control and GPS point test;
+- [ ] Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 
 - [ ] log data procedure;
 - [ ] Activity log sheet
@@ -563,7 +564,7 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [ ] Contact enteties for a broad protocol
 
 - [ ] revisit minimum tools and tool box
-- [ ] Write the procedures manual to handle the boat carefully;
+- [ ] Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
 - [ ] Review material waste weight: Publish the garbage update;
 - [ ] Review documentation: manual, procedures, safety and maintenance
