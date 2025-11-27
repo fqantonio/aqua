@@ -574,6 +574,7 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 # Next 2026 task
 
 - [ ] Discuss professional faires;
+- [ ]  Life Cycle Assessment
 - [ ] removable protections for corners, bow and stern: how!?!?;
 - [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
 - [ ] What sensors?
