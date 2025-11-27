@@ -58,7 +58,7 @@ As you can see, there is a chemical reaction between the resin and the paint. Th
 | ![](Photos/AQUA11.JPG) | ![](Photos/AQUA23.JPG) |
 | ![](Photos/AQUA32.JPG) | |
 
-| And what an ammount of garbadge |  |  
+| What amount of garbadge!?!? |  |  
 | ------------- | ------------- |
 | ![](Photos/AQUA17.JPG) | ![](Photos/AQUA18.JPG) |
 | ![](Photos/AQUA19.JPG) | ![](Photos/AQUA20.JPG) |
@@ -114,7 +114,7 @@ Since we don't know how to process this catamara in is end of life, we coclude t
 | Metal | 3,4 | 0,2 |
 | undifferentiated waste | 4,3 | 0,2 |
 
-| In July we stop here:  |  | |
+| In July we stop here...  |  | |
 | ------------- | ------------- | ------------- |
 | ![](Photos/VistaGeral_julh_2024.JPG) | ![](Photos/VistaGeral_julh_2024_1.JPG) |  ![](Photos/VistaGeral_julh_2024_2.JPG) |
 
@@ -124,7 +124,7 @@ This month is devoted to plannning and assembled the top, cameras, antennas and 
 
 ## October ##
 
-This month is devoted to plannning and assembling and redesign the power circuit.
+This month was devoted to plannning and assembling and redesign the power circuit.
 
 ## November and December##
 
