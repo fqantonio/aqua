@@ -54,14 +54,14 @@ We never reach the minimum temperature of 21 degrees and 60% of humidity.
 As you can see, there is a chemical reaction between the resin and the paint. The good news is that, if you repaint, it will vanishes! great!!!
 
 | **Resin the hulls** |  |  
-| ------------- | ------------- | 
+| ---------------- | ---------------- | 
 | ![](Photos/AQUA11.JPG) | ![](Photos/AQUA23.JPG) |
 | ![](Photos/AQUA32.JPG) | |
 
 | **What amount of garbadge!?!?** |  |  
-| ------------- | ------------- |
-| ![](Photos/AQUA17.JPG) | ![](Photos/AQUA18.JPG) |
-| ![](Photos/AQUA19.JPG) | ![](Photos/AQUA20.JPG) |
+| ---------------- | ---------------- |
+|  ![](Photos/AQUA17.JPG)  |  ![](Photos/AQUA18.JPG)  |
+|  ![](Photos/AQUA19.JPG)  |  ![](Photos/AQUA20.JPG)  |
 
 
 Primary painting. All the errors appear!
