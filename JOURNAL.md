@@ -47,18 +47,18 @@ We are using the bodyboard as a testing for all of the processes.
 Resin the hulls. Because of the weather its was a very slow process. 
 We never reach the minimum temperature of 21 degrees and 60% of humidity.
 
-| Resin the hulls |  |  
+| **Resin the hulls** |  |  
 | ------------- | ------------- | 
 | ![](Photos/AQUA2.JPG) | ![](Photos/AQUA9.JPG) |
 
 As you can see, there is a chemical reaction between the resin and the paint. The good news is that, if you repaint, it will vanishes! great!!!
 
-| Resin the hulls |  |  
+| **Resin the hulls** |  |  
 | ------------- | ------------- | 
 | ![](Photos/AQUA11.JPG) | ![](Photos/AQUA23.JPG) |
 | ![](Photos/AQUA32.JPG) | |
 
-| What amount of garbadge!?!? |  |  
+| **What amount of garbadge!?!?** |  |  
 | ------------- | ------------- |
 | ![](Photos/AQUA17.JPG) | ![](Photos/AQUA18.JPG) |
 | ![](Photos/AQUA19.JPG) | ![](Photos/AQUA20.JPG) |
