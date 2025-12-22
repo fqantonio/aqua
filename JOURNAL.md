@@ -544,7 +544,7 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Milling the covers
 - [x] reseal;
 - [x] giroscope calibration warnings: first time;
-- [x] Battery safety sweetch warning;
+- [x] Battery safety switch warning;
 - [x] Nicla Vision WIFI: print and assemble
 - [x] Contact enteties for a broad protocol
 - [x] Review material waste weight: Publish the garbage update;
