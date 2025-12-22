@@ -559,6 +559,10 @@ In this month, we prepared the covers to be more user friendly. Ready for the th
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 
+- [ ] log data procedure;
+- [ ] Activity log sheet
+- [ ] Get test sites maps with APM fetching;
+
 ## Jannuary 2026
 
 - [ ] Tests radio, telemetry max distance
@@ -566,10 +570,6 @@ In this month, we prepared the covers to be more user friendly. Ready for the th
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] Put the vynil logos (email entities)
-
-- [ ] log data procedure;
-- [ ] Activity log sheet
-- [ ] Get test sites maps with APM fetching;
 
 # Future, 2026 tasks
 
@@ -603,6 +603,3 @@ In this month, we prepared the covers to be more user friendly. Ready for the th
 - [ ] faires
 - [ ] Financing
 - [ ] (...)
-
-
-
