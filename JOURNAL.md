@@ -553,17 +553,17 @@ In this month, we prepared the covers to be more user friendly. Ready for the th
 
 ![](Photos/dezembro2025.jpeg)
 
-## Jannuary 2026
-
-- [ ] Tests radio, telemetry max distance
-- [ ] Test with a payload of 5 and 10kg.
-- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
-
 - [ ] Normal/simple driving mode issues;
 - [ ] Driving modes: MANUAL, AUTO, ACRO!? or LOITER!? (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
 - [ ] guided? https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
+
+## Jannuary 2026
+
+- [ ] Tests radio, telemetry max distance
+- [ ] Test with a payload of 5 and 10kg.
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] Put the vynil logos (email entities)
 
