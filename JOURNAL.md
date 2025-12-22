@@ -528,7 +528,8 @@ Professionals faires (to be discussed):
 6. Conference, https://www.it.pt/Events/Event/4345
 7. https://www.infratech.de/en
 
-## November
+## November/December 2025
+
 This november we had a benificial meeting with [ESTM](https://www.ipleiria.pt/estm/) Politenic University school belong to [IPLeiria](https://www.ipleiria.pt/) where the sea and water areas are important for their biology research and training teams.
 
 It was decided that we will start a program from March 2026 to July 2026 to test, use as a pedagogical tool and as a platform fro plancton research.
@@ -548,23 +549,32 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Contact enteties for a broad protocol
 - [x] Review material waste weight: Publish the garbage update;
 
-- [ ] Put the vynil logos (email entities)
+In this month, we prepared the covers to be more user friendly. Ready for the third round of tests!
+
+![](Photos/dezembro2025.jpeg)
+
+## Jannuary 2026
+
+- [ ] Tests radio, telemetry max distance
+- [ ] Test with a payload of 5 and 10kg.
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
+
 - [ ] Normal/simple driving mode issues;
-- [ ] Driving modes: MANUAL, AUTO, LOITER (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
+- [ ] Driving modes: MANUAL, AUTO, ACRO!? or LOITER!? (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
 - [ ] guided? https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
-- [ ] Install Nicla Vision
-- [ ] Nicla vision battery
 
+- [ ] Put the vynil logos (email entities)
 
 - [ ] log data procedure;
 - [ ] Activity log sheet
 - [ ] Get test sites maps with APM fetching;
 
-- [ ] Tests radio, telemetry max distance
-- [ ] Test with a payload of 5 and 10kg.
-- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
+# Future, 2026 tasks
+
+- [ ] Install Nicla Vision
+- [ ] Nicla vision battery
 
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] revisit minimum tools and tool box
@@ -573,8 +583,6 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
 - [ ] Review text file business
-
-# Next 2026 task
 
 - [ ] Deliver for training and testing (ESTM IPLeiria);
 - [ ] Prepare the a new design;
