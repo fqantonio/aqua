@@ -23,7 +23,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Turn on the main power switch (see picture: put picture here!?!?!?): ear the sound saying that the hardware is waiking up;
 - Turn on the hardware safety motor switch (picture here?!?!?!?): two sounds for each motor: it will change from blinking to solid light and emit two tones indicating initialization;
 - Turn on the RC: (green led in the receiver that is only possible to see if the cover is open: changing from blinking to solid red);
-- Put the throtle in the middle position;
+- In the RC put the throtle in the middle position;
 - Check if the telemetry radio transmiter has its green led on;
 - Conecting MP to the pixhwack (upper button on the right of the MP screen): wait until the parameters are uploaded;
 - CHECK the CH 5 if the navigation lights turn on;
