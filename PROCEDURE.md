@@ -3,7 +3,8 @@
 - Fetching the maps with Mission Planner (MP) in a computer with internet access beforehand;
 NOTE: fetching means, "going" with the MP to the location, click with mouse right button and choose maps, them fetching; after, using alt to choose the area and click the fetching;
 - Check the site permissions to test/use the AQUA;
-- Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; charger; telemetry radio); dinghy boat (if possible);
+- Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; charger; telemetry radio; Radio Control transmitter);
+- Dinghy boat (if possible);
 - Check the Radio Control (RC) levels;
 - Charge the AQUA bateries;
 - Charge the portable computer (the automatic shut down shoud be "never";
@@ -44,6 +45,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Take AQUA to safety shore
 - Tie it;
 - DISARM at MP;
+
 ## RESTART
 
 - untie;
@@ -59,7 +61,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Turn of power;
 - Clean as much as possible with fresh water: be carefull with the entrances of water above the covers
 
-# AFTER
+# AFTER OPERATIONS
 
 - Unscrew the bujons
 - collect tools and utensils in the bag and box
