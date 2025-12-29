@@ -31,7 +31,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 ## ARM
 - Check safety messages: if everything is ok you should see the message "DISARMED";
 - Check voltage level: above 14 V;
-- Batery above 60%;
+- Batery above 80%;
 - EKF and Vibe white;
 - GPS: 3D Fix;
 - Check SAT > = 6;
