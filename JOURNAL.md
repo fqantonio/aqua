@@ -589,14 +589,15 @@ At this moment no problems with water inside.
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
 - [ ] Deliver for training and testing (ESTM IPLeiria);
-- [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?
+- [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
 - [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
 
 # Future tasks
 
 - [ ] Use the radio receptor with 10 CH
 - [ ] Install Nicla Vision
-- [ ] Nicla vision battery
+- [ ] Nicla vision battery and magnetic switch
+- [ ] Collect videos for AI models
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 - [ ] Review text file business
 - [ ] Prepare the a new design;
