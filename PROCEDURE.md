@@ -1,24 +1,23 @@
 # BEFORE
 
-- Feetching the maps with Mission Planner (PM) in a computer with internet access beforehand;
+- Fetching the maps with Mission Planner (MP) in a computer with internet access beforehand;
+NOTE: fetching means, "going" with the MP to the location, click with mouse right button and choose maps, them fetching; after, using alt to choose the area and click the fetching;
 - Check the site permissions to test/use the AQUA;
-- Materials check list: computer; trolley; wooden platform; box (roap; fenders; basic tools; USB cables; charger; telemetry radio); dingy if possible;
+- Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; charger; telemetry radio); dinghy boat (if possible);
+- Check the Radio Control (RC) levels;
+- Charge the AQUA bateries;
 
 # DURING OPERATIONS
 
 ## START
-- Connect the telemetry radio to the USBC in the computer
+- Connect the telemetry radio to the USB C in the computer;
 - Turn on the computer and open MP;
-- open the starboard float cover
-- Turn on the main power switch (see picture: put picture here!?!?!?)
-- 
-- what sounds and what led colors of everythi g is ok!?!?!?verify sounds and PIX4 led colors: motor DRIVER sounds mean that they are connected connected;
--
+- open the yellow cover on the starboard float by rotating it;
+- Turn on the main power switch (see picture: put picture here!?!?!?): ear the sound saying that the hardware is waiking up;
+- Turn on the hardware safety motor switch (picture here?!?!?!?): two sounds for each motor: it will change from blinking to solid light and emit two tones indicating initialization;
+- Turn on the RC: (green led in the receiver that is only possible to see if the cover is open: changing from blinking to solid red);
 - Conecting MP to the pixhwack (upper button on the right of the MP screen);
-- Turn on the radio transmitter (verify green led in the receiver: changing from blinking to solid red);
-- Check the battery voltage;
-- Turn on the safety switch on: it will change from blinking to solid light and emit two tones indicating initialization
-- Close the starboard float cover;
+- Close the starboard yellow by rotating it;
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier
 - Everything ready to arm the AQUA?
   - check list:  Security check: no other boats, people or obstacles around AQUA?
@@ -27,6 +26,16 @@
 - Untie AQUA
 - Drive AQUA mission
 - ATTENTION to voltage levells and safety screen warnings, namelly (??!?!?)
+
+## ARM
+- Check safety messages: if everything is ok you should see the message "DISARMED";
+- Check voltage level: above 14 V;
+- Check SAT > = 6;
+- Check HDOP <2,5;
+- 
+
+
+## RUN
 
 ## STOP
 
