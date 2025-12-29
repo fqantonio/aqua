@@ -43,15 +43,15 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Everything ready to arm the AQUA?
   - check list:  Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
   - No warning signals; leds normal;
+  - IMPORTANT: put the RC throttle in the middle for the motors to now run, because they are lubricated only by water;
 - At MP push the ARM/DISARM button: down left window;
-- After arming check if the RGB led on the pixwack is BLUE;
-  IMPORTANT: put the throttle in the midle for the motors to now run, because they are lubricated by water
-- Close the starboard yellow by rotating it: main RGB led light BLUE;
+- Close the starboard yellow by rotating it: main RGB led light BLUE?
+- Use the RC transmitter to see if the motors are responding correctly;
 
 ## RUN
 - Untie AQUA
 - Drive AQUA mission
-- ATTENTION to voltage levells and safety screen warnings, namelly (??!?!?)
+- ATTENTION to voltage levells and safety screen warnings, namely (??!?!?)
 
 ## STOP
 
