@@ -37,7 +37,9 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Check SAT > = 6;
 - Check HDOP <2,5;
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier;
-- Move the boat and see of the compass reacts on the screen;
+- Move the boat and see if the compass reacts on the screen;
+- aligh AQUA North south, with the bow to north and the stern to south: degree near 0?
+  IMPORTANT: if not make a lage vehicle magcal and reboot; 
 - Everything ready to arm the AQUA?
   - check list:  Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
   - No warning signals; leds normal;
