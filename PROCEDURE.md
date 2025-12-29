@@ -5,9 +5,9 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Check the site permissions to test/use the AQUA;
 - Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; charger; AA batery charger; multimeter charger monitor; telemetry radio; Radio Control transmitter);
 - Dinghy boat (if possible);
-- Check the Radio Control (RC) levels;
+- Check the Radio Control (RC) batery levels;
 - Charge the AQUA bateries;
-- Charge the portable computer (the automatic shut down shoud be "never";
+- Charge the portable computer bateries (the automatic shut down should be "never");
 
 # DURING OPERATIONS
 
