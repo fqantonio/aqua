@@ -537,7 +537,7 @@ So, our major task now is to prepare everything in order for ESTM has the best e
 
 For now this are the tasks until **March 2026**: prepare, prepare and prepare, and test, test and test!
 
-- [x] Use the radio receptor with 10 CH
+- [ ] Buy the radio receptor with 10 CH
 - [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [x] Presentations and faires
 - [x] Publish the testing walls and layer height results and conclusions;
@@ -548,37 +548,49 @@ For now this are the tasks until **March 2026**: prepare, prepare and prepare, a
 - [x] Nicla Vision WIFI: print and assemble
 - [x] Contact enteties for a broad protocol
 - [x] Review material waste weight: Publish the garbage update;
+- [x] driving mode decision;
+- [x] Get test sites maps with MP fetching;
+- [x] Write the procedures manual to handle the boat carefully: before, during and after;
+- [x] email entities for logos
+- [x] VRA and VRB Flysky Radio ready to use
 
 In this month, we prepared the covers to be more user friendly. Ready for the third round of tests!
+MANUAL, AUTO, ACRO!? or LOITER!? (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
+VRA and VRB Flysky Radio ready to use by choosing menu OPTIONS in FLYSKY i6X, AUX. Channels, channel 9, source VRA and channel 10, source VRB;
+Use VRC e VRD as 6 position navigation mode: for a nice explanation follow this video: https://www.youtube.com/watch?v=0BVSjSCz8f4&t=141s
+
+## Problems
+
+We choose the normal, auto, loiter, guided, ACRO and SRTL.
+We had problems with the battery safety warnings saying unhealthy batery: solution was within the power module selection and voltage and capacity numbers;
+We also had problems with unhealthy AHRS: we did a acceleration calibration only with the pixwack box and not with the entire AQUA;
+Problems with the compass: alighn N-S and mag recal and reboot.
+At this moment no problems with water inside.
 
 ![](Photos/dezembro2025.jpeg)
 
-- [ ] Normal/simple driving mode issues;
-- [ ] Driving modes: MANUAL, AUTO, ACRO!? or LOITER!? (https://ardupilot.org/rover/docs/loiter-mode.html); other: simple (https://ardupilot.org/rover/docs/simple-mode.html), GUIDED, PosHOLD; RTL; SMART RTL; ACRO; HOLD; STABILIZE: choose! https://ardupilot.org/rover/docs/boat-configuration.html; https://ardupilot.org/rover/docs/rover-control-modes.html
-- [ ] guided? https://ardupilot.org/rover/docs/guided-mode.html
-- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
-- [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
-
-- [ ] log data procedure;
-- [ ] Activity log sheet
-- [ ] Get test sites maps with APM fetching;
-
 ## Jannuary 2026
 
-- [ ] Tests radio, telemetry max distance
+- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
+- [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
+- [ ] log data procedure;
+- [ ] AQUA activity log sheet registering;
+- [ ] Tests radio and telemetry max distance
+- [ ] Test autonomy;
+- [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] Test with a payload of 5 and 10kg.
-- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
-
-- [ ] Put the vynil logos (email entities)
+- [ ] Put the vynil logos
 
 # Future, 2026 tasks
 
+- [ ] Use the radio receptor with 10 CH
 - [ ] Install Nicla Vision
 - [ ] Nicla vision battery
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] revisit minimum tools and tool box
-- [ ] Write the procedures manual to handle the boat carefully: before, during and after;
+- [ ] Revisit Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
@@ -600,6 +612,5 @@ In this month, we prepared the covers to be more user friendly. Ready for the th
 - [ ] Solar charging proceding and materials?!
 - [ ] Packaging
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
-- [ ] faires
 - [ ] Financing
 - [ ] (...)
