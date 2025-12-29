@@ -575,33 +575,33 @@ At this moment no problems with water inside.
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] log data procedure;
 - [ ] AQUA activity log sheet registering;
-- [ ] Tests radio and telemetry max distance
+- [ ] Team needed and roleplays: what roles? List of specifi tasks;
+- [ ] Tests radio and telemetry max distance;
 - [ ] Test autonomy;
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] Test with a payload of 5 and 10kg.
 - [ ] Put the vynil logos
-
-# Future, 2026 tasks
-
-- [ ] Use the radio receptor with 10 CH
-- [ ] Install Nicla Vision
-- [ ] Nicla vision battery
-- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
-
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] revisit minimum tools and tool box
 - [ ] Revisit Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
 - [ ] Review documentation: manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
-- [ ] Review text file business
-
 - [ ] Deliver for training and testing (ESTM IPLeiria);
+- [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?
+- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
+
+# Future tasks
+
+- [ ] Use the radio receptor with 10 CH
+- [ ] Install Nicla Vision
+- [ ] Nicla vision battery
+- [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
+- [ ] Review text file business
 - [ ] Prepare the a new design;
 - [ ] Print with obliquo roller printer;
 - [ ] Paint needed or why print in yellow?
 - [ ] Discuss professional faires;
-- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
 - [ ] removable protections for corners, bow and stern: how!?!?;
 - [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
 - [ ] What sensors?
