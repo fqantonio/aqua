@@ -579,7 +579,8 @@ At this moment no problems with water inside.
 - [ ] Tests radio and telemetry max distance;
 - [ ] Test autonomy;
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
-- [ ] Test with a payload of 5 and 10kg.
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Outside sensors structure;
 - [ ] Put the vynil logos
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] revisit minimum tools and tool box
