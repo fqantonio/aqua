@@ -11,6 +11,11 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 
 # DURING OPERATIONS
 
+## PREPARE the MISSION
+- MANUAL or AUTO mode?
+- If AUTO MODE fix the points in the "Flight plan" screen by clicking with the right button and create the points;
+- Check the way points: are there obstacles?
+
 ## START
 - Connect the telemetry radio to the USB C in the computer;
 - Turn on the computer and open MP;
@@ -21,20 +26,25 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Put the throtle in the middle position;
 - Check if the telemetry radio transmiter has its green led on;
 - Conecting MP to the pixhwack (upper button on the right of the MP screen): wait until the parameters are uploaded;
+- CHECK the CH 5 if the navigation lights turn on;
 
 ## ARM
 - Check safety messages: if everything is ok you should see the message "DISARMED";
 - Check voltage level: above 14 V;
+- Batery above 60%;
+- EKF and Vibe white;
+- GPS: 3D Fix;
 - Check SAT > = 6;
 - Check HDOP <2,5;
-- Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier
+- Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier;
+- Move the boat and see of the compass reacts on the screen;
 - Everything ready to arm the AQUA?
-  - check list:  Security check: no other boats, people or obstacles around AQUA?
-  - No warning signals; leds normal; 
+  - check list:  Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
+  - No warning signals; leds normal;
 - At MP push the ARM/DISARM button: down left window;
 - After arming check if the RGB led on the pixwack is BLUE;
   IMPORTANT: put the throttle in the midle for the motors to now run, because they are lubricated by water
-- Close the starboard yellow by rotating it;
+- Close the starboard yellow by rotating it: main RGB led light BLUE;
 
 ## RUN
 - Untie AQUA
