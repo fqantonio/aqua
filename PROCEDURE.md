@@ -51,24 +51,26 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 ## RUN
 - Untie AQUA
 - Drive AQUA mission
-- ATTENTION to voltage levells and safety screen warnings, namely (??!?!?)
+- ATTENTION to voltage levells and safety screen warnings, namely FAILSAFE, battery levels and tlemetry and RC conection
+- Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
+- If you  using AUTO mode: change to AUTO by using RC buttons (left);
 
 ## STOP
 
 - Take AQUA to safety shore
-- Tie it;
-- DISARM at MP;
+- Tie AQUA;
+- DISARM at MP WINDOW;
 
 ## RESTART
 
-- untie;
+- untie AQUA;
 - ARM at MP;
 - Drive AQUA;
 
 ## END
 
 - Bring AQUA to shore
-- Disarm at MP;
+- Disarm at MP window;
 - open the yellow starboard float cover
 - Turn off motor switch (from solid red led to blink)
 - Turn of power;
