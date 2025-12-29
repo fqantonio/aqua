@@ -537,7 +537,7 @@ So, our major task now is to prepare everything in order for ESTM has the best e
 
 For now this are the tasks until **March 2026**: prepare, prepare and prepare, and test, test and test!
 
-- [ ] Buy the radio receptor with 10 CH
+- [x] Buy the radio receptor with 10 CH
 - [x] MP parameters: see discussion on ArduPilot Discourse about AHRS warning;
 - [x] Presentations and faires
 - [x] Publish the testing walls and layer height results and conclusions;
