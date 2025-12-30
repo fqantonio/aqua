@@ -571,7 +571,7 @@ At this moment no problems with water inside.
 
 ## Jannuary 2026
 
-- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/);
+- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] log data procedure;
 - [ ] AQUA activity log sheet registering;
@@ -594,6 +594,7 @@ At this moment no problems with water inside.
 
 # Future tasks
 
+- [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 - [ ] Use the radio receptor with 10 CH
 - [ ] Install Nicla Vision
 - [ ] Nicla vision battery and magnetic switch
