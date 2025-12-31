@@ -562,15 +562,19 @@ Use VRC e VRD as 6 position navigation mode: for a nice explanation follow this 
 ## Problems
 
 We choose the normal, auto, loiter, guided, ACRO and SRTL.
-We had problems with the battery safety warnings saying unhealthy batery: solution was within the power module selection and voltage and capacity numbers;
+We had problems with the battery safety warnings saying "unhealthy batery": solution was within the power module selection for voltage and battery capacity;
 We also had problems with unhealthy AHRS: we did a acceleration calibration only with the pixwack box and not with the entire AQUA;
 Problems with the compass: alighn N-S and mag recal and reboot.
 At this moment no problems with water inside.
+Problems with the telemetry antenas. It fall down around 15 meters... the issue a missing pin...
+
+![](Photos/pinoProblemaTelemetria.jpeg)
 
 ![](Photos/dezembro2025.jpeg)
 
 ## Jannuary 2026
 
+- [ ] Calibrating the voltage and current measure in MP software parameters;
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] log data procedure;
