@@ -599,7 +599,7 @@ https://youtube.com/shorts/ug1nrqGwPGw
 
 Logos of the partners:
 
-![](Photos/LogosAqua.jepg)
+![](Photos/LogosAqua.jpeg)
 
 ![](Photos/dimensoesLogos.jpeg)
 
