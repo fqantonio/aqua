@@ -570,6 +570,8 @@ Problems with the telemetry antenas. It fall down around 15 meters... the issue 
 
 ![](Photos/pinoProblemaTelemetria.jpeg)
 
+This raised the issue of the **radio frequency** rules in Portugal: we can use the 433 MHz but with a maximum power of 1 W: https://www.anacom.pt/streaming/anexo2.pdf?contentId=797080&field=ATTACHED_FILE
+
 The logistics is an issue to tackle in february, because getting wet when putting the vessel in the water is a problem and transporting it, another one.
 
 ![](Photos/botins.jpeg)
