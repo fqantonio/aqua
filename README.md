@@ -111,6 +111,7 @@ https://youtube.com/shorts/ug1nrqGwPGw
  - Sebastião Bizarro, Maker
  - Renan Portocarrero, MAKER, 3D printing
  - Alexandre Nunes, Intership, 3D printing and testing
+ - FAB LAB HN, CNC milling
 
 # CONTACT
 
