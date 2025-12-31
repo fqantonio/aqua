@@ -603,8 +603,6 @@ Logos of the partners:
 
 ![](Photos/dimensoesLogos.jpeg)
 
-![](Photos/dimensoesLogos.jpeg)
-
 ![](Photos/dimensoesLogos_2.jpeg)
 
 ![](Photos/dimensaoTampa.jpeg)
