@@ -594,10 +594,14 @@ This are photos about this AQUA USV stage:
 
 ![](Photos/dezembro2025_3.jpeg)
 
-Video
+Video:
 https://youtube.com/shorts/ug1nrqGwPGw
 
 Logos of the partners:
+
+![](Photos/LogosAqua.jepg)
+
+![](Photos/dimensoesLogos.jpeg)
 
 ![](Photos/dimensoesLogos.jpeg)
 
