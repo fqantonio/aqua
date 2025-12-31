@@ -575,6 +575,7 @@ Problems with the telemetry antenas. It fall down around 15 meters... the issue 
 ## Jannuary 2026
 
 - [ ] Calibrating the voltage and current measure in MP software parameters;
+- [ ] buy a USBC longer cable;
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] log data procedure;
