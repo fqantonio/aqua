@@ -19,6 +19,8 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Available team (ideal four people): radio control, logistics, put and remove the AQUA from water and control of obstacles in the operating environment, computer warnings and data check, and auto mode or guided GPS way points operation;
 
 ## START
+
+- Start the report;
 - Connect the telemetry radio to the USB C in the computer;
 - Turn on the computer and open MP;
 - open the yellow cover on the starboard float by rotating it;
@@ -79,6 +81,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Turn off radio control transmitter;
 - Disconnect mission planner
 - logs!?!?!?!
+- continue to fill in the report
 
 # AFTER OPERATIONS
 
@@ -88,5 +91,6 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - put everything in the trolley
 - Use the wooden platform to help you get AQUA into the vehicle (if needed);
 - Charge AQUA.
+- Conclude the report.
 
 
