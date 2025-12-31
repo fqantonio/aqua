@@ -89,7 +89,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-It was tested during December 2025. At this moment its in a stable operational radio control. Because of a telemetry antena issue the AUTO mode with GPS way points was postponed to Jannuary 2026. Now its in good track!
+It was tested during December 2025. At this moment its in a stable operational radio control. Because of a telemetry antena issue the AUTO mode with GPS way points was postponed to Jannuary 2026. Inspite of that, its in good track to be delivered in March to ESTM!
 
 ![](Photos/aquaDezembro2025.jpeg)
 
@@ -97,6 +97,8 @@ https://youtube.com/shorts/ug1nrqGwPGw
 
 
 # SUPPORT
+
+![](Photos/LogosAqua.jpeg)
 
  - Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
  - António Marçal, advising and workshop space, Marçal Metalworking
