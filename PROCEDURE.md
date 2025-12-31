@@ -17,10 +17,12 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - If AUTO MODE fix the points in the "Flight plan" screen by clicking with the right button and create the points;
 - Check the way points: are there obstacles?
 - Available team (ideal four people): radio control, logistics, put and remove the AQUA from water and control of obstacles in the operating environment, computer warnings and data check, and auto mode or guided GPS way points operation;
+- Weather forecast: beaufort scale: https://en.wikipedia.org/wiki/Beaufort_scale.
 
 ## START
 
 - Start the report;
+- Breefing the team and assign roles;
 - Connect the telemetry radio to the USB C in the computer;
 - Turn on the computer and open MP;
 - open the yellow cover on the starboard float by rotating it;
