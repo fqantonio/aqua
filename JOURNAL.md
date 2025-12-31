@@ -16,13 +16,13 @@ The energy system should use Samsung 18650 cells in a two bateries 4S4P setting 
 
 For the spare parts it should have cheap components easily available on the market.
 
-It all started here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
+All started here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
 
 # 2023
 
 ## July ##
 
-CAD design
+Restart after the pandemic. New CAD design. Finding partners.
 
 ## September ##
 Printed parts at MAUSER 3D printing services:[MAUSER](https://mauser.pt/catalog/)
