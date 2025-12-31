@@ -3,11 +3,12 @@
 - Fetching the maps with Mission Planner (MP) in a computer with internet access beforehand;
 NOTE: fetching means, "going" with the MP to the location, click with mouse right button and choose maps, them fetching; after, using alt to choose the area and click the fetching;
 - Check the site permissions to test/use the AQUA;
-- Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; charger; AA batery charger; multimeter charger monitor; telemetry radio; Radio Control transmitter);
-- Dinghy boat (if possible);
-- Check the Radio Control (RC) batery levels;
-- Charge the AQUA bateries;
+- Materials check list: computer; trolley; wooden platform to load the AQUA in the vehicle; box (roap; fenders; basic tools; USB cables; aqua battery charger; AA batery charger; AA batteries charged; multimeter charger monitor; telemetry radio; Radio Control transmitter);
+- Check the Radio Control (RC) battery levels;
+- Charge the AQUA batteries;
 - Charge the portable computer bateries (the automatic shut down should be "never");
+- Dinghy boat (if possible);
+- binoculars (if possible);
 
 # DURING OPERATIONS
 
@@ -15,6 +16,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - MANUAL or AUTO mode?
 - If AUTO MODE fix the points in the "Flight plan" screen by clicking with the right button and create the points;
 - Check the way points: are there obstacles?
+- Available team (ideal four people): radio control, logistics, put and remove the AQUA from water and control of obstacles in the operating environment, computer warnings and data check, and auto mode or guided GPS way points operation;
 
 ## START
 - Connect the telemetry radio to the USB C in the computer;
@@ -51,7 +53,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 ## RUN
 - Untie AQUA
 - Drive AQUA mission
-- ATTENTION to voltage levells and safety screen warnings, namely FAILSAFE, battery levels and tlemetry and RC conection
+- ATTENTION to voltage levells and safety screen warnings, namely FAILSAFE, battery levels and telemetry and RC conection
 - Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
 - If you  using AUTO mode: change to AUTO by using RC buttons (left);
 
@@ -74,11 +76,17 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - open the yellow starboard float cover
 - Turn off motor switch (from solid red led to blink)
 - Turn of power;
-- Clean as much as possible with fresh water: be carefull with the entrances of water above the covers
+- Turn off radio control transmitter;
+- Disconnect mission planner
+- logs!?!?!?!
 
 # AFTER OPERATIONS
 
-- Unscrew the bujons
+- Clean as much as possible with fresh water: be carefull with the entrances of water above the covers
+- Unscrew the bujons: check for water inside by lifting aqua up to almost the horizontal (60º at least);
 - collect tools and utensils in the bag and box
 - put everything in the trolley
-- Use the wooden platform to help you get AQUA into the vehicle
+- Use the wooden platform to help you get AQUA into the vehicle (if needed);
+- Charge AQUA.
+
+
