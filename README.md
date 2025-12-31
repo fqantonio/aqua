@@ -98,7 +98,7 @@ https://youtube.com/shorts/ug1nrqGwPGw
 
 # SUPPORT
 
-![](Photos/LogosAqua.jpeg)
+![](Photos/LogosAqua.png)
 
  - Associação Lab Aberto FAB LAB, [non-profit association](https://lababerto.pt)
  - António Marçal, advising and workshop space, Marçal Metalworking
