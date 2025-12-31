@@ -4,7 +4,7 @@
 
 ### Idea
 
-Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload with 2-hour operating endurance and be constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability.
+Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload with 2-hour operating endurance and 3D printed, constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability.
 
 This vessel could be used as a platform for maritime engineering training and aquatic bioecochemistry or water quality assessment. 
 
@@ -570,7 +570,44 @@ Problems with the telemetry antenas. It fall down around 15 meters... the issue 
 
 ![](Photos/pinoProblemaTelemetria.jpeg)
 
+The logistics is an issue to tackle in february, because getting wet when putting the vessel in the water is a problem and transporting it, another one.
+
+![](Photos/botins.jpeg)
+
+![](Photos/rampa.jpeg)
+
+Defining the minimum number of parts to control AQUA when in operation, including tools that could be available or not to the regular user.
+
+![](Photos/utensiliosMinimos.jpeg)
+
+This are photos about this AQUA USV stage:
+
+![](Photos/Ervideira1.jpeg)
+
+![](Photos/Ervideira2.jpeg)
+
 ![](Photos/dezembro2025.jpeg)
+
+![](Photos/dezembro2025_2.jpeg)
+
+![](Photos/dezembro2025_3.jpeg)
+
+Video
+https://youtube.com/shorts/ug1nrqGwPGw
+
+Logos of the partners:
+
+![](Photos/dimensoesLogos.jpeg)
+
+![](Photos/dimensoesLogos_2.jpeg)
+
+![](Photos/dimensaoTampa.jpeg)
+
+![](Photos/tampaEstibordo.jpeg)
+
+![](Photos/tampaBombordo.jpeg)
+
+
 
 ## Jannuary 2026
 
