@@ -60,6 +60,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - ATTENTION to voltage levells and safety screen warnings, namely FAILSAFE, battery levels and telemetry and RC conection
 - Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
 - If you  using AUTO mode: change to AUTO by using RC buttons (left);
+- loiter!?!?!
 
 ## STOP
 
