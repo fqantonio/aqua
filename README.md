@@ -89,9 +89,9 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-Ready fro third round of tests!
+It was tested during December 2025. At this moment its in a stable operational radio control. Because of a telemetry antena issue the AUTO mode with GPS way points was postponed to Jannuary 2026. Now its in good track!
 
-![](Photos/dezembro2025.jpeg)
+![](Photos/aquaDezembro2025.jpeg)
 
 
 # SUPPORT
@@ -107,3 +107,7 @@ Ready fro third round of tests!
  - Sebastião Bizarro, Maker
  - Renan Portocarrero, MAKER, 3D printing
  - Alexandre Nunes, Intership, 3D printing and testing
+
+# CONTACT
+
+aquausv@gmail.com
