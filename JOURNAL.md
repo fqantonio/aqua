@@ -607,7 +607,7 @@ Logos of the partners:
 
 ![](Photos/tampaBombordo.jpeg)
 
-
+AQUA run arount 1h:15min and use 80% of the batery and it showed the safety batery sound warning. this is because there a diuference of 1 V between what the power module is measuring and what the voltmeter register. Calibration needed.
 
 ## Jannuary 2026
 
