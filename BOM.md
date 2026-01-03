@@ -5,7 +5,7 @@ This is a list of materials and working time, used in this project. However, its
 | Area  | AMOUNT | cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- |
 | Working time  | 455 h | 9100 |  | 
-| Materials and consumables  | | 3085,75 |
+| Materials and consumables  | | 3085,75 ||
 | Tools |  | 420 ||
 | Hardware |  | 1380,67 ||
 
