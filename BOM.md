@@ -2,20 +2,19 @@ This is a list of materials and working time, used in this project. However, its
 
 # BOM resume
 
-Working time 3560
-
-Consumables and materials 3085,75
-
-Tools 420
-
-Hardware 1380,67
+| Area  | AMOUNT | cost (euros)| Remarks |
+| ------------- | ------------- | ------------- | ------------- |
+| Working time  | 455 h | 9100 |  | 
+| Materials and consumables  | | 3085,75 |
+| Tools |  | 420 ||
+| Hardware |  | 1380,67 ||
 
 # Working time
 
 | Title  | desciption | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing | 
-| Working time  | 2019 - 2023 | 220 hours  | 4400 | Non-functional prototype |
+| Working time  | 2019 - 2023 | 120 hours  | 2400 | Non-functional prototype |
 | Working time  | January 2024 | 20 hours  | 400| Preparing the Hulls | 
 | Working time  | February 2024 | 16 hours  | 320| Glueing and sanding |
 | Working time  | March 2024 | 24 hours  | 480 |Sanding and Painting |
