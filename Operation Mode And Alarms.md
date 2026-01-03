@@ -1,7 +1,11 @@
-update about this...
-- Operation mode: NORMAL or SIMPLE or AUTO? (WICH BUTTONS!?!?!?)
+(under construction)
+
+# Operation mode
+NORMAL, AUTO, LOITER, GUIDED, SRTL, ACRO;
+Right buttons: VRC, VRD (look into MP)
 https://ardupilot.org/rover/docs/boat-configuration.html
-- Types of ArduBoat driving modes
+
+Types of ArduBoat driving modes
 
     Autonomous Modes:
         Auto: Follows a pre-programmed mission, often from a ground station.
