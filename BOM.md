@@ -1,6 +1,7 @@
 This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8446,42 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
 
 # BOM resume
+
 Working time 3560
 
 Consumables and materials 3085,75
@@ -10,18 +11,21 @@ Tools 420
 Hardware 1380,67
 
 # Working time
+
 | Title  | desciption | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing | 
-| Working time  | 2019 - 2023 | 220 hours  | 440 | Non-functional prototype |
+| Working time  | 2019 - 2023 | 220 hours  | 4400 | Non-functional prototype |
 | Working time  | January 2024 | 20 hours  | 400| Preparing the Hulls | 
 | Working time  | February 2024 | 16 hours  | 320| Glueing and sanding |
 | Working time  | March 2024 | 24 hours  | 480 |Sanding and Painting |
 | Working time  | April 2024 | 24 hours  | 480 |Painting| 
 | Working time  | May and June 2024 | 48 hours  | 960 |Hardware mounting and catamaran testing |
 | Working time  | October and November 2024 | 35 hours  | 700 |Hardware mounting and catamaran testing | 
+| Working time  | Jannuary throught December 2025 | 120 hours  | 2400 |Hardware mounting and catamaran testing | 
 
 # Consumables and materials
+
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 3D printing  | February 2024 | 15 days  | 2500 | Printing the Hulls sponsored by MAUSER.pt | 
@@ -37,6 +41,7 @@ Hardware 1380,67
 
 
 # Tools
+
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mask | 3M™ Particulate Respirator, FFP2, Valved, 8822 | 6 | 25 |  |
@@ -50,6 +55,7 @@ Hardware 1380,67
 | Soldering support | | 1 | 18 ||
 
 # "Hardware"
+
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | PIXWACK 2 | OFFICIAL | 1 | 230 |  |
@@ -66,6 +72,7 @@ Hardware 1380,67
 | Radio Transmission | ??? | 1 | 53 |  |
 
 # Spare parts
+
 | Title  | description | #  |cost (euros)| Remarks |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Pixwack 4 flight controller |  | 1 | 113 |  |
