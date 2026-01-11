@@ -623,7 +623,9 @@ Consumes 5% of energy in 40 minutes at a speed around 1 m/s (4 km/h) speed. So, 
 radio working fine. GPS came late. During one hour didn't connect. In the end of the test it fix with 5/6 satelites. In the second day the same. Never fix and it doesn't show any satelite. In the afternoon I unplug and plug again the GPS and it starts wotking wit 6 satelites fixed. Is it the connector? Will we need a second GPS? With this problem we cannot rub by waypoints. Between measured tension there is a 1 V diference. Need to check again.
 Small entrance of water on port hull: bujons need to be better fixed.
 
-video and photos here!?!?!?
+![](Photos/aguaBombordoJan2026.jpeg)
+
+video aqui !?!?
 
 I made this float based on the previous one to see what weight we could achieve. It was reduced to 5 kg, 5 days of printing in four parts, without infill with 6 walls, printed on QIDI, at 200 m/s. This means we can have an AQUA weighing 13 kg instead of the current 21 kg...
 
