@@ -652,7 +652,7 @@ STL here...
 - [ ] revisit minimum tools and tool box
 - [ ] Revisit Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
-- [ ] Review documentation: manual, procedures, safety and maintenance
+- [ ] Review documentation: STL files, manual, procedures, safety and maintenance
 - [ ] Prepare MARCH 2026 training
 - [ ] Deliver for training and testing (ESTM IPLeiria);
 - [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
