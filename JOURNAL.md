@@ -629,8 +629,7 @@ Video: https://youtu.be/fWGKFttk83Q
 
 I made this float based on the previous one to see what weight we could achieve. It was reduced to 5 kg, 5 days of printing in four parts, without infill with 6 walls, printed on QIDI, at 200 m/s. This means we can have an AQUA weighing 13 kg instead of the current 21 kg... we estimate that the payload at this moment is a little over 5 Kg, but if we can save 8 kg in the hulls we can gain a payload about 10 Kg.
 
-STL:
-3D/estibordo_V9.stl
+[STL file](https://github.com/fqantonio/aqua/blob/main/3D/estibordo_V9.stl)
 
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
