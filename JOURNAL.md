@@ -625,7 +625,7 @@ Small entrance of water on port hull: bujons need to be better fixed.
 
 ![](Photos/aguaBombordoJan2026.jpeg)
 
-video aqui !?!?
+Video: https://youtu.be/fWGKFttk83Q
 
 I made this float based on the previous one to see what weight we could achieve. It was reduced to 5 kg, 5 days of printing in four parts, without infill with 6 walls, printed on QIDI, at 200 m/s. This means we can have an AQUA weighing 13 kg instead of the current 21 kg... we estimate that the payload at this moment is a little over 5 Kg, but if we can save 8 kg in the hulls we can gain a payload about 10 Kg.
 
