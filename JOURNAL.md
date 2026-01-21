@@ -620,7 +620,7 @@ AQUA run arount 1h:15min and use 80% of the batery and it showed the safety bate
 - [x] Test autonomy;
 
 Consumes 5% of energy in 40 minutes at a speed around 1 m/s (4 km/h) speed. So, up to 80% will have an autonomy of 160 minutes... 2.5 hours. Up to 60%, the limit, 5 hours.
-radio working fine. GPS came late. During one hour didn't connect. In the end of the test it fix with 5/6 satelites. In the second day the same. Never fix and it doesn't show any satelite. In the afternoon I unplug and plug again the GPS and it starts wotking wit 6 satelites fixed. Is it the connector? Will we need a second GPS? With this problem we cannot rub by waypoints. Between measured tension there is a 1 V diference. Need to check again.
+Radio working fine. GPS came late. During one hour didn't connect. In the end of the test it fix with 5/6 satelites. In the second day the same. Never fix and it doesn't show any satelite. In the afternoon I unplug and plug again the GPS and it starts wotking wit 6 satelites fixed. Is it the connector? Will we need a second GPS? With this problem we cannot rub by waypoints. Between measured tension there is a 1 V diference. Need to check again.
 Small entrance of water on port hull: bujons need to be better fixed.
 
 ![](Photos/aguaBombordoJan2026.jpeg)
@@ -631,16 +631,34 @@ I made this float based on the previous one to see what weight we could achieve.
 
 [STL file](https://github.com/fqantonio/aqua/blob/main/3D/estibordo_V9.stl)
 
+We are going in two problems, Nicla Vision Assembling and GPS powering. About Nicla Vision the issue is how to power up and fix: this pictures shows the status solution:
+
+![](Photos/NiclaVision_1.jpeg)
+
+The other issue its about GPS mentioned above. For now we have this four ways to know if the GPS is working:
+
+1. Check the HUD (Heads-Up Display) on the Flight Data screen: "No GPS" Message: the Pixhawk cannot find the module. "No Fix" Message: If it says "No Fix," it hasn't found enough satellites yet.
+
+2. View Live Satellite Data
+Under the map on the Flight Data screen, look for the "gpshdop" and "sats" values: "sats" shows 0 but the status is not "No GPS," the module is powered and working, just waiting for a signal. Completely blank or "0" while the HUD says "No GPS," the module likely has no power. 
+
+3. Use the Messages Tab 
+At the bottom of the Flight Data screen, click the Messages tab: Look for a message saying "GPS 1: detected as u-blox at [baud rate]" shortly after you connect or reboot the Pixhawk. If you see "GPS 1: fail to initialize" or no GPS message at all, it indicates a power or wiring issue. 
+
+4. Hardware Verification (MAVSerial Pass-through)
+In Mission Planner, press Ctrl+F and select "MAVSerial Pass". If u-center can see the module, it is powered and functional. 
+
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] log data procedure;
-- [ ] AQUA activity log sheet registering;
-- [ ] Test with a payload of 5 and 10kg;
-- [ ] Put the vynil logos
 - [ ] pictures here and videos...
 - [ ] STL here
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Put the vynil logos
 
 # February
+- [ ] Autonomy with 10 Kg load
+- [ ] AQUA activity log sheet registering;
 - [ ] Team needed and roleplays: what roles? List of specifi tasks;
 - [ ] Tests radio and telemetry max distance;
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
@@ -653,7 +671,7 @@ I made this float based on the previous one to see what weight we could achieve.
 - [ ] Revisit Write the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review BOM costs;
 - [ ] Review documentation: STL files, manual, procedures, safety and maintenance
-- [ ] Prepare MARCH 2026 training
+- [ ] Prepare APRIL 2026 training
 - [ ] Deliver for training and testing (ESTM IPLeiria);
 - [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
 - [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
@@ -661,7 +679,6 @@ I made this float based on the previous one to see what weight we could achieve.
 # Future tasks
 
 - [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
-- [ ] Autonomy with 10 Kg load
 - [ ] Use the radio receptor with 10 CH
 - [ ] Install Nicla Vision
 - [ ] Nicla vision battery and magnetic switch
