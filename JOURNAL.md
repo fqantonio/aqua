@@ -635,7 +635,7 @@ We are going in two problems, Nicla Vision Assembling and GPS powering. About Ni
 
 ![](Photos/NiclaVision_1.jpeg)
 
-The other issue its about GPS mentioned above. For now we have this four ways to know if the GPS is working:
+The other issue its about GPS mentioned above. For now we have this four ways to know if the GPS is working and we have confirmed that is working:
 
 1. Check the HUD (Heads-Up Display) on the Flight Data screen: "No GPS" Message: the Pixhawk cannot find the module. "No Fix" Message: If it says "No Fix," it hasn't found enough satellites yet.
 
@@ -647,6 +647,8 @@ At the bottom of the Flight Data screen, click the Messages tab: Look for a mess
 
 4. Hardware Verification (MAVSerial Pass-through)
 In Mission Planner, press Ctrl+F and select "MAVSerial Pass". If u-center can see the module, it is powered and functional. 
+
+The next issue is: what is delaying the GPS so long?
 
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
