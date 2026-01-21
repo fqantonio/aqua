@@ -111,3 +111,6 @@ Volume 21, December 2020, 100778](https://www.sciencedirect.com/science/article/
 
 # LORA
 - [You’ve Never Seen WiFi Like This, Data Slayer](https://www.youtube.com/watch?v=9azEfCQNhSA)
+
+# Nicla Vision
+- Nicla Vision Tutorial, https://github.com/sixhat/Nicla-Vision-Tutorial-4h/tree/main 
