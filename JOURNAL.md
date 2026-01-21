@@ -648,7 +648,8 @@ At the bottom of the Flight Data screen, click the Messages tab: Look for a mess
 4. Hardware Verification (MAVSerial Pass-through)
 In Mission Planner, press Ctrl+F and select "MAVSerial Pass". If u-center can see the module, it is powered and functional. 
 
-The next issue is: what is delaying the GPS so long?
+The next issue is: what is delaying the GPS so long? Gemini AI say this: M8N Pixhawk GPS modules take hours to fix satellites
+due to a lack of a valid almanac/ ephemeris (satellite data), often from being powered off too long, significant travel (>100 miles), or poor signal/interference, leading to a slow cold start, with potential issues being battery drain on the Real-Time Clock (RTC) or internal interference from nearby drone electronics (like VTXes or cameras) hindering satellite reception. A good M8N should get a fix in minutes, but hours indicates a serious problem like a faulty antenna, damaged LNA/filter, or massive RF interference. We will stick to RF interference for now and see what happen, because we have the radio antena to close to the GPS. Lets see.
 
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
