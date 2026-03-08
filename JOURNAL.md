@@ -658,37 +658,47 @@ Nicla Vision is ready! Video: https://youtube.com/shorts/aYXpTuRiET0?feature=sha
 - [x] STL here
 - [x] Nicla Vision ready
 
-- [ ] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
+# March
+Finnaly we have good weather in our region but the environment were pretty damage with Katrin storm. So the project is delayed by at least 1,5 month, we have to reschedule it. New design hulls is under discussion and it will be printed by Rui (FAB LAB Guarda).
+
+The first meeting with the school will happen on March 11, and we will coordinate with the teachers the three sessions for the students.
+
+GPS seems not to be a problem since we get it outside of the hull. We had a problem with actions window: with the portuguese language doesn't show all the buttons action, namely, arm and disarm.
+
+Nicla vision is under testing. it seems that is innapropriate for the job.
+
+- [X] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
-- [ ] Test with a payload of 5 and 10kg;
 - [ ] Put the vynil logos
-
-# February
 - [ ] log data procedure;
-- [ ] Autonomy with 10 Kg load
 - [ ] AQUA activity log sheet registering;
-- [ ] Team needed and roleplays: what roles? List of specifi tasks;
+- [ ] Team needed and roleplays: what roles? List of specific tasks;
 - [ ] Tests radio and telemetry max distance;
-- [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] Outside sensors structure;
-- [ ] Prepare second ESTM meeting: send plan
+
+- [x] Prepare second ESTM meeting: send plan and set specific goals;
+- [ ] Prepare APRIL 2026 training
 - [ ] include calcs for the 4S4P batery in this journal;
 - [ ] Nicla Vision batery capacity
 
-# March
+# April
 - [ ] revisit minimum tools and tool box
-- [ ] Revisit Write the procedures manual to handle the boat carefully: before, during and after;
-- [ ] Review BOM costs;
-- [ ] Review documentation: STL files, manual, procedures, safety and maintenance
-- [ ] Prepare APRIL 2026 training
+- [ ] Revisit the procedures manual to handle the boat carefully: before, during and after;
+- [ ] Review documentation: STL files, manual, procedures, safety and maintenance;
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Autonomy with 10 Kg load;
+- [ ] Set specific goals for the student training;
 - [ ] Deliver for training and testing (ESTM IPLeiria);
 - [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
-- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
+
 
 # Future tasks
 
+- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
+- [ ] Review BOM costs;
 - [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
+- [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] Use the radio receptor with 10 CH
 - [ ] Install Nicla Vision
 - [ ] Nicla vision battery and magnetic switch
