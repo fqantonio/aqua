@@ -7,21 +7,25 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Check the Radio Control (RC) battery levels;
 - Charge the AQUA batteries;
 - Charge the portable computer bateries (the automatic shut down should be "never");
-- Dinghy boat (if possible);
-- binoculars (if possible);
+- Reme,ber: because they are lubricated only by water!
+- binoculars.
+- Dinghy boat (if possible).
 
 # DURING OPERATIONS
 
 ## PREPARE the MISSION
 - MANUAL or AUTO mode?
-- If AUTO MODE fix the points in the "Flight plan" screen by clicking with the right button and create the points;
-- Check the way points: are there obstacles?
+### Manual
+- If AUTO MODE, fix the points in the "Flight plan" screen by clicking with the right button and create the points;
+- Check the way points: are there obstacles between them?
 - Available team (ideal four people): radio control, logistics, put and remove the AQUA from water and control of obstacles in the operating environment, computer warnings and data check, and auto mode or guided GPS way points operation;
 - Weather forecast: beaufort scale: https://en.wikipedia.org/wiki/Beaufort_scale.
 
+### auto
+????
+
 ## START
 
-- Start the report;
 - Breefing the team and assign roles;
 - Connect the telemetry radio to the USB C in the computer;
 - Turn on the computer and open MP;
@@ -37,7 +41,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 ## ARM
 - Check safety messages: if everything is ok you should see the message "DISARMED";
 - Check voltage level: above 14 V;
-- Batery above 80%;
+- Battery above 80%;
 - EKF and Vibe white;
 - GPS: 3D Fix;
 - Check SAT > = 6;
@@ -45,7 +49,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 - Put the boat in the water: if needed use a roap for safety: tie up the boat at the pier;
 - Move the boat and see if the compass reacts on the screen;
 - aligh AQUA North south, with the bow to north and the stern to south: degree near 0?
-  IMPORTANT: if not make a lage vehicle magcal and reboot; 
+  IMPORTANT: if not, make a lage vehicle magcal and reboot;???
 - Everything ready to arm the AQUA?
   - check list:  Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
   - No warning signals; leds normal;
@@ -57,7 +61,7 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 ## RUN
 - Untie AQUA
 - Drive AQUA mission
-- ATTENTION to voltage levells and safety screen warnings, namely FAILSAFE, battery levels and telemetry and RC conection
+- ATTENTION to battery and radio voltage levells and safety screen warnings, namely FAILSAFE, battery levels and telemetry and RC conection
 - Security check: no other boats, people or obstacles around AQUA ot in the MP waypoints?
 - If you  using AUTO mode: change to AUTO by using RC buttons (left);
 - loiter!?!?!
@@ -88,12 +92,13 @@ NOTE: fetching means, "going" with the MP to the location, click with mouse righ
 
 # AFTER OPERATIONS
 
-- Clean as much as possible with fresh water: be carefull with the entrances of water above the covers
-- Unscrew the bujons: check for water inside by lifting aqua up to almost the horizontal (60º at least);
-- collect tools and utensils in the bag and box
-- put everything in the trolley
+- Clean as much as possible with fresh water: be carefull with the entrances of water above the covers;
+- Unscrew the bujons: check for water inside by lifting aqua up to almost the horizontal (60º at least, until 90º);
+- collect tools and utensils in the bag and box;
+- put everything in the trolley;
 - Use the wooden platform to help you get AQUA into the vehicle (if needed);
-- Charge AQUA.
+- Charge AQUA;
+- Charge AA radio batteries;
 - Conclude the report.
 
 
