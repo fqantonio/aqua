@@ -665,6 +665,8 @@ The first meeting with the school will happen on March 11, and we will coordinat
 
 GPS seems not to be a problem since we get it outside of the hull. We had a problem with actions window: with the portuguese language doesn't show all the buttons action, namely, arm and disarm.
 
+![](Photos/GPSoutside.jpeg)
+
 Nicla vision is under testing. it seems that is innapropriate for the job.
 
 - [X] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
