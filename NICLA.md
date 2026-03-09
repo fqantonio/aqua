@@ -17,12 +17,56 @@
 1. Como transmitir vídeo e dados de sensores de forma eficiente para terra
 2. Como gravar vídeo e dados para análise posterior
 3. Qual o tempo de "streaming" que a bateria aguenta
-4. 
+4. CAN the Nicla Vision charge the battery while on USB? 
 
 Location of Nicla Board libraries 
 ~/Library/Arduino15/packages/arduino/hardware/mbed_nicla
 
 # LOG Testes
+
+2026-03-09
+¯¯¯¯¯¯¯¯¯¯
+
+Point 4. - Dead Battery today when starting working with Nicla. Measured Voltage
+at 0.04V. This is odd.
+
+## Transmit Video and Record Video
+
+**idea**: Setup Nicla with as an Access Point and stream MJPEG. On recording
+computer access Niclas Vision Network and record using 
+
+### Connect to AP Wifi
+
+Connect to SSID OPENMV_AP with pass 1234567890 or change them in file `aqua_mjpeg_streamer_ap_1.py`
+
+### Play with VLC
+
+File -> Open Network -> http://192.168.4.1:8080/
+
+### Record with VLC
+
+In 
+
+File -> Open Network -> http://192.168.4.1:8080/
+
+activate the option "Stream Output" and use "Settings..." to define output
+format/compression.
+
+For monitoring while recording it is best not to activate transcoding. 
+
+### Record with ffmpeg
+
+no compression (bigger files)
+```
+ffmpeg -i http://192.168.4.1:8080/ -c copy output.mp4
+```
+
+h264 compression (smaller files)
+```
+ffmpeg -i http://192.168.4.1:8080/ -c libx264 output.mp4
+```
+
+
 
 
 2026-02-19
