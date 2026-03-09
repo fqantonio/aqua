@@ -345,3 +345,10 @@ UART_RX
 UART_TX
 USB_DM
 USB_DP
+
+## References
+
+<https://docs.arduino.cc/resources/pinouts/ABX00051-full-pinout.pdf>
+<https://www.analog.com/media/en/technical-documentation/user-guides/max1726x-modelgauge-m5-ez-user-guide.pdf>
+<https://www.analog.com/media/en/technical-documentation/user-guides/max1726x-modelgauge-m5-ez-user-guide.pdf>
+<https://www.analog.com/media/en/technical-documentation/user-guides/modelgauge-m5-host-side-software-implementation-guide.pdf>
