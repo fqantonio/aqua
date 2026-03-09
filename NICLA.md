@@ -1,28 +1,29 @@
 # Nicla Vision
 
 ## Sensors/Inputs onboard
+
 - Câmara
 - Time-of-flight long distance ranging sensor
 - Microfone omnidireccional
-- IMU de 6-eixos (*inertial measurment unit*) (3 eixos acelerómetro + 3
-  eixos giroscópio)
+- IMU de 6-eixos (*inertial measurment unit*) (3 eixos acelerómetro + 3 eixos giroscópio)
 
 ## Comunicação
+
 - USB
 - Bluetooth LE
 - Wifi
 
-# Questões a resolver:
+## Questões a resolver
 
 1. Como transmitir vídeo e dados de sensores de forma eficiente para terra
 2. Como gravar vídeo e dados para análise posterior
 3. Qual o tempo de "streaming" que a bateria aguenta
-4. CAN the Nicla Vision charge the battery while on USB? 
+4. CAN the Nicla Vision charge the battery while on USB?
 
-Location of Nicla Board libraries 
+Location of Nicla Board libraries
 ~/Library/Arduino15/packages/arduino/hardware/mbed_nicla
 
-# LOG Testes
+## LOG Testes
 
 2026-03-09
 ¯¯¯¯¯¯¯¯¯¯
@@ -33,7 +34,7 @@ at 0.04V. This is odd.
 ## Transmit Video and Record Video
 
 **idea**: Setup Nicla with as an Access Point and stream MJPEG. On recording
-computer access Niclas Vision Network and record using 
+computer access Niclas Vision Network and record using
 
 ### Connect to AP Wifi
 
@@ -41,47 +42,47 @@ Connect to SSID OPENMV_AP with pass 1234567890 or change them in file `aqua_mjpe
 
 ### Play with VLC
 
-File -> Open Network -> http://192.168.4.1:8080/
+File -> Open Network -> `http://192.168.4.1:8080/`
 
 ### Record with VLC
 
-In 
+In
 
-File -> Open Network -> http://192.168.4.1:8080/
+File -> Open Network -> `http://192.168.4.1:8080/`
 
 activate the option "Stream Output" and use "Settings..." to define output
 format/compression.
 
-For monitoring while recording it is best not to activate transcoding. 
+For monitoring while recording it is best not to activate transcoding.
 
 ### Record with ffmpeg
 
 no compression (bigger files)
-```
+
+```sh
 ffmpeg -i http://192.168.4.1:8080/ -c copy output.mp4
 ```
 
 h264 compression (smaller files)
-```
+
+```sh
 ffmpeg -i http://192.168.4.1:8080/ -c libx264 output.mp4
 ```
 
-
-
-
-2026-02-19
+2026-02-19  
 ¯¯¯¯¯¯¯¯¯¯
-* Apesar de funcionar o streaming em formato MJPEG (movie jpeg) é muito lento.
-  Os melhores resuntados são até o momento:
+
+Apesar de funcionar o streaming em formato MJPEG (movie jpeg) é muito lento.
+Os melhores resuntados são até o momento:
 
 --- Resoluções
+
 HVGA - 480x320 - transmite a aproximadamente 15 fps.
 
 Resoluções mais altas resultam em erros. Talvez uma solução seja gravar os
 vídeos localmente num cartão SD ou num raspberry pi.
 
-
-2026-02-20
+2026-02-20  
 ¯¯¯¯¯¯¯¯¯¯
 A experiência com o openMV mostra que:
 
@@ -95,34 +96,35 @@ O problema parece ser que a Nicla Vision não tem memória interna suficiente pa
 guardar uma imagem maior. Ou seja, apesar do sensor da câmara ser de 2Mp não se
 pode utilizar.
 
-Acesso ao servidor AP 
-Rede: OPENMV\_AP
-Pass: 1234567890
+Acesso ao servidor AP  
+Rede: OPENMV\_AP  
+Pass: 1234567890  
 
 XXX (Mudar mais tarde para algo mais personalizado)
 
-Aceder a http://192.168.4.1:8080/ via Browser ou utilizando o VLC (para gravar
+Aceder a <http://192.168.4.1:8080/> via Browser ou utilizando o VLC (para gravar
 por exemplo, via File-\>Open Network)
 
 ### I2C
 
-Scanning I2C bus 1
-No I2C devices found
-Scanning I2C bus 2
+Scanning I2C bus 1  
+No I2C devices found  
+Scanning I2C bus 2  
+Found devices
+
+- 0x08
+- 0x29
+
+Scanning I2C bus 3  
 Found devices:
- - 0x08
- - 0x29
-Scanning I2C bus 3
-Found devices:
- - 0x3C
+
+- 0x3C
 
 ## SPI
 
 ### Battery
 
 MAX17262REWL+T Fuel Gauge
-
-
 
 ```python
 from machine import Pin
@@ -343,4 +345,3 @@ UART_RX
 UART_TX
 USB_DM
 USB_DP
-
