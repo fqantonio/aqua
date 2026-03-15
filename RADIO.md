@@ -7,4 +7,6 @@ Notice that, if your radio receiver is **already binded** with another transmitt
 
 (put picture here)
 
-# Telemetry (to be continued)
+Using Buttons SWC and SWD, channels 7 and 8, to make a misture of 6 "flights" modes.
+
+link Gemini: https://gemini.google.com/share/baf6e33731b7
