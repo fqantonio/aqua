@@ -688,6 +688,7 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] Test Grid auto mode;
 - [ ] Teste fence;
+- [ ] Gopro camera: wifi, FPV or local recording?
 
 # April
 - [ ] log data procedure;
