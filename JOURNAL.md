@@ -472,7 +472,7 @@ Lights where a nightmare! After trying to understand all the documenting about a
 
 We have lights! White, red and green.
 
-Now AQUA is assembled again, with valves and lights: ready to be tested.
+AQUA is assembled again, with valves and lights: ready to be tested.
 The test when good for about 30 minuts but it starts to be get water inside again. At the same time one of the switchs broke, I don't know if because of heat (high currrent) or another reason. The main switch is bronken. Changed! Everything seems ok now. All the lateral conections between the aluminium bars, the stringers, and the floats where filled with silicone. After drying we will test again.
 
 | Sealing | | |
@@ -670,6 +670,8 @@ GPS seems not to be a problem since we get it outside of the hull. We had a prob
 Nicla vision is under testing. it seems that is innapropriate for the job.
 
 - [X] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
+- [ ] Battery parameters: see link https://gemini.google.com/share/926e40b1ec7d
+- [ ] Teste RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
 - [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] Put the vynil logos
