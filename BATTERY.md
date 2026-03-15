@@ -9,8 +9,8 @@ For the operacional point of view, on MP we should set these parameters:
 |---|---|---|---|
 | Monitoring | BATT_MONITOR	| 4	| Activates the monitoring of Voltage and Current|
 | Power	| BATT_CAPACITY	| 20000 mAh	| Defines the total capacity for the dual 4S4P (4S8P) pack|
-| BATT_LOW_MAH |	4000 |	Triggers alert battery at 20% capacity (4Ah remaining) |
-| Power	| BATT_LOW_VOLT	| 12.8V |	Safety trigger (3.2V per cell) for voltage-based failsafe|
+| BATT_LOW_MAH | 4000 |	Triggers alert battery at 20% capacity (4 Ah remaining) |
+| Power	| BATT_LOW_VOLT	| 12.8V |	Safety trigger (3.2V per cell) for voltage-based failsafe, 20% capacity |
 | Safety	| BATT_FS_LOW_ACT |	2 (RTL)	| Triggers automatic Return To Launch (Home) on low battery|
 | Safety | BATT_FS_CRT_ACT |	2 (RTL)	| RTL in critical situations |
 | Navigation	| CRUISE_SPEED |	1.0 m/s	| Nominal mission speed optimized for maximum efficiency|
@@ -25,7 +25,13 @@ For the operacional point of view, on MP we should set these parameters:
 
 And follow this table as a reference to monitor the autonomy of AQUA:
 
-
+| Voltage (Total) | Estimated Capacity | State of Charge |
+| 16.8V | 100% | 20 Ah | Fully Charged (open circuit) |
+| 16.0V | 100 % | 20 Ah | High Charge |
+| 15.2V | 65% | 12 Ah | Stable Range |
+| 14.4V | 50% | 10 Ah | Nominal Voltage |
+| 13.6V | 30% | 6 Ah | Low Battery signal |
+| 12.8V | 20% | 4 Ah | RTL activated, Critical Level (Failsafe Trigger) |
 
 # DATA and CALCS
 Samsung 18650-25R cell capacity and voltage: nominal capacity of 2,500 mAh (2.5 Ah) and a 16,8 V.
