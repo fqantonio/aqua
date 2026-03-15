@@ -672,7 +672,7 @@ Finnaly we have good weather in our region but the environment were pretty damag
 
 The first meeting with the school will happen on March 11, and we will coordinate with the teachers the three sessions for the students.
 
-GPS seems not to be a problem since we get it outside of the hull. We had a problem with actions window: with the portuguese language doesn't show all the buttons action, namely, arm and disarm.
+GPS seems not to be a problem since we get it outside of the hull. We had a problem with actions window in Mission Planner (MP): with the portuguese language doesn't show all the buttons action, namely, arm (force) and disarm.
 
 ![](Photos/GPSoutside.jpeg)
 
