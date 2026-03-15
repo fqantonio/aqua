@@ -10,7 +10,7 @@ For the operacional point of view, on MP we should set these parameters:
 | Power	| BATT_CAPACITY	| 20000 mAh	| Defines the total capacity for the dual 4S4P (4S8P) pack.|
 | Power	| BATT_LOW_VOLT	| 12.8V |	Safety trigger (3.2V per cell) for voltage-based failsafe.|
 | Safety	| BATT_FS_LOW_ACT |	2 (RTL)	| Triggers automatic Return To Launch (Home) on low battery.|
-| Navigation	| CRUISE_SPEED |	1.0 m/s	Nominal mission speed optimized for maximum efficiency.|
+| Navigation	| CRUISE_SPEED |	1.0 m/s	| Nominal mission speed optimized for maximum efficiency.|
 |Control |	ATC_ACCEL_MAX	| 0.3 m/s²	| Softens acceleration to prevent voltage sag.|
 | Control | MOT_SLEWRATE |	50 |	Maxim motor change per second (avoid current pics) |
 | Auto model, Way Points | WP_RADIUS |	2.0	m | No diretly involve but within the GPS error range in order to use less energy |
