@@ -4,8 +4,20 @@
 
 ### Idea
 
-Design and build a small-scale, autonomous catamaran (1.2m) capable of carrying a 10 kg payload with 2-hour operating endurance and 3D printed, constructed primarily from sustainable materials (70% or more). A key feature is the ability to easily integrate internal and external sensors, with a focus on cost-effective and simple repairability.
+## Project Objective
 
+Design and build a **1.2m autonomous catamaran** with the following specifications:
+
+* **Capacity:** Support a **10 kg payload**.
+* **Endurance:** Minimum **2-hour** continuous operation.
+* **Sustainability:** Constructed with **at least 70% sustainable materials**, utilizing **3D printing** techniques.
+* **Modularity:** Designed for easy integration of internal and external sensors.
+* **Maintenance:** Focused on **cost-effective** and **simple repairability**.
+* **Lifecycle:** Includes a planned strategy for **after-service use** (recycling or repurposing).
+
+---
+
+Would you like me to refine this into a formal technical abstract or perhaps a summary for a project proposal?
 This vessel could be used as a platform for maritime engineering training and aquatic bioecochemistry or water quality assessment. 
 
 It will uses modeling and 3D printing with PLA, with the possiblility of exploring new ecofriendly materials: environmentally friendly from the very begining of the conceptualization until the moment that is out of service.
