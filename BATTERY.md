@@ -128,3 +128,56 @@ If you have tried calibration and checked the parameters without success, the Po
 Monitoring and calibration BATT_MONITOR: Selects the battery monitoring type. Common values are \(3\) for voltage-only and \(4\) for both voltage and current.BATT_VOLT_PIN: Specifies the autopilot's analog pin connected to the power module's voltage sensing output.BATT_CURR_PIN: Specifies the autopilot's analog pin connected to the power module's current sensing output.BATT_VOLT_MULT: Scales the raw voltage reading from the sensor to get the actual battery voltage.BATT_AMP_PERVLT: Converts the voltage reading from the current sensor into a current reading in amps.BATT_AMP_OFFSET: Adjusts for any voltage offset from the current sensor when no current is being drawn.BATT_CURR_MULT: Scales reported current values for specific monitors like DroneCAN. Failsafe and safety BATT_LOW_VOLT: The voltage threshold for the "low battery" warning and action.BATT_CRT_VOLT: The voltage threshold for the "critical battery" warning and action. Set to zero to disable.BATT_LOW_MAH: The remaining capacity in mAh for the "low battery" failsafe.BATT_CRT_MAH: The remaining capacity in mAh for the "critical battery" failsafe.BATT_FS_LOW_ACT: The action to take when the low battery threshold is reached, such as "RTL" (Return to Launch) or "Land".BATT_FS_CRT_ACT: The action to take when the critical battery threshold is reached.BATT_ARM_VOLT: The minimum voltage required to arm the vehicle.BATT_ARM_MAH: The minimum remaining capacity in mAh required to arm the vehicle. Other parameters BATT_CAPACITY: Automatically updated to the battery's actual capacity in mAh after it's been used.BATT_SERIAL_NUM: Used for SMBus or DroneCAN monitors to identify which battery it is monitoring.BATT_MAX_AMPS: The maximum current to be reported, primarily for INA2xx sensors. 
 
 https://ardupilot.org/rover/docs/common-power-module-configuration-in-mission-planner.html
+
+---
+
+Compare with this GEMINI title: Battery Voltage and Motor Current
+
+Link: https://gemini.google.com/share/1584391ce280
+
+Aqui tens o documento final consolidado, integrando os objetivos do projeto, a configuração técnica e as referências bibliográficas formatadas.
+
+---
+
+# Project Summary: Sustainable Autonomous Catamaran (USV)
+
+## 1. Project Objectives (Resume Format)
+
+* **Design & Fabrication:** Developed a **1.2m autonomous catamaran** using 3D printing and **70%+ sustainable materials**.
+* **Operational Performance:** Engineered for a **10kg payload** capacity with a **2-hour operational endurance** at a cruise speed of 1 m/s.
+* **Power Management:** Optimized 4S4P Li-Ion (18650) battery systems, mitigating voltage sag through precise ArduPilot parameter tuning.
+* **Lifecycle Strategy:** Conducted a **Life Cycle Assessment (LCA)** to ensure cost-effective repairability and a circular economy approach for **after-service use**.
+* **Modular Integration:** Designed a flexible architecture for the seamless deployment of internal and external environmental sensors.
+
+## 2. Technical Parameter Configuration
+
+Para garantir que estes objetivos são atingidos no **Mission Planner**, os seguintes parâmetros foram definidos:
+
+| Categoria | Parâmetro | Valor Sugerido | Finalidade |
+| --- | --- | --- | --- |
+| **Energia** | `BATT_CAPACITY` | 10000 mAh | Define a capacidade total do pack 4S4P. |
+| **Energia** | `BATT_LOW_VOLT` | 12.8V | Gatilho de segurança (3.2V/célula). |
+| **Segurança** | `BATT_FS_LOW_ACT` | 2 (RTL) | Ativa o retorno automático ao ponto de origem. |
+| **Navegação** | `CRUISE_SPEED` | 1.0 m/s | Velocidade nominal para máxima eficiência. |
+| **Controlo** | `ATC_ACCEL_MAX` | 0.3 m/s² | Suaviza o arranque para evitar queda de tensão. |
+
+## 3. Bibliographic References
+
+### **Software & Navigation**
+
+* **ArduPilot Dev Team.** (2024). *Rover & Boat Failsafes and Power Monitoring*. ArduPilot Official Documentation. [https://ardupilot.org/rover/docs/rover-failsafes.html](https://ardupilot.org/rover/docs/rover-failsafes.html)
+* **Shuck, T.** (2013). *Development of Autonomous Optimal Cooperative Control in Small Unmanned Systems*. AFIT Scholar.
+
+### **Energy & Battery Science**
+
+* **Islam, S. M. R., Park, S. Y., & Balasingam, B.** (2020). Unification of Internal Resistance Estimation Methods for Li-Ion Batteries Using Hysteresis-Free Equivalent Circuit Models. *Batteries*, 6(2), 32. [https://doi.org/10.3390/batteries6020032](https://doi.org/10.3390/batteries6020032)
+* **Linden, D., & Reddy, T. B.** (2010). *Handbook of Batteries*. McGraw-Hill Education (4th ed.). [Referência para cálculos de densidade energética e ciclos de vida].
+* **Edge, J. S., et al.** (2021). Lithium ion battery degradation: what you need to know. *Physical Chemistry Chemical Physics*, 23(14), 8200-8221.
+
+### **Sustainability & Lifecycle**
+
+* **Ando Junior, O. H., et al.** (2022). Experimental Validation of State of Charge Estimation and Lifecycle Analysis. *IEEE Latin America Transactions*, 20(12).
+* **Purandare, S., et al.** (2023). Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Systems. *SEAMS 2023*, 169-180.
+
+
+
