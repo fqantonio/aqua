@@ -679,21 +679,28 @@ GPS seems not to be a problem since we get it outside of the hull. We had a prob
 Nicla vision is under testing. it seems that is innapropriate for the job.
 
 - [X] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
+- [x] Prepare second ESTM meeting: send plan and set specific goals;
 - [ ] Battery parameters: see link https://gemini.google.com/share/926e40b1ec7d
-- [ ] Teste RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
-- [ ] AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
+- [ ] Cruise velocity
+- [ ] Switches "flight" mode PWM parameters selection
+- [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
+- [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
-- [ ] Put the vynil logos
+- [ ] Test Grid auto mode;
+- [ ] Teste fence;
+
 - [ ] log data procedure;
 - [ ] AQUA activity log sheet registering;
+- [ ] Review procedure;
 - [ ] Team needed and roleplays: what roles? List of specific tasks;
 - [ ] Tests radio and telemetry max distance;
 - [ ] Outside sensors structure;
+- [ ] Nicla Vision state
+- [ ] include calcs for the 4S4P battery file;
 
-- [x] Prepare second ESTM meeting: send plan and set specific goals;
-- [ ] Prepare APRIL 2026 training
-- [ ] include calcs for the 4S4P batery in this journal;
-- [ ] Nicla Vision batery capacity
+- [ ] Put the vynil logos
+- [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
+- [ ] AQUA new design: talk to Nuno
 
 # April
 - [ ] revisit minimum tools and tool box
@@ -703,7 +710,7 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Autonomy with 10 Kg load;
 - [ ] Set specific goals for the student training;
 - [ ] Deliver for training and testing (ESTM IPLeiria);
-- [ ] ESTM goals: usefull? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
+- [ ] ESTM goals: usefull? Usability? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
 
 
 # Future tasks
