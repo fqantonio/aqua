@@ -4,8 +4,6 @@
 
 ### Idea
 
-## Project Objective
-
 Design and build a **1.2m autonomous catamaran** with the following specifications:
 
 * **Capacity:** Support a **10 kg payload**.
@@ -17,9 +15,6 @@ Design and build a **1.2m autonomous catamaran** with the following specificatio
 
 ---
 
-Would you like me to refine this into a formal technical abstract or perhaps a summary for a project proposal?
-This vessel could be used as a platform for maritime engineering training and aquatic bioecochemistry or water quality assessment. 
-
 It will uses modeling and 3D printing with PLA, with the possiblility of exploring new ecofriendly materials: environmentally friendly from the very begining of the conceptualization until the moment that is out of service.
 
 The control, in a early stage, is by radio and GPS way points using Mission Planner of ARDUPILOT software opensource community. If needed could have an avoidance system. ARDUPILOT, is an open-source autopilot software suite where mission Planner is a product. 
@@ -29,6 +24,8 @@ The energy system should use Samsung 18650 cells in a two bateries 4S4P setting 
 For the spare parts it should have cheap components easily available on the market.
 
 All started here, at FAB ACADEMY 2019, held in FCT FAB LAB at Nova University: https://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/
+
+After the pilot-project there will be a **Life Cycle Assessment (LCA)** study.
 
 # 2023
 
