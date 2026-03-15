@@ -717,7 +717,10 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 
 # Future tasks
 
-- [ ] Life Cycle Assessment (LCA), including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
+- [ ] Life Cycle Assessment (LCA), including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for? ### **Sustainability & Lifecycle**
+* **Ando Junior, O. H., et al.** (2022). Experimental Validation of State of Charge Estimation and Lifecycle Analysis. *IEEE Latin America Transactions*, 20(12).
+* **Purandare, S., et al.** (2023). Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Systems. *SEAMS 2023*, 169-180.
+
 - [ ] Review BOM costs;
 - [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
