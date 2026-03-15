@@ -2,7 +2,7 @@
 
 ## July ##
 
-### Idea
+### Idea project summary: Sustainable Autonomous Catamaran (USV)
 
 Design and build a **1.2m autonomous catamaran** with the following specifications:
 
@@ -11,7 +11,8 @@ Design and build a **1.2m autonomous catamaran** with the following specificatio
 * **Sustainability:** Constructed with **at least 70% sustainable materials**, utilizing **3D printing** techniques.
 * **Modularity:** Designed for easy integration of internal and external sensors.
 * **Maintenance:** Focused on **cost-effective** and **simple repairability**.
-* **Lifecycle:** Includes a planned strategy for **after-service use** (recycling or repurposing).
+* **Lifecycle:** Includes a planned strategy for **after-service use** (recycling or repurposing) with a conducted a **Life Cycle Assessment (LCA)** to ensure cost-effective repairability and a circular economy approach for **after-service use**.
+* **Modular Integration:** Designed a flexible architecture for the seamless deployment of internal and external environmental sensors.
 
 ---
 
