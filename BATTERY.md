@@ -11,13 +11,16 @@ For the operacional point of view, on MP we should set these parameters:
 | Power	| BATT_CAPACITY	| 20000 mAh	| Defines the total capacity for the dual 4S4P (4S8P) pack|
 | Power	| BATT_LOW_VOLT	| 12.8V |	Safety trigger (3.2V per cell) for voltage-based failsafe|
 | Safety	| BATT_FS_LOW_ACT |	2 (RTL)	| Triggers automatic Return To Launch (Home) on low battery|
+| Safety | BATT_FS_CRT_ACT |	2 (RTL)	| RTL in critical situations |
 | Navigation	| CRUISE_SPEED |	1.0 m/s	| Nominal mission speed optimized for maximum efficiency|
 |Control |	ATC_ACCEL_MAX	| 0.3 m/s²	| Softens acceleration to prevent voltage sag|
 | Control | MOT_SLEWRATE |	50 |	Maxim motor change per second (avoid current pics) |
 | Auto model, Way Points | WP_RADIUS |	2.0	m | No diretly involve but within the GPS error range in order to use less energy |
 | Control | RTL_SPEED |	1.0 m/s |	Return to land in failsafe mode |
 | Control | FS_GCS_ENABL |	1	| Not really necessary because we have radio, but it activates RTL if lossing the connection to Mission Planner|
-| Control | FS_GCS_TIMEOUT|	5.0 | Time of silence before activates the RTL |	
+| Control | FS_GCS_TIMEOUT|	5.0 | Time of silence before activates the RTL |
+| RADIO | FS_THR_ENABLE	| 1 | Enabled RTL protection if radio signal loss |
+| RADIO | FS_THR_VALUE |	950	| PWM low value, meaning the system is no longer activated |
 
 And follow this table as a reference to monitor the autonomy of AQUA:
 
