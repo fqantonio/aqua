@@ -689,6 +689,7 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Test Grid auto mode;
 - [ ] Teste fence;
 
+# April
 - [ ] log data procedure;
 - [ ] AQUA activity log sheet registering;
 - [ ] Review procedure;
@@ -701,8 +702,6 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Put the vynil logos
 - [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
 - [ ] AQUA new design: talk to Nuno
-
-# April
 - [ ] revisit minimum tools and tool box
 - [ ] Revisit the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review documentation: STL files, manual, procedures, safety and maintenance;
@@ -715,7 +714,7 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 
 # Future tasks
 
-- [ ] Life Cycle Assessment, including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
+- [ ] Life Cycle Assessment (LCA), including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for?
 - [ ] Review BOM costs;
 - [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
