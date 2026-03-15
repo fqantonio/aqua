@@ -1,11 +1,16 @@
 ![](Photos/banner-772x250.png)
 
-In this projet we set the vehicle to set an alarm by telemetry when the voltage drop under 12 V. Since its a 4S4P system, 16,8 V is the full battery voltage and 13,8 Ah. See data results. 
+# Battery resume parameters
+AQUA as two bateries packs 4S4P, meaning that it is a 4S8P, at a velocity of 1 m/s, it as a conservative estimation of 5 hours of autonomy, corresponding to a 20 000 mAh capacity and an energy of 288 Wh. It works with a open voltage circuit of 16,8 V with a nominal voltage, from the manufacturer, of 14,4 V and a Cut-off Voltage of 12,0 V.
 
-Note: It shoul be interesting to have a smart RTL (SRTL) as a predefined fail safe action
+For the operacional point of view, on MP we should set these parameters:
+
+
+And follow this table as a reference to monitor the autonomy of AQUA:
+
 
 # DATA and CALCS
-Capacity calculation Samsung 18650-25R cell capacity: The individual Samsung 18650-25R cell has a nominal capacity of 2,500 mAh (2.5 Ah).
+Samsung 18650-25R cell capacity and voltage: nominal capacity of 2,500 mAh (2.5 Ah) and a 16,8 V.
 
 ## 4S4P configuration
 This configuration means: 4S (4 cell bateries in series): Four cells are connected in series, which increases the total voltage up to 16,8 V. The capacity remains the same as a single parallel group. 
