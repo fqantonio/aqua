@@ -684,6 +684,7 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Cruise velocity
 - [ ] Switches "flight" mode PWM parameters selection
 - [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
+- [ ] Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
 - [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
 - [ ] Test Grid auto mode;
