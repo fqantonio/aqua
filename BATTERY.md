@@ -25,9 +25,9 @@ For the operacional point of view, on MP we should set these parameters:
 
 And follow this table as a reference to monitor the autonomy of AQUA:
 
-| Voltage (Total) | Estimated Capacity | State of Charge |
-|---|---|---|
-| 16.8V | 100% | 20 Ah | Fully Charged, open circuit |
+| Voltage | Capacity % | Estimated Capacity | State of Charge |
+|---|---|---|---|
+| 16.8V | 100% | 20 Ah | Fully Charged (open circuit) |
 | 16.0V | 100 % | 20 Ah | High Charge |
 | 15.2V | 65% | 12 Ah | Stable Range |
 | 14.4V | 50% | 10 Ah | Nominal Voltage |
