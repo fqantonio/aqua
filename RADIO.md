@@ -1,3 +1,5 @@
+![](Photos/banner-772x250.png)
+
 # RADIO transmiter
 To configure the radio transmitter to **manualy control** de boat by radio, follow this text (https://ardupilot.org/rover/docs/common-radio-control-calibration.html) and then this one for the boat, where you only change the FRAME_CLASS parameter to 2 (https://ardupilot.org/rover/docs/boat-configuration.html).
 
