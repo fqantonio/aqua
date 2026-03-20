@@ -1,3 +1,5 @@
+![](Photos/banner-772x250.png)
+
 # BEFORE
 
 - Fetching the maps with Mission Planner (MP) in a computer with internet access beforehand;
