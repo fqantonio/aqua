@@ -1,3 +1,5 @@
+![](Photos/banner-772x250.png)
+
 This is a list of materials and working time, used in this project. However, its still an approximation, but a good one. There are consumables that were bougth more then necessary but in a wholesail that's what usual happen. The total amount is 8446,42 euros. At the same we reconstruct the aqua version bodyboard. The working time was supported by David, Nuno and António.
 
 # BOM resume
