@@ -1,3 +1,5 @@
+![](Photos/banner-772x250.png)
+
 The idea of building a small catamaran as an educational project to teach robotics and engineering is exceptionally valid and full of potential. 
 Here's a detailed analysis, with specific nuances for the Portuguese context:
 
