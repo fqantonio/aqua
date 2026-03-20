@@ -10,7 +10,7 @@ For the operacional point of view, on MP we should set these parameters:
 | Monitoring | BATT_MONITOR	| 4	| Activates the monitoring of Voltage and Current|
 | Power	| BATT_CAPACITY	| 20000 mAh	| Defines the total capacity for the dual 4S4P (4S8P) pack|
 | BATT_LOW_MAH | 4000 |	Triggers alert battery at 20% capacity (4 Ah remaining) |
-| Power	| BATT_LOW_VOLT	| 12.8V |	Safety trigger (3.2V per cell) for voltage-based failsafe, 20% capacity |
+| Power	| BATT_LOW_VOLT	| 12V |	Should be 12,8V, but we are not conservative here; Safety trigger (3.2V per cell) for voltage-based failsafe, 20% capacity |
 | Safety	| BATT_FS_LOW_ACT |	2 (RTL)	| Triggers automatic Return To Launch (Home) on low battery|
 | Safety | BATT_FS_CRT_ACT |	2 (RTL)	| RTL in critical situations |
 | Navigation	| CRUISE_SPEED |	1.0 m/s	| Nominal mission speed optimized for maximum efficiency|
