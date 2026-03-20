@@ -1,3 +1,5 @@
+![](Photos/banner-772x250.png)
+
 (Under constructions...)
 
 ## SOUNDS AND LED SIGNS
