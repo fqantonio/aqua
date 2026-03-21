@@ -51,6 +51,8 @@ To verify your energy value of 288 Wh, we use the nominal voltage:
 Energy (Wh)=1000Capacity (mAh)×Nominal Voltage (V)​
 100020,000 mAh×14.4V​=288 Wh
 
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+
 ## 4S4P configuration
 
 
