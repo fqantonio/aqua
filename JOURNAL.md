@@ -679,41 +679,56 @@ GPS seems not to be a problem since we get it outside of the hull. We had a prob
 
 Nicla vision is under testing. it seems that is innapropriate for the job.
 
+Battery parameters where changed (see the table in the battery session), from voltage limits, to capacity, cruise velocity and fail safe limits.
+
+About the Gopro camera: wifi, FPV or local recording? We have a plan B for now, using gopro similar and record on a sdcard; the other systm as arrived and, ASAP, we will try to put it on work;
+
+We had the meeting in ESTM and we schedule to working days: April 27st and 4th of May.
+
 - [X] Test the antennas reposition and EM environment inside AQUA using another GPS connected to the computer
 - [x] Prepare second ESTM meeting: send plan and set specific goals;
-- [ ] Battery parameters: see link https://gemini.google.com/share/926e40b1ec7d
-- [ ] Cruise velocity
+- [x] Battery parameters: see link https://gemini.google.com/share/926e40b1ec7d
+- [x] Cruise velocity
+- [x] Gopro camera: wifi, FPV or local recording?
 - [ ] Switches "flight" mode PWM parameters selection
-- [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
-- [ ] Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
-- [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
-- [ ] Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html
-- [ ] Test Grid auto mode;
-- [ ] Teste fence;
-- [ ] Gopro camera: wifi, FPV or local recording?
-
-# April
-- [ ] log data procedure;
-- [ ] AQUA activity log sheet registering;
-- [ ] Review procedure;
-- [ ] Team needed and roleplays: what roles? List of specific tasks;
-- [ ] Tests radio and telemetry max distance;
 - [ ] Outside sensors structure;
 - [ ] Nicla Vision state
 - [ ] include calcs for the 4S4P battery file;
-
 - [ ] Put the vynil logos
-- [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
 - [ ] AQUA new design: talk to Nuno
+- [x] Install Nicla Vision
+- [x] Nicla vision battery and magnetic switch
+- [ ] Collect videos for AI models
+
+Aqua outdoors Tests
+- [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
+- [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
+- [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
+- [ ] Record video with gopro;
+- [ ] Test Grid auto mode;
+- [ ] Teste fence;
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Autonomy with 10 Kg load;
+
+# April
+- [ ] log data procedure;
+- [ ] Inquiry;
+- [ ] AQUA activity log sheet registering;
+- [ ] Review procedure;
+- [ ] Team needed and roleplay: what roles? List of specific tasks;
+- [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
 - [ ] revisit minimum tools and tool box
 - [ ] Revisit the procedures manual to handle the boat carefully: before, during and after;
 - [ ] Review documentation: STL files, manual, procedures, safety and maintenance;
-- [ ] Test with a payload of 5 and 10kg;
-- [ ] Autonomy with 10 Kg load;
 - [ ] Set specific goals for the student training;
 - [ ] Deliver for training and testing (ESTM IPLeiria);
 - [ ] ESTM goals: usefull? Usability? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
+- [ ] Tests radio and telemetry max distance;
+- [ ] Print with obliquo roller printer;
+- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
 
+# June
+- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 
 # Future tasks
 
@@ -724,15 +739,8 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] Review BOM costs;
 - [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
-- [ ] Use the radio receptor with 10 CH
-- [ ] Install Nicla Vision
-- [ ] Nicla vision battery and magnetic switch
-- [ ] Collect videos for AI models
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 - [ ] Review text file business
-- [ ] Prepare the a new design;
-- [ ] Print with obliquo roller printer;
-- [ ] Paint needed or why print in yellow?
 - [ ] Discuss professional faires;
 - [ ] removable protections for corners, bow and stern: how!?!?;
 - [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
@@ -743,6 +751,5 @@ Nicla vision is under testing. it seems that is innapropriate for the job.
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
 - [ ] Solar charging proceding and materials?!
 - [ ] Packaging
-- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 - [ ] Financing
 - [ ] (...)
