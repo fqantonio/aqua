@@ -45,11 +45,9 @@ Max Draw: A single T200 can draw up to 25A at full throttle (16V). Two could dra
 
 1,7 A during and hour, means 1,7 Ah; since AQUA as 20 Ah, then, dividing, we get 11 hours of autonomy. Off course, turnings cost
 
-Energy Calculation (Wh)
-
+### Energy Calculation (Wh)
 To verify your energy value of 288 Wh, we use the nominal voltage:
-Energy (Wh)=1000Capacity (mAh)×Nominal Voltage (V)​
-100020,000 mAh×14.4V​=288 Wh
+$\ Energy (Wh)= 20,000 mAh \times 14.4 V ​= 288 Wh \$
 
 This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
 
