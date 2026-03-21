@@ -1,9 +1,9 @@
 ![](Photos/banner-772x250.png)
 
 # Battery resume parameters
-AQUA as two bateries packs 4S4P, meaning that it is a 4S8P, at a velocity of 1 m/s, it as a conservative estimation of 5 hours of autonomy, corresponding to a 20 000 mAh capacity and an energy of 288 Wh. It works with a open voltage circuit of 16,8 V with a nominal voltage, from the manufacturer, of 14,4 V and a Cut-off Voltage of 12,0 V.
+AQUA as two bateries packs 4S4P in parallel, meaning that it is a 4S8P. At a velocity of 1 m/s, it has a conservative estimation of 5 hours of autonomy, corresponding to 20 000 mAh capacity and an energy of 288 Wh. Open voltage circuit is 16,8 V with a nominal voltage, proposed by from the manufacturer, of 14,4 V and a Cut-off Voltage of 12,0 V.
 
-For the operacional point of view, on MP we should set these parameters:
+For the operacional point of view, on MP we set these parameters:
 
 | Category |	Parameter |	Suggested Value |	Purpose |
 |---|---|---|---|
@@ -36,6 +36,20 @@ And follow this table as a reference to monitor the autonomy of AQUA:
 
 # DATA and CALCS
 Samsung 18650-25R cell capacity and voltage: nominal capacity of 2,500 mAh (2.5 Ah) and a 16,8 V.
+
+==== measure this values ====
+
+AQUA has two BlueRobotics T200 thrusters (https://bluerobotics.com/store/thrusters/t100-t200-thrusters/t200-thruster-r2-rp/). Using this online data its possible to check that, at 1,7 A, we get a 1360 PWM, wich means a measured velocity of 1,5 m/s??? (measured with MP). 
+
+Max Draw: A single T200 can draw up to 25A at full throttle (16V). Two could draw 50A.
+
+1,7 A during and hour, means 1,7 Ah; since AQUA as 20 Ah, then, dividing, we get 11 hours of autonomy. Off course, turnings cost
+
+Energy Calculation (Wh)
+
+To verify your energy value of 288 Wh, we use the nominal voltage:
+Energy (Wh)=1000Capacity (mAh)×Nominal Voltage (V)​
+100020,000 mAh×14.4V​=288 Wh
 
 ## 4S4P configuration
 
