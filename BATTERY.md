@@ -1,9 +1,17 @@
 ![](Photos/banner-772x250.png)
 
 # Battery resume parameters
-AQUA as two bateries packs 4S4P in parallel, meaning that it is a 4S8P. At a velocity of 1 m/s, it has a conservative estimation of 5 hours of autonomy, corresponding to 20 000 mAh capacity and an energy of 288 Wh. Open voltage circuit is 16,8 V with a nominal voltage, proposed by from the manufacturer, of 14,4 V and a Cut-off Voltage of 12,0 V.
+AQUA as two bateries packs 4S4P in parallel, meaning that it is a 4S8P setup. Open voltage circuit is 16,7 V with a nominal voltage, proposed by from the manufacturer, of 14,4 V and a Cut-off Voltage of 12,0 V (conservative value). For each 18650 we have a open circuit voltage of 3.6 V and cutoff 2,65 V, meaning a cutoff around 10.6 V for 4S setup (we use 3V as cutoff voltage). 
 
-For the operacional point of view, on MP we set these parameters:
+So, at a velocity of 1 m/s (3,6 km/h), it has a conservative estimation of 5 hours of autonomy, corresponding to 20 000 mAh capacity and energy available of 288 Wh. 
+
+ - 4S means, since each 18650 cell as a 3.6 V nominal voltage (manufacturer rate, see: https://batteryservice.bg/wp-content/uploads/2019/11/samsung-35e-e.pdf), we get a whole nominal voltage of **14.4 V** $\ 4 \times 3.6 V \$.
+ - 8P means that we add up the individual battery capacity (and energy), we get, since for each battery 2.5 Ah (conservative capacity value), $\8 \times 2.5 Ah \$, meaning 20 Ah for this setup.
+ -  
+
+Two thusters of 200 W each, capable of handling with 50 A each. At this 1 m/s velocities the thrusters draw a 50 W max in total with an Operating Voltage between 7 and 20 V. 
+
+So, for the operacional safety point of view, on MP, we set these parameters:
 
 | Category |	Parameter |	Suggested Value |	Purpose |
 |---|---|---|---|
