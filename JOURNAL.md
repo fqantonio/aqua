@@ -705,17 +705,26 @@ Aqua outdoors Tests
 - [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
 - [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
 - [ ] Record video with gopro;
+- [ ] Measure: see table below
 - [ ] Test Grid auto mode;
 - [ ] Teste fence;
 - [ ] Test with a payload of 5 and 10kg;
 - [ ] Autonomy with 10 Kg load;
+
+| date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Observations |
+|---|---|---|---|
+| november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) |
+|  | 	| |  |  |
+|  | 	| |  |  |
+|  | 	| |  |  |
+|  | 	| |  |  |
 
 # April
 - [ ] log data procedure;
 - [ ] Inquiry;
 - [ ] AQUA activity log sheet registering;
 - [ ] Review procedure;
-- [ ] Team needed and roleplay: what roles? List of specific tasks;
+- [ ] Team needed and roleplay: what roles? List of specific tasks; what the goals and what to measure and verify on AQUA operating conditions;
 - [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
 - [ ] revisit minimum tools and tool box
 - [ ] Revisit the procedures manual to handle the boat carefully: before, during and after;
