@@ -27,7 +27,7 @@ Now, for the autonomy, we go with the max current for both thrusters, 2A, at 2 m
 This are the theoretical values, lets measure it, and confirme the results listed here:
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Observations |
-|---|---|---|---|
+|---|---|---|---|---|
 | november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) |
 |  | 	| |  |  |
 |  | 	| |  |  |
