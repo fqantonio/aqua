@@ -712,7 +712,7 @@ Aqua outdoors Tests
 - [ ] Autonomy with 10 Kg load;
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Observations |
-|---|---|---|---|
+|---|---|---|---|---|
 | november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) |
 |  | 	| |  |  |
 |  | 	| |  |  |
