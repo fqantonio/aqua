@@ -105,9 +105,9 @@ https://youtube.com/shorts/ug1nrqGwPGw
  - Paulo Teixeira, 3D printing, [FABLAB EDP/Labelec](https://www.edp.com/pt-pt/inovacao/fablab)
  - Gonçalo Pereira, batteries training and electric circuit adviser, [LCD Porto](https://lcdporto.org/pt/pagina-principal/)
  - Rui Infante, FAB LAB Porto de Mós, CNC milling
- - Tiago Elias, Maker, 3D printing
+ - Tiago Elias, Maker, Mauser, 3D printing
  - Álvaro Brito, MAKER, 3D printing
- - Sebastião Bizarro, Maker
+ - Sebastião Bizarro, Maker, CNC milling
  - Renan Portocarrero, MAKER, 3D printing
  - Alexandre Nunes, Intership, 3D printing and testing
  - FAB LAB HN, CNC milling
