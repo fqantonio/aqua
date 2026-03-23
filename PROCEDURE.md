@@ -1,4 +1,4 @@
-<! ![](Photos/banner-772x250.png) >
+<!--- ![](Photos/banner-772x250.png --->
 
 # BEFORE
 
