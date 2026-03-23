@@ -1,4 +1,5 @@
 <!--- ![](Photos/banner-772x250.png --->
+<!--- add missing photos  --->
 
 # BEFORE
 
