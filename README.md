@@ -46,6 +46,7 @@ This project is documented as a journal in the file with the name "journal".
 António Gonçalves, Lab Aberto FAB LAB coordinator and teacher, project coordinator and aqua system assembly and control  
 Nuno Gomes, teacher at ESAD - IPLEIRIA and Innovation Makers Labs, Designer Director  
 David Rodrigues, PhD, ESAD - IPLeiria, avoidance systems
+Henrique Cristo, estudante Eng. Física, IPL
 
 # We are here:
 
