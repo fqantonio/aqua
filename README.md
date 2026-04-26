@@ -89,7 +89,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-April 2025, GPS grid and RTL tested.
+April 2026, GPS grid and RTL tested.
 
 https://youtube.com/shorts/ug1nrqGwPGw
 
