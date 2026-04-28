@@ -690,63 +690,80 @@ We had the meeting in ESTM and we schedule to working days: April 27st and 4th o
 - [x] Battery parameters: see link https://gemini.google.com/share/926e40b1ec7d
 - [x] Cruise velocity
 - [x] Gopro camera: wifi, FPV or local recording?
-- [ ] Switches "flight" mode PWM parameters selection
-- [ ] Outside sensors structure;
-- [ ] Nicla Vision state
-- [ ] include calcs for the 4S4P battery file;
-- [ ] Put the vynil logos
-- [ ] AQUA new design: talk to Nuno
+- [x] Switches "flight" mode PWM parameters selection
+- [x] Outside sensors structure;
+- [x] Nicla Vision state
+- [x] include calcs for the 4S4P battery file;
 - [x] Install Nicla Vision
 - [x] Nicla vision battery and magnetic switch
-- [ ] Collect videos for AI models
 
 Aqua outdoors Tests
-- [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
-- [ ] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
-- [ ] Test AUTO mode Control and GPS point test: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
-- [ ] Record video with gopro;
-- [ ] Measure: see table below
-- [ ] Test Grid auto mode;
-- [ ] Teste fence;
-- [ ] Test with a payload of 5 and 10kg;
-- [ ] Autonomy with 10 Kg load;
-
-| date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Observations |
-|---|---|---|---|---|
-| november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) |
-|  | 	| |  |  |
-|  | 	| |  |  |
-|  | 	| |  |  |
-|  | 	| |  |  |
+- [x] Test RTL: see this link; https://gemini.google.com/share/926e40b1ec7d
+- [x] Test AUTO mode Control and GPS point test, including grid: [Mission Planner (MP)](https://ardupilot.org/planner/); https://www.youtube.com/watch?v=rui2Trps2yc 
+- [x] Test Grid auto mode;
+- [x] AQUA new design: discuss teh details
 
 # April
-- [ ] log data procedure;
-- [ ] Inquiry;
-- [ ] AQUA activity log sheet registering;
-- [ ] Review procedure;
-- [ ] Team needed and roleplay: what roles? List of specific tasks; what the goals and what to measure and verify on AQUA operating conditions;
-- [ ] Prepare 27 APRIL 2026 training: talk to Henrique and David
-- [ ] revisit minimum tools and tool box
-- [ ] Revisit the procedures manual to handle the boat carefully: before, during and after;
-- [ ] Review documentation: STL files, manual, procedures, safety and maintenance;
-- [ ] Set specific goals for the student training;
-- [ ] Deliver for training and testing (ESTM IPLeiria);
-- [ ] ESTM goals: usefull? Usability? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
-- [ ] Tests radio and telemetry max distance;
-- [ ] Print with obliquo roller printer;
-- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
+
+- [x] AQUA activity log sheet registering;
+- [x] Review procedure;
+- [x] Team needed and roleplay: what roles? List of specific tasks; what the goals and what to measure and verify on AQUA operating conditions;
+- [x] Prepare 27 APRIL 2026 training: talk to Henrique and David
+- [x] revisit minimum tools and tool box
+- [x] Revisit the procedures manual to handle the boat carefully: before, during and after;
+- [x] Review documentation: STL files, manual, procedures, safety and maintenance;
+- [x] Set specific goals for the student training;
+- [x] Deliver for training and testing (ESTM IPLeiria);
+- [x] ESTM goals: usefull? Usability? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
+- [x] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
+
+
+All tested, except, logs data and video captures. Problems found:
+
+1. The drain plugs aren't sealing properly: the port side float is still taking on water.
+2. The laptop battery stops responding to Mission Planner (MP) requests once it drops to 60% battery capacity.
+3. The sensor structure is wobbling: we are currently assembling an alternative structure with aluminum fittings as a "Plan B." Henrique will later design a 3D-printed solution to minimize oscillations.
+
+Decisions:
+1. abandon Nicla Viusion
+2. Plane B for the sensors structure
+3. Seal the bujons on the port side
+4. By another battery for the computer
 
 # June
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
+- [ ] co-creation session
+
+# July
+- [ ] Teste fence;
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Autonomy with 10 Kg load;
+- [ ] Collect videos for AI models
+- [ ] Put the vynil logos
+- [ ] Record video with gopro;
+- [ ] Measure: see table below
+- [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
+- [ ] Tests radio and telemetry max distance;
+- [ ] Print with obliquo roller printer;
+- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
+- [ ] data record
+
+| date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Capacity 1 | Capacity 2 | Operation (h) | Observations |
+|---|---|---|---|---|---|---|---|
+| november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) ||||
+|  | 	| |  |  ||||
+|  | 	| |  |  ||||
+|  | 	| |  |  ||||
+|  | 	| |  |  ||||
 
 # Future tasks
 
+- [ ] log data procedure;
 - [ ] Life Cycle Assessment (LCA), including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for? ### **Sustainability & Lifecycle**
 * **Ando Junior, O. H., et al.** (2022). Experimental Validation of State of Charge Estimation and Lifecycle Analysis. *IEEE Latin America Transactions*, 20(12).
 * **Purandare, S., et al.** (2023). Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Systems. *SEAMS 2023*, 169-180.
 
 - [ ] Review BOM costs;
-- [ ] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
 - [ ] Test in 1 m waves to test the maximum "wake zones" in ports;
 - [ ] Review text file business
