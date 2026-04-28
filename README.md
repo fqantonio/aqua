@@ -1,6 +1,6 @@
 # General view
 
-> Portugal is 97% water
+> Portugal is 97% water [^1]
 
 ![](Photos/SYHO10cb_05257w-01.jpg)
 
@@ -116,3 +116,5 @@ https://youtube.com/shorts/ug1nrqGwPGw
 # CONTACT
 
 aquausv@gmail.com
+
+[^1]: https://www.publico.pt/2014/04/02/ciencia/noticia/mapa-que-mostra-que-97-de-portugal-e-mar-chega-as-escolas-1630635
