@@ -117,4 +117,4 @@ https://youtube.com/shorts/ug1nrqGwPGw
 
 aquausv@gmail.com
 
-[^1]: https://www.publico.pt/2014/04/02/ciencia/noticia/mapa-que-mostra-que-97-de-portugal-e-mar-chega-as-escolas-1630635
+[^1]: Mapa onde se mostra que 97% de Portugal é mar chega hoje às escolas: https://www.publico.pt/2014/04/02/ciencia/noticia/mapa-que-mostra-que-97-de-portugal-e-mar-chega-as-escolas-1630635, Jornal Público
