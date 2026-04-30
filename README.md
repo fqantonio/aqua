@@ -111,6 +111,7 @@ https://youtube.com/shorts/ug1nrqGwPGw
  - Alexandre Nunes, Intership, 3D printing and testing
  - FAB LAB HN, CNC milling
  - João Alves, Estagiário da ESAD
+ - Nuno Valadas, Filkemp, https://filkemp.com/ 
  - Lagoa do Falcão, Torres Vedras
 
 # CONTACT
