@@ -38,9 +38,9 @@ This project is documented as a journal in the file with the name "journal".
 
 # FEATURES
 - A Simple Aquatic Robotics Platform for Training, Education, and Research
-- Reusable, affordable and biofriendl up to 80%
+- Reusable, affordable and biofriendly up to 80%
 - Low cost, simple use, acessible and cheap maintance
-- 10 kg payload
+- 5 kg payload
  
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator and teacher, project coordinator and aqua system assembly and control  
