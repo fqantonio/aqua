@@ -748,13 +748,17 @@ Decisions:
 - [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
 - [ ] data record
 
-| date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Capacity 1 | Capacity 2 | Operation (h) | Observations |
-|---|---|---|---|---|---|---|---|
-| november 2025 | 1.4	| 15.4 	| 1.2 | not really acurate (to be confirmed) ||||
-|  | 	| |  |  ||||
-|  | 	| |  |  ||||
-|  | 	| |  |  ||||
-|  | 	| |  |  ||||
+| date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
+|---|---|---|---|---|---|
+|| 	| | |  ||
+|  | 	| |  |  ||
+
+| Date| Batery % | Capacity (Start Charging) | Capacity 2 (End Charging) | Operation (h) | Observations |
+|---|---|---|---|---|---|
+| |  | 	|  	| |  |
+||  | 	| |  |  |
+||  | 	| |  |  |
+
 
 # Future tasks
 
