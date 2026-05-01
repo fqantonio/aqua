@@ -4,7 +4,7 @@
 
 ![](Photos/SYHO10cb_05257w-01.jpg)
 
-The southerly buster storm front rolling up the New South Wales South Coast, ahead of the first night at sea, after the start of the Rolex Sydney Hobart Yacht Race 2010, Australia. Photo © Carlo Borlenghi / Rolex. www.carloborlenghi.com. 
+*The southerly buster storm front rolling up the New South Wales South Coast, ahead of the first night at sea, after the start of the Rolex Sydney Hobart Yacht Race 2010, Australia. Photo © Carlo Borlenghi / Rolex. www.carloborlenghi.com.* 
 
 ## About AQUA
 
