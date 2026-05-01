@@ -89,9 +89,11 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-April 2026, GPS grid and RTL tested.
+April 2026, GPS grid and RTL tested with an amazing [ESTM](https://www.ipleiria.pt/estm/escola/quem-somos/estm/) student team.
 
-https://youtube.com/shorts/ug1nrqGwPGw
+![First team work](Photos/StateOfTheArt.png)
+
+[https://youtube.com/shorts/ug1nrqGwPGw](https://www.youtube.com/watch?v=cyJqywh_yzk)
 
 
 # SUPPORT
