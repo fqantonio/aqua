@@ -717,35 +717,33 @@ Aqua outdoors Tests
 - [x] ESTM goals: usefull? Usability? Easy to use? Advantages and drawbacks? Improvements? Team work? Learning, competence? Autonomy? Social Interaction? LCA?Collect videos for AI models?
 - [x] Problems with the GPS accuracy: try to use in CAN mode wiring: https://www.youtube.com/watch?v=L6gyeE3Q22A
 
+All tested, except, logs data and video captures. 
 
-All tested, except, logs data and video captures. Problems found:
+Problems found:
+1. The drain plugs aren't sealing properly: the port side float is still taking water inside.
 
-1. The drain plugs aren't sealing properly: the port side float is still taking on water.
-2. The laptop battery stops responding to Mission Planner (MP) requests once it drops to 60% battery capacity.
-3. The sensor structure is wobbling: we are currently assembling an alternative structure with aluminum fittings as a "Plan B." Henrique will later design a 3D-printed solution to minimize oscillations.
+![](Photos/AguaFlutuadorBombordo.jpeg)
+
+3. The laptop battery stops responding to Mission Planner (MP) requests once it drops to 60% battery capacity.
+4. The sensor structure is wobbling: we are currently assembling an alternative structure with aluminum fittings as a "Plan B." Henrique will later design a 3D-printed solution to minimize oscillations.
 
 Decisions:
-1. abandon Nicla Viusion
+1. abandon Nicla Vision
 2. Plane B for the sensors structure
 3. Seal the bujons on the port side
-4. By another battery for the computer
+4. Buy another battery for the computer
 
-# June
-- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
-- [ ] co-creation session
+April 27, first operation with students from ESTM school.
 
-# July
-- [ ] Teste fence;
-- [ ] Test with a payload of 5 and 10kg;
-- [ ] Autonomy with 10 Kg load;
-- [ ] Collect videos for AI models
-- [ ] Put the vynil logos
-- [ ] Record video with gopro;
-- [ ] Measure: see table below
-- [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
-- [ ] Tests radio and telemetry max distance;
-- [ ] Print with obliquo roller printer;
-- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
+![](Photos/controlMyriam.jpeg)
+
+![](Photos/equipa.jpeg)
+
+![](Photos/equipaMP.jpeg)
+
+
+# May
+
 - [ ] data record
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
@@ -758,6 +756,24 @@ Decisions:
 | |  | 	|  	| |  |
 ||  | 	| |  |  |
 ||  | 	| |  |  |
+
+# June
+- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
+- [ ] co-creation session with all the partners
+
+# July
+- [ ] Teste fence;
+- [ ] smart RTL;
+- [ ] Test with a payload of 5 and 10kg;
+- [ ] Autonomy with 10 Kg load;
+- [ ] Collect videos for AI models
+- [ ] Put the vynil logos
+- [ ] Record video with gopro;
+- [ ] Measure: see table below
+- [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
+- [ ] Tests radio and telemetry max distance;
+- [ ] Print with obliquo roller printer;
+- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
 
 
 # Future tasks
