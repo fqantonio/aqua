@@ -52,7 +52,7 @@ David Rodrigues, PhD, ESAD - IPLeiria, avoidance systems;
 Henrique Cristo, Physics Engineer student, IPLisboa;
 
 
-# We are here:
+# WE ARE HERE
 
 ```geojson
 {
@@ -93,7 +93,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 # PROJECT STATUS
 
-April 2026, GPS grid and RTL tested with an amazing [ESTM](https://www.ipleiria.pt/estm/escola/quem-somos/estm/) student team.
+April 2026, GPS grid and RTL tested with an amazing [ESTM](https://www.ipleiria.pt/estm/escola/quem-somos/estm/) student team. Designing V2. Testing, testing and testing.
 
 ![First team work](Photos/StateOfTheArt.png)
 
