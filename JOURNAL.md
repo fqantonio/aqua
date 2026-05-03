@@ -800,6 +800,7 @@ April 27, first operation with students from ESTM school.
 - [ ] Think about temperatures, humidity and water sensors inside each hull;
 - [ ] BMS that can disconnect the bateries from load by radio control;
 - [ ] herelink HD video: https://www.cubepilot.com/#/herelink/features
+- [ ] Acive radar antenna
 - [ ] AIS for boats: https://ardupilot.org/rover/docs/common-ais.html
 - [ ] Solar charging proceding and materials?!
 - [ ] Packaging
