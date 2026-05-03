@@ -104,6 +104,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 April 2026, GPS grid and RTL tested with an amazing [ESTM](https://www.ipleiria.pt/estm/escola/quem-somos/estm/) student team. Designing V2. Testing, testing and testing.
 
 ![First team work](Photos/controlMyriam.jpeg)
+Credits: Raul Bernardino, ESTM
 
 [https://youtube.com/shorts/ug1nrqGwPGw](https://www.youtube.com/watch?v=cyJqywh_yzk)
 
