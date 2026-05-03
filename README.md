@@ -13,6 +13,7 @@ AQUA is a small autonomous vessel designed for biowater research and aquatic eng
 The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** and **circular economy principles**, aiming to meet these standards by at least **70%**. The project also seeks to raise awareness about water and ocean systems, which is especially important since **Portugal's territory is 97% water**.
 
 ## MISSION
+
 The goal is to construct an DIY affordable and easily maintainable 1.2-meter catamaran from mostly sustainable materials. This vessel will be designed for a 10 kg payload capacity and at least 2 hours of autonomous operation. 
 
 A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
@@ -23,9 +24,9 @@ This approach ensures environmental friendliness from the initial conceptualizat
 
 ## TECHNICAL SPECIFICATIONS AND OPERATIONS
 
-The electronics consist of a **Pixhawk Pro** controller integrated with a **u-blox NEO-M8N GNSS module** and a **Flysky i6 8-channel radio transmitter**. Propulsion is provided by two **200W BlueRobotics T200 thrusters** configured in **differential thrust mode**. The system runs on **ArduBoat** firmware and is managed via **Mission Planner**.
+The electronics consist of a **Pixhawk Pro** controller integrated with a **u-blox NEO-M8N GNSS module** and a **Flysky i6 8-channel radio transmitter**. Propulsion is provided by two **200W BlueRobotics T200 thrusters** configured in **differential thrust mode**. The system runs on **ArduBoat** firmware and is managed via **Mission Planner**. Currently we use Ardupilot software community Mission Planner 1.3.83 and ArduRover version 4.6.2 on Pixwack.
 
-Lighting includes three navigation lights: white, port (red), and starboard (green). The vessel features a dedicated structure for video equipment and sensors, and has been successfully tested with a **5kg payload**.
+Lighting includes three normal navigation lights for vessels under 12 m and 6 m (we will read the updated legislation about USV operations): white, port (red), and starboard (green). The vessel features a dedicated structure for video equipment and sensors, and has been successfully tested with a **5kg payload**.
 
 It operates with GPS way points, radio control and its design to be a platform for research, with a battery life to last for 6 to 10 hours depending on the velocidity use: it's design for low speeds, 1 to 2 m/s (4 to 7 km/h)(2 to 4 knots).
 
@@ -43,10 +44,11 @@ This project is documented as a journal in the file with the name "journal".
 ![First Render of AQUA](Photos/aqua_render1.png)
 
 # FEATURES
+
 - A Simple Aquatic Robotics Platform for Training, Education, and Research
 - Reusable, affordable and biofriendly up to 80%
 - Low cost, simple use, acessible and cheap maintance
-- 5 kg payload
+- 5 kg payload (tested: we plan to test 10 kg)
  
 # TEAM
 António Gonçalves, Lab Aberto FAB LAB coordinator and teacher, project coordinator and aqua system assembly and control;  
