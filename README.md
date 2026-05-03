@@ -49,7 +49,7 @@ Nuno Gomes, teacher at ESAD - IPLEIRIA and Innovation Makers Labs, Designer Dire
 
 David Rodrigues, PhD, ESAD - IPLeiria, avoidance systems; 
 
-Henrique Cristo, Physics Engineer student, IPLisboa;
+Henrique Cristo, Physics Engineer student, IPLisboa, sensors structure;
 
 
 # WE ARE HERE
