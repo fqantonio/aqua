@@ -726,6 +726,7 @@ Problems found:
 
 3. The laptop battery stops responding to Mission Planner (MP) requests once it drops to 60% battery capacity.
 4. The sensor structure is wobbling: we are currently assembling an alternative structure with aluminum fittings as a "Plan B." Henrique will later design a 3D-printed solution to minimize oscillations.
+5. Nicla vision Battery doesn't charge and it's not robust to be used for intensive computacional vision;
 
 Decisions:
 1. abandon Nicla Vision
