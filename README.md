@@ -1,4 +1,4 @@
-# General view
+# GENERAL VIEW
 
 > Portugal is 97% water [^1]
 
@@ -6,13 +6,13 @@
 
 *The southerly buster storm front rolling up the New South Wales South Coast, ahead of the first night at sea, after the start of the Rolex Sydney Hobart Yacht Race 2010, Australia. Photo © Carlo Borlenghi / Rolex. www.carloborlenghi.com.* 
 
-## About AQUA
+## ABOUT AQUA
 
 AQUA is a small autonomous vessel designed for biowater research and aquatic engineering education. This project's core strategy is to consider environmental sustainability from start to finish. All stages, from fabrication to the end of life, should be environmentally friendly.
 
 The team's values are rooted in the **4R's (Reduce, Reuse, Recycle, Recover)** and **circular economy principles**, aiming to meet these standards by at least **70%**. The project also seeks to raise awareness about water and ocean systems, which is especially important since **Portugal's territory is 97% water**.
 
-## Mission
+## MISSION
 The goal is to construct an DIY affordable and easily maintainable 1.2-meter catamaran from mostly sustainable materials. This vessel will be designed for a 10 kg payload capacity and at least 2 hours of autonomous operation. 
 
 A crucial part of the design is making it a flexible platform for various research applications, with accessible mounting points for both internal and external sensors.
@@ -21,15 +21,21 @@ The goal is to provide the research community with a simple, easy-to-repair, and
 
 This approach ensures environmental friendliness from the initial conceptualization to the end of its service life. What should it be used for after that? Its components are designed for reuse.
 
-## Technical Specifications & Operation
+## TECHNICAL SPECIFICATIONS AND OPERATIONS
 
-The vessel will operate using manual control with a video display, GPS waypoints, and an autonomous collision avoidance system. It is designed to be **user-friendly**, built with affordable, readily available components, and simple to repair. The battery life is designed to last for two hours.
+The electronics consist of a **Pixhawk Pro** controller integrated with a **u-blox NEO-M8N GNSS module** and a **Flysky i6 8-channel radio transmitter**. Propulsion is provided by two **200W BlueRobotics T200 thrusters** configured in **differential thrust mode**. The system runs on **ArduBoat** firmware and is managed via **Mission Planner**.
 
-## Vessel Design & Function
+Lighting includes three navigation lights: white, port (red), and starboard (green). The vessel features a dedicated structure for video equipment and sensors, and has been successfully tested with a **5kg payload**.
+
+It operates with GPS way points, radio control and its design to be a platform for research, with a battery life to last for 6 to 10 hours depending on the velocidity use: it's design for low speeds, 1 to 2 m/s (4 to 7 km/h)(2 to 4 knots).
+
+In the future, the vessel will operate using manual control with a video display, GPS waypoints, and an autonomous collision avoidance system. It is designed to be **user-friendly**, built with affordable, readily available components, and simple to repair. 
+
+## VESSEL DESIGN & FUNCTION
 
 This **1.2-meter-long catamaran** is intended for use in calm, inland waters during good weather conditions with 50 cm waves. It is autonomous and carries a structure to transport sensors for gathering local physical and chemical data.
 
-## Vision and Impact
+## VISION AND IMPACT
 
 We believe this project aligns with a crucial strategy for Portugal: taking care of the sea by learning about it and defending it as a long-term asset. This initiative can serve as a major footprint for the nation's commitment to marine environmental stewardship.
 This project is documented as a journal in the file with the name "journal".
