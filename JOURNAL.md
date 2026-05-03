@@ -769,7 +769,7 @@ April 27, first operation with students from ESTM school.
 - [ ] Collect videos for AI models
 - [ ] Put the vynil logos
 - [ ] Record video with gopro;
-- [ ] Measure: see table below
+- [ ] Measure: see table above
 - [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
 - [ ] Tests radio and telemetry max distance;
 - [ ] Print with obliquo roller printer;
@@ -793,8 +793,13 @@ April 27, first operation with students from ESTM school.
 - [ ] What sensors?
 - [ ] Googles and gimball?
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
-- [ ] we should have an internal temperature sensor?
+- [ ] we should have an internal temperature sensor, for safety?
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
+- [ ] Ideal diodes for safety when using two bateries and capacitors: https://discuss.ardupilot.org/t/ideal-diodes-when-using-multiple-batteries/75487/62;
+- [ ] Think about temperatures, humidity and water sensors inside each hull;
+- [ ] BMS that can disconnect the bateries from load by radio control;
+- [ ] herelink HD video: https://www.cubepilot.com/#/herelink/features
+- [ ] AIS for boats: https://ardupilot.org/rover/docs/common-ais.html
 - [ ] Solar charging proceding and materials?!
 - [ ] Packaging
 - [ ] Financing
