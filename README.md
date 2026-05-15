@@ -103,7 +103,7 @@ After being tested, our aim is to share it with MARE in Peniche - Portugal (this
 
 April 2026, GPS grid and RTL tested with an amazing [ESTM](https://www.ipleiria.pt/estm/escola/quem-somos/estm/) student team. Designing V2. Testing, testing and testing.
 
-The work with teachers and students of ESTM was amazing. A big thank you to all of you! During this two days we discuss Computacional Visio, 3D printing design and operating AQUA.
+The work with teachers and students of ESTM was amazing. A big thank you to all of you! During this two days we discuss Computer Vision, 3D printing design and operating AQUA.
 
 ![Team work](Photos/11maio2026_9.jpeg)
 
