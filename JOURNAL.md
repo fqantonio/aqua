@@ -759,6 +759,8 @@ The work with teachers and students of ESTM was amazing. A big thank you to all 
 ![](Photos/11maio2026_8.jpeg)
 ![](Photos/11maio2026_9.jpeg)
 
+Credits: Sónia Cotrim, ESTM
+
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
 |---|---|---|---|---|---|
