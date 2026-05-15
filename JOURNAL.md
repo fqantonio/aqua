@@ -747,6 +747,19 @@ April 27, first operation with students from ESTM school.
 
 - [ ] data record
 
+The work with teachers and students of ESTM was amazing. A big thank you to all of you! During this two days we discuss Computacional Visio, 3D printing design and operating AQUA.
+
+![](Photos/11maio2026_1.jpeg)
+![](Photos/11maio2026_2.jpeg)
+![](Photos/11maio2026_3.jpeg)
+![](Photos/11maio2026_4.jpeg)
+![](Photos/11maio2026_5.jpeg)
+![](Photos/11maio2026_6.jpeg)
+![](Photos/11maio2026_7.jpeg)
+![](Photos/11maio2026_8.jpeg)
+![](Photos/11maio2026_9.jpeg)
+
+
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
 |---|---|---|---|---|---|
 || 	| | |  ||
