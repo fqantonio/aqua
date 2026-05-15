@@ -747,7 +747,7 @@ April 27, first operation with students from ESTM school.
 
 - [ ] data record
 
-The work with teachers and students of ESTM was amazing. A big thank you to all of you! During this two days we discuss Computacional Visio, 3D printing design and operating AQUA.
+The work with teachers and students of ESTM was amazing. A big thank you to all of you! During this two days we discuss Computacional Visio, 3D printing design and operating AQUA. They have the AQUA and a 3D printer to tackle two objectivs: get video data and design the sensor struture to secure the sensors box and severaldiferents sensors and capture net for the plancton and plastics data. 
 
 ![](Photos/11maio2026_1.jpeg)
 ![](Photos/11maio2026_2.jpeg)
@@ -761,6 +761,9 @@ The work with teachers and students of ESTM was amazing. A big thank you to all 
 
 Credits: Sónia Cotrim, ESTM
 
+We have strated the discussion of the design of V2 version with Nuno and Henrique. Rui, from FAB LAB Guarda is also in the team to produce the hull in his linear 3D printer.
+
+The next step is to make the co-creation moment with the ESTM students teachers and the AQUA team and partners, next June.
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
 |---|---|---|---|---|---|
@@ -784,13 +787,13 @@ Credits: Sónia Cotrim, ESTM
 - [ ] Autonomy with 10 Kg load;
 - [ ] Collect videos for AI models
 - [ ] Put the vynil logos
+- [ ] Test failsafe situations;
 - [ ] Record video with gopro;
 - [ ] Measure: see table above
 - [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
 - [ ] Tests radio and telemetry max distance;
 - [ ] Print with obliquo roller printer;
 - [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
-
 
 # Future tasks
 
