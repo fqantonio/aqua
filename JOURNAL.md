@@ -764,22 +764,16 @@ We have started the discussion of the design of V2 version with Nuno and Henriqu
 
 The next step is to make the co-creation moment with the ESTM students teachers and the AQUA team and partners, next June.
 
-At this stage, we assess the projet, comparing with the goals:
-
-Idea project summary: Sustainable Autonomous Catamaran (USV)
-
-Design and build a 1.2m autonomous catamaran with the following specifications:
-
+At this stage, we assess the projet, comparing with the goals of design and build a 1.2 m autonomous catamaran Sustainable Autonomous Catamaran (USV), with **80 %** completed. The table bellow show each detail goal.
+ 
 | Goal | State | % | Comments | 
 | ------------- | ------------- |------------- |------------- |
 | Capacity: Support a 10 kg payload.  | we´ve tested 5 kg | 50 % | |
-|  Endurance: Minimum 2-hour continuous operation. | It has 6 to 10 hours of autonomy with max velocity 3 m/s | 300 % ||
+|  Endurance: Minimum 2-hour continuous operation. | It has 6 to 10 hours of autonomy with max velocity 3 m/s | 300 % | |
 | Sustainability: Constructed with at least 70% sustainable materials, utilizing 3D printing techniques. | In this prototype we didn't reach this | 0% | |
-| Modularity: Designed for easy integration of internal and external sensors. | Almost there | 50 %||
-| Maintenance: Focused on cost-effective and simple repairability. | Complete | 100% ||
-| Lifecycle: Includes a planned strategy for after-service use (recycling or repurposing) with a conducted a Life Cycle Assessment (LCA) to ensure cost-effective repairability and a circular economy approach for after-service use. | not yet defined | 0% ||
-
-
+| Modularity: Designed for easy integration of internal and external sensors. | Almost there | 50 %| |
+| Maintenance: Focused on cost-effective and simple repairability. | Complete | 100% | |
+| Lifecycle: Includes a planned strategy for after-service use (recycling or repurposing) with a conducted a Life Cycle Assessment (LCA) to ensure cost-effective repairability and a circular economy approach for after-service use. | not yet defined | 0% | |
 
 | date |	Velocity (m/s) |	Voltage (V) |	Current (A) | Batery % | Observations |
 |---|---|---|---|---|---|
