@@ -812,6 +812,7 @@ At this stage, we assess the projet, comparing with the goals of design and buil
 * **Ando Junior, O. H., et al.** (2022). Experimental Validation of State of Charge Estimation and Lifecycle Analysis. *IEEE Latin America Transactions*, 20(12).
 * **Purandare, S., et al.** (2023). Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Systems. *SEAMS 2023*, 169-180.
 * check this article: services to recycle waste: https://all3dp.com/1/3d-print-recycling-services-guide/?utm_source=newsletter&utm_medium=email&omhide=true
+* Contactar esta empresa: https://www.jprior.pt/pt/contacts/ 
 
 - [ ] Review BOM costs;
 - [ ] Test guided mode: https://ardupilot.org/rover/docs/guided-mode.html
