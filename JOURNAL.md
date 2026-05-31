@@ -803,11 +803,11 @@ At this stage, we assess the projet, comparing with the goals of design and buil
 - [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
 - [ ] Tests radio and telemetry max distance;
 - [ ] Print with obliquo roller printer;
-- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
 
 # Future tasks
 
 - [ ] log data procedure;
+- [ ] Paint needed or why print in yellow? Filkemp certificate filament LCA
 - [ ] Life Cycle Assessment (LCA), including the manufacturing of electronics, wiring and yellow filament production? after service, what should it be used for? ### **Sustainability & Lifecycle**
 * **Ando Junior, O. H., et al.** (2022). Experimental Validation of State of Charge Estimation and Lifecycle Analysis. *IEEE Latin America Transactions*, 20(12).
 * **Purandare, S., et al.** (2023). Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Systems. *SEAMS 2023*, 169-180.
@@ -821,13 +821,11 @@ At this stage, we assess the projet, comparing with the goals of design and buil
 - [ ] Discuss professional faires;
 - [ ] removable protections for corners, bow and stern: how!?!?;
 - [ ] Use the radio receptor with 10 CH, with VRA and VRB Flysky Radio
-- [ ] What sensors?
+- [ ] What sensors? Think about temperatures, humidity and water sensors inside each hull: we should have an internal temperature sensor, for safety?;
 - [ ] Googles and gimball?
 - [ ] Plan a test in a testing pull and mechanical resistance laboratory testing?
-- [ ] we should have an internal temperature sensor, for safety?
 - [ ] NEXT project phase: decide how to make the avoidance system, by camera using the human control or autonomously by pattern detecting: perhaps both?
 - [ ] Ideal diodes for safety when using two bateries and capacitors: https://discuss.ardupilot.org/t/ideal-diodes-when-using-multiple-batteries/75487/62;
-- [ ] Think about temperatures, humidity and water sensors inside each hull;
 - [ ] BMS that can disconnect the bateries from load by radio control;
 - [ ] herelink HD video: https://www.cubepilot.com/#/herelink/features
 - [ ] Acive radar antenna
