@@ -790,6 +790,19 @@ At this stage, we assess the projet, comparing with the goals of design and buil
 - [ ] Discuss and prepare comunication and marketing project presentation for investors support;
 - [ ] co-creation session with all the partners
 
+This test was a huge frustration!
+We have a temperature problem.
+It all started well,
+but when we are in the final process of arming the AQUA via software, there is an indication of only 12V and constantly dropping—even the computer was struggling.
+Until everything lost voltage... it never worked again.
+It's 4 PM and the temperature is around 40ºC.
+The next day, at the Lab Center, everything started working normally, except for one of the batteries which has a faulty cell.
+I haven't disassembled it yet, now only after the 2026 bootcamp.
+At that time, I will also add some vents and a fan to circulate the air inside the AQUA.
+I had already suspected it, because it feels stuffy and hot inside... now it's confirmed.
+This result is a problem for the V2, because to keep it airtight, we need to install piping for water to flow through with a small pump, and have a fan inside the AQUA V2 to allow cooled air to circulate.
+Either way, we will need to discuss this.
+
 # July
 - [ ] Teste fence;
 - [ ] smart RTL;
