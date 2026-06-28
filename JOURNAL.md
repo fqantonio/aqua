@@ -787,13 +787,10 @@ At this stage, we assess the projet, comparing with the goals of design and buil
 ||  | 	| |  |  |
 
 # June
-- [ ] Discuss and prepare comunication and marketing project presentation for investors support;
-- [ ] co-creation session with all the partners
 
 This test was a huge frustration!
-We have a temperature problem.
-It all started well,
-but when we are in the final process of arming the AQUA via software, there is an indication of only 12V and constantly dropping—even the computer was struggling.
+We have a temperature problem inside the hulls.
+It all started well, but when we are in the final process of arming the AQUA via software, there is an indication of only 12V and constantly dropping—even the computer was struggling.
 Until everything lost voltage... it never worked again.
 It's 4 PM and the temperature is around 40ºC.
 The next day, at the Lab Center, everything started working normally, except for one of the batteries which has a faulty cell.
@@ -804,16 +801,22 @@ This result is a problem for the V2, because to keep it airtight, we need to ins
 Either way, we will need to discuss this.
 
 # July
+- [ ] Print and assemble a system that force air flow inside the hulls controlled by radio;
+- [ ] Can I measure and see the microcontroller inside temperature on MP?
+- [ ] Put the vynil logos
+
+
+# September
 - [ ] Teste fence;
 - [ ] smart RTL;
 - [ ] Test with a payload of 5 and 10kg;
 - [ ] Autonomy with 10 Kg load;
 - [ ] Collect videos for AI models
-- [ ] Put the vynil logos
 - [ ] Test failsafe situations;
 - [ ] Record video with gopro;
 - [ ] Measure: see table above
 - [ ] Test Failsafe mode!? Radio loss or battery fail: https://ardupilot.org/rover/docs/rover-failsafes.html; Test RTL: Setup -> Mandatory Hardware -> Failsafe: turn off radio and see!?!?
+- [ ] Discuss fail safe situations where the boat can continue without connecte to the radio
 - [ ] Tests radio and telemetry max distance;
 - [ ] Print with obliquo roller printer;
 
