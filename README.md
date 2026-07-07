@@ -47,7 +47,7 @@ This project is documented as a journal in the file with the name "journal".
 
 - A Simple Aquatic Robotics Platform for Training, Education, and Research
 - Reusable, affordable and biofriendly up to 80%
-- Low cost, simple use, acessible and cheap maintance
+- Low cost, simple use, acessible and cheap maintenance
 - 5 kg payload (tested: we plan to test 10 kg)
  
 # TEAM
