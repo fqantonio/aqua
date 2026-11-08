@@ -22,7 +22,7 @@ Operating at At 1 to 2 m/s velocities (3.6 to 7.2 km/h), current is around 1 to 
 
 For these low currents, between 1 to 2 A, with a voltage range between 14 and 16, the PWM is 1360. At this PWM, the thrust is arroun 0.55 to 0.55 Kgf: each motor exerts 500 g, so both, 1 kg; the motors effeciency is really high: from 30.2 to 33.5 g/W (this means that, for each watt of power, we can push 33.5 g: so, if we have 30 W, we get around 1 kg of thrust).
 
-Now, for the autonomy, we go with the max current for both thrusters, 2A, at 2 m/s of max velocity. Since we have 20 Ah, this means that, at a constant current of 2 A we have 10 hours of autonomy.
+Now, for the autonomy, we go with the max current for both thrusters, 2A, at 2 m/s of max velocity. Since we have 20 Ah, this means that, at a constant current of 2 A we have 10 hours of autonomy (6h for a conservative perspective and you have a lot of turns in the path).
 
 This are the theoretical values, lets measure it, and confirme the results listed here:
 
